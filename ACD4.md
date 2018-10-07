@@ -4,7 +4,7 @@
 ---
 
 <blockquote>
-<p>Généré depuis <a href="https://stackedit.io/">StackEdit</a>. Si ce fichier est un gist, vous êtes en train de lire un backup du document original, qui est accessible <a href="https://frama.link/aden-iutsd">ici</a> (avec de belles formules à la place des entrées Latex).</p>
+<p>Généré depuis <a href="https://stackedit.io/">StackEdit</a>. Si ce fichier est sur GitHub, vous êtes en train de lire un backup du document original, qui est accessible <a href="https://frama.link/aden-iutsd">ici</a> (avec de belles formules à la place des entrées Latex).</p>
 <p>Une authentification est demandée.</p>
 <blockquote>
 <p>Compte lecture seule :<br>
