@@ -81,7 +81,7 @@ Drupal 7 gère les sessions en base de données.
 
 ```php
 function _drupal_session_open() {
-	return TRUE.
+	return TRUE;
 }
 ```
 > La base de données est déjà préparée.
@@ -104,7 +104,7 @@ function _drupal_session_read($sid) {
 	///
 	$user = db_query("SELECT u.*, s.* FROM {users} u INNER JOIN {sessions} s ON u.uid = s.uid WHERE s.sid = :sid", array(':sid' => $sid))->fetchObject();
 	///
-	return $user->session;.
+	return $user->session;
 }
 ```
 ## write
@@ -116,7 +116,7 @@ function _drupal_session_write($sid, $value) {
 	$fields = array(
 		'uid' => $user->uid,
 		'cache' => isset($user->cache) ? $user->cache : 0,
-		'hostname' => ip_address();
+		'hostname' => ip_address(),
 		'session' => $value,
 		'timestamp' => REQUEST_TIME,
 	);
