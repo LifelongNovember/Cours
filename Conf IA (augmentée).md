@@ -6,7 +6,7 @@ On préfère parler d'intelligence augmentée. Une machine n'est pas encore capa
 
 ## Intelligence artificielle
 
-> Ensemble des théories des techniques développant des programmes informatiques complexes capables de simuler certains traits de l'interlligence humaine.
+> Ensemble des théories et des techniques développant des programmes informatiques complexes capables de simuler certains traits de l’intelligence humaine.
 
 > /* the end of code */
 > Sur les 50 / 80 dernières années, l'ère de la programmation s'est développée : des spécifications étaient décrites dans un CDC, puis implémentées par un service informatique.
@@ -39,7 +39,7 @@ La machine s'est entraînée elle-même pendant 37 jours puis a battu le 3ème p
 > > Similarité avec les réseaux de neurones et de synapses...
 > > Vision, reconnaissance des images et des sons...
 > 
-> Chaque couche du réseau de neurones va être capable de détecter de l'information. Au fil des couches, l'information est décrite de plus en plus précisément.
+> Chaque couche du réseau va être capable de détecter de l'information. Au fil des couches, l'information est décrite de plus en plus précisément.
 > > Capacité de sous-titrer une image en fonction de ce qu'elle représente, de décrire pourquoi il l'interprète de cette façon et comment il l'a compris, de répondre à des questions au sujet de l'image.
 
 ## Approches d'apprentissage
@@ -47,7 +47,7 @@ La machine s'est entraînée elle-même pendant 37 jours puis a battu le 3ème p
 * Apprentissage supervisé : travail sur la donnée (labellisation de la donnée) afin d'informer la solution d'intelligence artificielle.
 ⇒ Lié à une tâche
  * Apprentissage non-supervisé : travail à partir d'un lot de données brutes non-labellisées.
-Vrai challenge pour les entreprises (pléthore de données mais peu de moyens de les traitées)
+Vrai challenge pour les entreprises (pléthore de données mais peu de moyens de les traiter)
 ⇒ Lié aux données
  * Apprentissage par renforcement : essai/erreur, basé sur du feedback / des récompenses.
 IA Fifa 2018 : lucarne parfaite au bout de 1000 essais
@@ -68,8 +68,8 @@ L'IA imprègne tous les secteurs d'activité. (Crédit Mutuel : "100% des métie
 ⇒ Agriculture : détection des plantations avec données GPS, taux d'humidité, localisation & dispersion des maladies...
 ⇒ Assistance sur des chantiers (pour un couvreur, calcul de la surface à remplacer), calcul du coût de réparation sur une voiture à partir d'une photo...
 
-Ere d'internet : besoin d'un programme ⇒ fournir un schéma, un prototype
-Ere de l'IA : besoin de réponses ⇒ fournir un bon jeu de données afin de créer une IA fiable
+Ère d'internet : besoin d'un programme ⇒ fournir un schéma, un prototype
+Ère de l'IA : besoin de réponses ⇒ fournir un bon jeu de données afin de créer une IA fiable
 
 ## Demain
 
@@ -94,10 +94,10 @@ IBM recrute : stages@fr.ibm.com
 
 > **Vincent Perrin** - Watson AI Technical Leader, IBM Watson *@vperrin*
 > **Armelle Brun** - Enseignante chercheuse sur l'IA, LORIA Nancy
-> **José Levices** - Dirigeant société App Mobile, Saint-Marguerite
+> **José Levices** - Dirigeant société App Mobile, Sainte-Marguerite
 
 > ## Peut-on se perfectionner au moyen de l'IA ?
-> > Chaque action d'un service informatique sur Internet est stockée. Dans l'éducation, on travaille énormément sur des services en ligne. Ces informations sont collectées par l'IA pour comprendre l'étudiant (personnalité, forces/faiblesses) et émettre des suggestions afin qu'il puisse s'améliorer, en préservant leur vie privée.
+> > Chaque action d'un service informatique sur Internet est stockée. Dans l'éducation, on travaille énormément sur des services en ligne. Ces informations sont collectées par l'IA pour comprendre l'étudiant (personnalité, forces/faiblesses) et émettre des suggestions afin qu'il puisse s'améliorer, en préservant sa vie privée.
 > > Les IA ne remplacent pas les enseignants mais les assistent. 
 > > Il existe beaucoup de défis liés à l'enseignement dans les concepts d'IA
 
@@ -122,10 +122,10 @@ IBM recrute : stages@fr.ibm.com
 > > Différence entre une machine basique (frigo...) et un ordinateur. Ce dernier fonctionne en couches. Les installations demandent énormément de suivi (gestion électrique, refroidissement...). Ces complications impliquent la nécessite de trouver des solutions plus simples et plus fonctionnelles.
 
 > ## En apprenant d'un être humain, n'est-on pas amené à trop le simplifier ?
-> > C'est effectivement une problématique qui est surveillée. On cherche à satisfaire la personne tout en la considérant toujours comme complexe et unique et donc en continuant à l'explorer. Un élément intéressant est d'expliquer au client pourquoi le produit est intéressant pour lui.
+> > C'est effectivement une problématique qui est surveillée. On cherche à satisfaire la personne tout en la considérant toujours comme complexe et unique et donc en continuant à l'explorer. Un élément intéressant est d'expliquer au client pourquoi le produit est avantageux pour lui.
 
 > ## Aide à la décision : ne doit-ont pas avoir peur d'être manipulé par l'IA à son insu ?
-> > La RGPD impose au système d'être transparent, ils est nécessaire d'indiquer le processus qui mènent à l'assistance fournie. Dans une démarche "humaine", les biais existent également. Ici, ils sont plus explicites. Une démarche critique reste nécessaire quelle que soit la situation.
+> > Le RGPD impose au système d'être transparent, ils est nécessaire d'indiquer les processus qui mènent à l'assistance fournie. Dans une démarche "humaine", les biais existent également. Ici, ils sont plus explicites. Une démarche critique reste nécessaire quelle que soit la situation.
 > >
 > ### Le RGPD ne constitue pas vraiment une contrainte menaçante pour les grandes sociétés du numérique.
 > > Le RGPD peut aussi se manifester comme un challenge : qu'est-ce que je collecte et pourquoi ?
