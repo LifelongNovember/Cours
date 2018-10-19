@@ -101,6 +101,305 @@ Les activités à faible valeur ajoutée sont déléguées. On ne conserve en in
 
 > Vidéo : **qualités & compétences** | **variété des missions** | **inconvénients & contraintes** des métiers de l'informatique
 
+> Vidéo : Développeur - **champs d'intervention** | **autonomie** | **formation**
+
+Par fonctions :
+
+### Conception informatique
+
+* Analyse 
+* Programmation 
+* Gestion BDD 
+* Contrôle qualité
+
+D4 : évolutions fonctionnelles (spécifications) d'après les besoins utilisateur
+transmis au service exploitation qui se charge de la mise en oeuvre opérationnelle du nouveau service.
+
+Métiers de la fonction conception : chef de projet, développeur, gestionnaire de BDD, responsable des études.
+
+### Exploitation informatique
+
+Gestion des applications informatiques au quotidien :
+ * Sécurité (lorsqu'un service sécurité lui-même ne le gère pas)
+ * Exploitation : mises à jour, sauvegardes, reprises
+ * Administration des composants matériels : serveurs, réseau
+ * Suivi et optimisation des performances : réduction des temps de traitement, disponibilité des applications
+ * Mise en exploitation des applications
+
+Métiers : paramétrage (ERP, ...), pilote d'exploitation, analyste système, administrateur BDD.
+
+### Maintenance
+
+#### Maintenance correctrice
+
+⇒ Corriger les programmes source.
+
+#### Maintenance évolutive
+
+⇒ Adjoindre des fonctionnalités complémentaires (évolutions complémentaires : passage à l'euro, an 2000...)
+
+---
+
+La maintenance des systèmes et des réseaux a pour but d'assurer la continuité de l'informatique :
+ * infrastructures (physique)
+ * systèmes d'exploitation
+
+Métiers : technicien de maintenance, ingénieur de maintenance réseau.
+
+### Sécurité informatique
+
+Suivi des procédures d'accès physiques et logiques aux données. Elle est essentielle pour la protection des données de l'entreprise.
+
+Schéma directeur de la sécurité : procédures de contrôle d'accès aux données informatisées
+
+Elle est assurée par :
+ * un service indépendant assurant la sécurité de l'ensemble de l'entreprise (service sécurité : incendie, électrique...),
+ * le service exploitation informatique qui assure uniquement la sécurité du SI.
+
+Métiers : testeur, expert
+
+### Recherche & Développement
+
+Les services informatiques entrent dans les offres produits de la structure (fonction métier).
+
+Métiers : chargé de recherche, ingénieur.
+
+### Production
+
+Rattachée directement au produit distribué.
+
+Métier : ingénieur de fabrication
+
+#### Bureau d'études 
+
+Définition des procédés de fabrication, de contrôle, planification des procédés de production
+
+Métiers : ingénieur qualité, ingénieur mesures & analyses
+
+#### Logistique & transport
+
+Gestion des flux de matières et de produits (achat, approvisionnement, distribution).
+
+Métiers : acheteur industriel, acheteur distribution
+
+#### Maintenance
+
+Entretien, fonctionnement matériel, sécurité, respect des normes.
+
+Métiers : ingénieur entretien/maintenance
+
+### Commerciale
+
+Rattachée à la DG.
+Stratégie de développement ⇒ Vente du produit
+⇒ Aussi bien service marketing, qu'à la vente, export, après-vente...
+
+Métiers : chargé d'affaire, technico-commercial, chef de produit.
+
+### Information / Communication
+
+Image interne et externe de l'entreprise (aspects techniques & commerciaux)
+
+Métiers : webmaster, infographiste, gestionnaire de documentation, archiviste.
+
+### Gestion administrative, financière et comptable
+
+Activités administratives de la structure, obligations légales, gestion des flux
+
+Métiers : responsable des services généraux, assistant de direction, contrôleur de gestion
+
+### RH
+
+Recrutement, gestion des carrières, formation
+
+Métiers : responsable RH, responsable recrutement.
+
+## Conduite du changement
+
+> Vidéo - DSI, moteur du changement dans l'entreprise
+> Nouvelles missions de la DSI : technologique / managérial / stratégique | Big Data
+> Moteur du changement et de l'innovation de l'entreprise.
+> 
+> Les technologies, mais aussi les stratégies managériales sont amenées à changer au cours du temps (essor de l'IA, nouvelles interactions homme/machine) et la DSI est au cœur de ces changements. Elle doit être un précurseur au sein de l'entreprise afin de garantir que la structure est bien située dans son temps et utilise les techniques les plus actuelles. C'est la DSI qui doit analyser les besoins et accompagner le changement.
+
+### Les problèmes que rencontrent les SI
+
+#### Conception
+
+... dans le cas où elle n'inclut pas les objectifs stratégiques de l'entreprise (ou les besoins des utilisateurs).
+... si elle échoue à améliorer la performance de l'entreprise
+... si elle mène à un système qui ne réussit pas à transmettre l'information correctement.
+
+#### Données
+
+... qui peuvent être erronées, incomplètes, incompréhensibles ou inutilisables.
+
+#### Coûts
+
+Le système peut être trop coûteux pour que l'on mène son développement à terme.
+Même si un système fonctionne bien, ses coûts d'implantation et d'exploitation peuvent dépasser le budget prévu.
+Dans ces deux cas, la valeur de l'information fournie ne justifie pas les dépenses.
+
+#### Exploitation
+
+Le système ne fonctionne simplement pas, l'information n'est pas livrée en temps utile (pannes, mises à jour, dysfonctionnements)
+
+#### Implantation
+
+⇒ Elle désigne toutes les activités organisationnelles visant l'adoption... CF Diapo
+
+#####  Utilisateur
+La participation étroite de l'utilisateur à la conception du SI permet d'intégrer ses priorités et ses besoins pour lui assurer l'appropriation du produit fini. Il acceptera le système plus facilement s'il a été associé à sa conception. L'absence de dialogue entre les utilisateurs et les concepteurs peut écarter les utilisateurs du processus d'implantation et produire un système qui répondra moins bien aux besoins.
+
+##### Direction
+
+Un projet SI doit être appuyé par la direction et les échelons intermédiaires pour être considéré de façon positive par les concepteurs et les utilisateurs
+
+L'appui de la direction assure l'obtention des fonds et des ressources nécessaires au projet. Il conditionne la mise en application effective des changements entraînés par le nouveau SI sur les plans des habitudes, des méthodes de travail et du personnel.
+
+La direction doit donner des signes tangibles et réguliers de sa volonté en s'investissant dans le projet. Elle doit s'employer à convaincre les acteurs clé / les relais dans les équipes.
+
+##### Niveaux de complexité
+
+Le niveau de risque d'un projet est déterminé par son envergure (coûts, délais, ...) et le niveau d'expérience du personnel DSI et de l'équipe projet.
+
+##### Gestion de l'implantation
+
+Un projet mal géré mène à des problèmes de coûts, le dépassement des délais, ou à un produit de mauvaise qualité.
+
+On suppose généralement que le projet sera bien géré en ignorant les difficultés concrètes. Les estimations mois-personne sont également souvent biaisées de par les nouveaux coûts délais qu'impliquent le recrutement. Les retards sont souvent reportés eux-même tardivement (dans l'idée qu'ils seront peut-être rattrapés).
+
+### Résistance au changement
+
+⇒ Résultat des manifestations observables, actives ou passives, individuelles ou collectives, qui entravent le processus du changement. 
+Elle est souvent présentée comme le facteur explicatif de l'échec de nombreux systèmes d'information.
+
+Il est nécessaire de prendre la mesure des enjeux humains et sociaux.
+
+#### Sources des résistances
+
+ * Perte d'identité et d'autonomie,
+ * Perte de pouvoir,
+ * Perte de compétence.
+
+La résistance peut être liée au système lui-même (bugs, lenteurs, fonctions inadaptées, infos manquantes), aux acteurs (age, expérience, formation), à l'organisation (modification des processus, des manières de faire, du contrôle des acteurs...) ou au style de management (autorité, leadership, ...).
+
+⇒ Globalisation, amalgame, préjugé
+⇒ Passivité, évitement, silence, découragement
+⇒ Attente de preuves
+⇒ Procrastination
+⇒ Conflit, tension, obsession de l'adversité
+⇒ Critique, dédain, désignation des coupables
+⇒ Utilisation des solutions antérieures clandestinement
+⇒ Baisses de productivité
+⇒ Absentéisme, départs
+
+### Conduite effective du changement
+
+⇒ Pratique managériale pour accompagner des projets informatiques ou organisationnels (arrivés dans les années 90 avec les projets ERP ou les fusions d'entreprises). Elle va de la gestion de projet à des approches psychologiques.
+
+#### Objectifs
+
+ * Accompagner les utilisateurs, 
+ * Intégrer des facteurs de réussite technique, organisationnelle, humaine et sociale,
+ * Faciliter l'exploitation du produit.
+
+#### Lieux communs
+
+* Identification des leaders / relais,
+* Appropriation par l'organisation et par les acteurs,
+* Mise en oeuvre de moyens spécifiques (formateurs, documentation, ...),
+* Cadence, planification (la gestion du changement est amorcée dès le début du projet).
+
+### Organisation de l'accompagnement du changement
+
+#### Stratégie d'accompagnement
+
+##### Analyse du contexte
+
+ * Nombre d'utilisateurs impactés,
+ * Dispersion géographique des sites et des utilisateurs,
+ * Taille des services,
+ * Période de démarrage,
+ * Contraintes de ressources,
+ * Implication des sponsors (direction).
+
+##### Impacts sur le SI
+
+ * Processus,
+ * Organisation,
+ * Compétences,
+ * Infrastructure technique.
+
+##### Risques
+
+* Délais,
+* Ressources,
+* Contrainte utilisateur,
+* Événements extérieurs,
+* Technologies.
+
+##### Définition du plan d'action
+
+Il a vocation à
+ * identifier les agents du changement (équipe projet, réseau de correspondants dans les services),
+ * identifier les sponsors,
+ * sécuriser le démarrage (calendrier, moyens, technique...),
+ * prendre en compte les besoins d'accompagnement des différents publics.
+
+Il repose sur la définition
+ * des cibles,
+ * des actions à mettre en œuvre en terme de communication, de formation, d'assistance...
+ * des vecteurs de mise en œuvre (plan de formation, forum, outils...),
+ * d'un calendrier et de modalités de suivi.
+
+#### Plan de communication
+
+Il vise à susciter l'acceptation du projet, la mobilisation / l'implication des acteurs, l'appropriation par les décideurs et les utilisateurs.
+
+⇒ Définition de la stratégie de communication,
+⇒ Définition du plan de communication,
+⇒ Mise en œuvre d'actions de communication,
+⇒ Mesure de l'efficacité de la communication.
+
+ * Quelles cibles ? Population impactées directement (utilisateurs) ou indirectement (partenaires extérieurs...) par le SI,
+ * Grouper les cibles par nature ou par ampleur d'impact,
+ * Analyser les risques :
+	 * Risques objectifs (compétences à acquérir, ...),
+	 * Risques perçus (contrôle des individus, ...).
+ * Messages
+	 * ciblés par population,
+	 * mobilisateurs pour les décideurs : quels enjeux ?
+	 * rassurants pour l'utilisateur : liste des avantage de l'application,
+	 * informatif et motivant pour l'équipe projet et le réseau de correspondants
+ * Moyens de communication
+	 * Vecteurs existants : intranet, notes de service, messagerie, forum....
+	 * Choix de la périodicité, de l'émetteur, de la charte graphique,
+	 * Choix des acteurs (équipe projet, spécialistes, service communication, responsables, correspondants).
+ * Planning
+	 * Événements structurants : début du projet, pendant le développement, déploiement, installation de nouveaux modules.
+	 * Éviter d'attendre le déploiement pour communiquer et de sur-informer au début, puis d'interrompre la communication.
+
+Le plan de communication est soumis au comité de pilotage :
+ * Mise en place d'un comité de rédaction,
+ * Coordination des acteurs,
+ * Développement des supports,
+ * Mise en œuvre du plan.
+
+Indicateurs d'efficacité : retours d'information (réunions, rapports...) + mesures de la communication (enquêtes, statistiques...).
+
+#### Plan de formation
+
+⇒ Déterminer une stratégie de formation appropriée aux utilisateurs en fonction de l'organisation des services et des modalités de démarrage.
+⇒ Nature des formations (contenu, durée, contrôle)
+⇒ Modalités de dispense (planning, moyens)
+
+* Définition du profil des personnes à former,
+* Définition des cursus de formation,
+* Conception et adaptation des supports, tests,
+* Planification des formations, formation des formateurs,
+* Formation des utilisateurs.
+
 # TP
 
 ## Processus & ERP
@@ -182,7 +481,7 @@ Génération des factures, gestion du suivi des clients, des contacts, des remis
 
 ### IV – RH – Employés
 
-> #### En quoi cet ERP utilise-t-elle la GED ?
+> #### En quoi cet ERP utilise-t-il la GED ?
 
 Instruments de numérisation et d'archivage de documents papier (pièces d'identité, certificats médicaux, etc) utiles au module RH.
 
