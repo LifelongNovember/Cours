@@ -317,6 +317,19 @@ Obligation de l'acheteur :
 La loi est appliquée en fonction du lieu de résidence de l'acheteur.
 Tribunal compétent (TI/TGI) : lieu du domicile du demandeur
 
+# Responsabilité des acteurs sur Internet
+
+* Pays d'origine : protection selon la législation en vigeur dans le pays d'origine de l'acteur.
+* Responsabilité
+  * Fournisseurs de contenu : personnes physiques ou morales 
+  * Prestataire techniques : hébergeurs, FAI.
+
+2004 : Loi pour la Confiance dans l'Economie Numérique
+
+⇒ Un fournisseur de contenu est responsable de son contenu. L'hébergeur a une obligation de contrôle ponctuel (lorsqu'il a connaissance du contenu illicite) et de suppression.
+
+⇒ FAI : principe d'irresponsabilité
+
 # TD
 
 ## GAFA
@@ -349,6 +362,22 @@ Droits littéraires / artistiques / intellectuels : œuvres + brevets industriel
 ## Droit d'auteur
 
 Moral + Patrimonial
+
+## Contrats
+
+> ### Appréciez la validité du processus de l'article 3 des conditions générales de vente et modifiez cet article si nécessaire
+
+> **Article 3 - Commande**
+> Le client clique sur « commander », sélectionne le ou les produits qui l'intéresse(nt), précise la quantité souhaité, saisit ses coordonnées, le mode de livraison ainsi que le mode de paiement. Il lui est ensuite demandé de prendre connaissance des présentes conditions générales de vente, de vérifier, puis de valider sa commande ainsi que les délais de livraison qui s'appliquent.
+> Dès la prise en compte de sa commande, le client reçoit un courriel récapitulatif de son achat.
+
+> ### La demande de rétractation est-elle légale ?
+
+Le client exprime sa demande de rétractation 3 jours après l'achat du produit, soit dans un délai raisonnable selon la loi du 17 mars 2014. Sa demande est donc légale.
+
+> ### Si ce client décide de garder la couveuse et qu'il subit un dommage du fait de la défectuosité de la couveuse NX 22, peut-il obtenir réparation ?
+
+Le client a commandé le produit avant d'avoir l'information quant à la défectuosité du produit. Le consentement du client lors de l'achat du produit peut donc avoir été altéré par l'omission de cette information dans le détail de la vente. Il peut donc faire valoir cet argument pour obtenir réparation.
 
 # TP
 
