@@ -261,6 +261,62 @@ Droit des personnes :
 
 ⇒ Frontières vie privée / vie professionnelle.
 
+# Contrats
+
+## Conditions
+
+Pour être valablement formé, un contrat doit respecter des conditions :
+
+ * Consentement
+ * Capacité juridique (majorité, etc)
+ * Objet licite (interdiction d'acheter des armes, etc)
+ * Cause licite (permis de port d'arme, etc)
+
+**Consentement** : verbal ou écrit, certains contrats doivent obligatoirement être écrits.
+⇒ Libre (pas de pressions morales / physiques) & éclairé (dans les cas d'erreur ou de dol (tromperie frauduleuse))
+
+**Capacité juridique** : titulaire de droits + en capacité d'exercer ses droits.
+
+**Cause & objet** : 
+ - Objet : chose que le contractant s'engage à faire (ou à ne pas faire, ou à donner).
+ - Cause : but poursuivi par le contractant
+ - Prix : obligatoire dans les contrats de consommation (achat/vente)
+
+## Contrat électronique
+
+Loi 2004 : le contrat a même force probante, peu importe s'il est papier ou électronique.
+
+**Signature électronique** : Identifiant + case à cocher (conditions générales)
+
+Les contrats qui engagent quelqu'un dans l'avenir de façon importante (prêts, etc) doivent être conclus par format papier.
+
+Pour les contrats excédant 120€, la trace du contrat signé doit être conservée par le vendeur pendant 10 ans.
+
+Étapes de formation du contrat électronique :
+ * Obliger le contractant à prendre connaissance des conditions générales.
+ * Vérification de la commande (dans le cas d'une vente).
+ * Confirmation de la commande (idem).
+
+Délai de rétractation de 14 jours pour l'internaute.
+
+Contrat en ligne conclu par échange de mail :
+ * L'acheteur doit avoir à sa disposition un récapitulatif de la commande qu'il peut vérifier, modifier en cas d'erreur et accepter.
+ * Le vendeur doit également fournir un accusé de réception de la commande.
+ * L'offre doit rester valide pendant une certaine durée (prix au moment de la commande).
+
+Obligations du commerçant : 
+ * Résultat : le produit doit être livré conformément et en temps et en heure indiqués lors de la commande.
+ * Délai maxi : 30 jours (sauf force majeure)
+
+Obligation de l'acheteur :
+ * Prendre la livraison, respecter la procédure de renvoi si elle est nécessaire.
+ * Payer le prix conclu.
+
+## Application du droit
+
+La loi est appliquée en fonction du lieu de résidence de l'acheteur.
+Tribunal compétent (TI/TGI) : lieu du domicile du demandeur
+
 # TD
 
 ## GAFA
@@ -293,4 +349,66 @@ Droits littéraires / artistiques / intellectuels : œuvres + brevets industriel
 ## Droit d'auteur
 
 Moral + Patrimonial
+
+# TP
+
+## Traitement des données et limites de leur exploitation
+
+> ### Quels sont les risques pour les entreprises de se voir voler les données personnelles de leurs clients ?
+
+Une structure présentant une faille dans la gestion des données personnelles de ses clients (et donc sujette au vol de ces données) est vulnérable sur plusieurs aspects.
+ * du point de vue de la loi, la structure est tenue de garantir la sécurité des données stockées (modification du 15 juillet 2004). Elle risque des poursuites si cette sécurité n'est pas assumée,
+ * du point de vue de ses clients, la structure expose sa mauvaise gestion de données sensibles auprès de leurs propriétaires, qui pourront plus aisément avoir le réflexe de ne plus lui confier leurs données,
+ * du point de vue de ceux qui exploitent cette faille, la structure devient ensuite une cible potentielle à laquelle on peut réclamer une rançon.
+
+Le risque que prend une structure qui ne protège pas les données de ses clients avec assez de précautions est donc économique, mais il entraîne également des conséquences légales et stratégiques qu'elle ne doit pas négliger.
+
+> ### Est-ce à l'entreprise de prendre des précautions, ou aux clients ?
+
+Depuis les modificiations du 15 juillet 2004 apportées à la loi du 6 janvier 1978, la structure est tenue de garantir la bonne sécurité des données qu'elle collecte, traite, et/ou conserve. C'est donc à elle de prendre les mesures de précaution.
+
+> ### Quelles sont les recommandations de la CNIL en matière de gestion des risques ?
+
+La CNIL propose un guide listant quelques précautions à mettre en oeuvre pour garantir la sécurité des données qu'elle a collectées. Ces précautions consistent à établir une liste des traitements opérés sur les données et de déterminer pour chacun de ces traitements les risques engendrés.
+
+> ### En vous aidant de l'article sur l'usurpation d'identité, déduisez-en la règle en matière de preuve en droit français.
+
+Les victimes d'usurpation d'identité sont parfois amenées à devoir prouver qu'elles sont bien elles-mêmes (et que ce qui a éventuellement été fait sous leur nom ne leur est pas imputable). D'après le Figaro, les compagnies d'assurance peuvent proposer à leur clients de justifier leur identité dans l'optique où ce genre de situation viendrait à arriver. Cela implique qu'il n'existe peut-être pas d'alternative simple (et gratuite) pour justifier de son identité que la confirmation d'une personne ou d'un organisme extérieur, et que le droit se montre lacunaire sur cette question.
+
+> ### Cette règle pose-t-elle des problèmes ?
+
+Dans le cas où la victime n'a pas pris soin de recourir à ce genre de services, n'a pas un entourage capable de justifier de son identité et se retrouve isolée et sans moyens face à cette situation, elle n'a pas les moyens de se défendre.
+
+> ### Comment les entreprises se servent-elles de cette règle pour éviter de rembourser leurs clients en cas de fraude ?
+
+Les structures peuvent prétendre que la vulnaribilité se trouve du côté du client et qu'elles n'en sont pas responsables. Elles peuvent également affirmer que les données qui ont fuité ne sont pas des données à caractère personnel.
+
+> ### Pour quelle raison le nouveau règlement général sur la protection des données est venu renforcer les responsabilités des entreprises qui utilisent les données personnelles ?
+
+Sur la question de ce qui constitue une donnée à caractère personnel, le RGPD est venu élargir le champ de ce qui rentre dans cette définition. Il n'est donc plus valable de faire l'hypothèse qu'une donnée non expressément nominative ne constitue pas une donnée à caractère personnel. La CNIL a désormais un pouvoir d'inspection, en france ou à l'international, à partir du moment où la structure détient des données concernant des citoyens français.
+
+## Rôle de la CNIL et du juge et la sécurité des systèmes
+
+### Quel est le fondement juridique de cet arrêt de la cour de cassation ?
+
+Le jugement rendu par la cour de cassation est basé sur la loi informatique et libertés de 1978 et d'un article du code civil ayant trait au droit à la vie privée.
+
+### Expliquez les faits. (Que s'est-il passé ?)
+
+Une employée de la société Finapole s'est vue licenciée par cette dernière société suite à ce qui a été considéré comme une utilisation abusive de la messagerie électronique qui lui était fournie à des fins personnelles. Cette employée a attaqué la société au conseil des prud'hommes qui a soutenu le caractère abusif de la masse de messages échangés depuis la messagerie, mais la cour de cassation a annulé cette décision et condamné la société pour la mise en place d'un dispositif qui contrevient aux dispositions règlementaires de traitement des données personnelles, notamment le fait d'avoir déployé ce dispositif sans avoir préalablement consulté la CNIL.
+
+### Quelle est la décision du juge de la cour de cassation ? (À qui donne-t-il raison). Pourquoi ?
+
+La décision de la cour de cassation a été d'annuler le jugement rendu par le conseil des prud'hommes (en faveur de l'employée donc) et de condamner la société à verser à l'employée des dommages & intérêts. Le dispositif mis en place par la société ne respectait pas la règlementation relative au traitement des données personnelles.
+
+### Finalement derrière cette décision qui date de 2014 que souhaitait faire le juge de la cour de cassation
+
+On peut supposer que la cour de cassation a voulu appuyer la position contestée de la CNIL et rétablir un rapport de force équitable entre structures et individus.
+
+### Pourquoi le conseil d'Etat considère la CNIL comme une juridiction ?
+
+L'article 6-1 de la CEDH a trait au droit à un procès équitable. Une structure et un individu ne disposant pas du même statut ni nécessairement des mêmes ressources (leur permettant d'établir leur défense ou d'asseoir leur légitimité), cette équité est faussée lors d'un procès les opposant. La CNIL a pour fonction de pouvoir re-garantir cette équité en fournissant son expertise au service des libertés individuelles en matière de données personnelles.
+
+### Sécurité des systèmes
+
 
