@@ -28,9 +28,9 @@ Utilisé avec une coque de protection rigide et anti-chocs Sisma compatible.
 
 Permet de sauvegarder puis de sauvegarder des données mises en danger par une intervention technique ou logicielle.
 
-### Cbles réseau RJ45
+### Câbles réseau RJ45
 
-Câbles RJ45 de catégorie 6 torsadés & blindés, à posséder en quelques exemplaires afin de prévoir les pannes et à coupler avec un adapteur USB 3.0 (rétro-compatible 2.0) / USB-C dans le cas où l'appareil n'est pas équipé de port Ethernet ou que celui-ci dysfonctionne.
+Câbles RJ45 de catégorie 6 torsadés & blindés, à posséder en quelques exemplaires afin de prévoir les pannes et à coupler avec un adaptateur USB 3.0 (rétro-compatible 2.0) / USB-C dans le cas où l'appareil n'est pas équipé de port Ethernet ou que celui-ci dysfonctionne.
 
 <div align="center"><img src="https://images-na.ssl-images-amazon.com/images/I/61qnHM%2Bou5L._SX522_.jpg" width=350px/></div>
 
@@ -51,3 +51,15 @@ Agît comme interface principale de diagnostic et de maintenance, adapté à tou
 Marque Hoe, modèle GS-E2 pouvant être utilisé sans-fil (bluetooth, batterie interne rechargeable en USB) ou en filaire (cable double-jack).
 
 Permet de consulter des ressources audio/vidéo et de passer ses communications.
+
+## Logiciels
+
+### Medicat
+
+### PuppyLinux
+
+### HijackThis
+
+### BleachBit
+
+
