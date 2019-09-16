@@ -3,7 +3,7 @@
 > Une authentification est demandée. 
 > > Compte lecture seule :
 > > Identifiant : **reader**
-> > Mot de passe : **reader** aa
+> > Mot de passe : **reader**
 
 
 # PHP :  `session_set_save_handler` - version fonctionnelle
@@ -173,5 +173,5 @@ function drupal_session_initialize() {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTUwMjU3NTVdfQ==
+eyJoaXN0b3J5IjpbNDM4NzgwNDQ1XX0=
 -->
