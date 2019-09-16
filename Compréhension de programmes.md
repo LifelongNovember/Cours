@@ -1,5 +1,5 @@
 J'essaye de trouver le fichier compilé dans le Makefile sans succès.
-Je lance une session de débug et trouve la fonction main 
+J'ouvre l'IDE 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTEzNDQzMCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTA0ODI4MjczMSwtMjA4ODc0NjYxMl19
 -->
