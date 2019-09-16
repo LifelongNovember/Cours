@@ -241,6 +241,3 @@ Le vecteur normal à l'une des faces doit être orthogonal à au moins deux des 
 <div align="center"><img src="https://raw.githubusercontent.com/LifelongNovember/Cours/master/img/faces%20triangulaires.png" width=200px/></div>
 
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzODY2MjcyOF19
--->
