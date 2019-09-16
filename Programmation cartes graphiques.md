@@ -1,7 +1,7 @@
 
 # Cours
 
-> M. Ammi (ammi@limsi.fr) aaa
+> M. Ammi (ammi@limsi.fr)
 
 ## Pipeline Graphique
 
@@ -242,5 +242,5 @@ Le vecteur normal à l'une des faces doit être orthogonal à au moins deux des 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwOTYwMTczNV19
+eyJoaXN0b3J5IjpbMTEzODY2MjcyOF19
 -->
