@@ -6,8 +6,8 @@ J'ajoute une variable globale BOOTMSG dans laquelle je stocke la chaîne "Démar
 J'identifie la variable gnuplot_date et trouve sa définition dans version.c. Je change sa valeur.
 J'ai quelques difficultés à reconstituer le fprintf de la fonction show_all pour qu'elle prenne en compte mes ajouts, mais en prenant un peu de temps pour tout remettre à sa place, l'en-tête désiré s'affiche correctement.
 Je trouve ensuite la variable PROMPT dans le fichier command.c et change sa valeur.
-
+J'essaye d'in
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTEzODgzNSwtMTY1Mzg1MzU0NCwxMD
+eyJoaXN0b3J5IjpbLTE1NjMxNjQxOCwtMTY1Mzg1MzU0NCwxMD
 Q4MjgyNzMxLC0yMDg4NzQ2NjEyXX0=
 -->
