@@ -177,7 +177,7 @@ La BCNF n'étant pas suffisante pour éliminer les redondance, on introduit d'au
 
 #### Dépendances Multivaluées
 
-
+On considère la relation $\text{Étudiant}(\text{NE}, \text{Cours}, \text{Sport})$
 
 ### Cinquième forme normale
 
@@ -189,6 +189,6 @@ La BCNF n'étant pas suffisante pour éliminer les redondance, on introduit d'au
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMxMTE3NDA4LDI2NDk1MTIyNiwxNjY3ND
+eyJoaXN0b3J5IjpbLTkxMzEzODMxLDI2NDk1MTIyNiwxNjY3ND
 AyMDMzLDgyMzc1MjcyMSw3NDg2MDAzMjRdfQ==
 -->
