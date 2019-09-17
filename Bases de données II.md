@@ -24,6 +24,14 @@ La relation Livre peut être normalisée pour respecter la 1NF de la manière su
 |       |Optimisation|Ali|13|14
 |       |Bases de données | Georges|12 | 12
 
+#### Deuxième forme normale
+
+> Une relation R est 2NF ssi :
+> * Elle est en 1NF
+> * Aucun attribut non-clé ne dépend d'une partie de la clé.
+> 
+Remarque : 
+
 ### Forme normale 4
 
 ### Forme normale 5
@@ -36,5 +44,5 @@ La relation Livre peut être normalisée pour respecter la 1NF de la manière su
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA3ODU4NDk2XX0=
+eyJoaXN0b3J5IjpbLTE3Njk1NDcxNDVdfQ==
 -->
