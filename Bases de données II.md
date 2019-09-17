@@ -61,7 +61,10 @@ $(C) \rightarrow (D)$
 
 Clé de $R$ :
 $AC$ doivent faire partie de la clé.
-$AC \rightarrow A, AC\rightarrow C, AC \rightarrow B, AC \rightarrow D$ :  
+$AC \rightarrow A, AC\rightarrow C, AC \rightarrow B, AC \rightarrow D$ : $AC$ est une clé unique.
+$R$ n'est pas 2NF car $A \rightarrow B$ est de la forme $\text{partie de la clé } \rightarrow \text{ attribut} \notin \text{ clé}$.
+
+``` mer
 
 ### Forme normale 4
 
@@ -75,5 +78,5 @@ $AC \rightarrow A, AC\rightarrow C, AC \rightarrow B, AC \rightarrow D$ :
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MTU1MjQ0MCw3NDg2MDAzMjRdfQ==
+eyJoaXN0b3J5IjpbLTMzMjMyMjQ2Nyw3NDg2MDAzMjRdfQ==
 -->
