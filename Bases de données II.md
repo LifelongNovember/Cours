@@ -236,9 +236,12 @@ $$\begin{aligned} R(A,B,C) : &A \text{ indépendant de }  C \\
 |Personne|Nom|Profession|
 |-|-|-|
 ||Martin|Président|
-||Arij|Enseignante|
+||Arij|Enseignante, chercheuse|
 ||Anne|Enseignante|
->Quelle est la 
+>Quelle est la forme normale de cette relation ?
+> > La relation n'est pas normalisée.
+
+> Même question pour  $\text{Fournisseur}(\text{Nom},\text{Adresse},\text{Article},\text{Prix})$, 
 
 ### Cinquième forme normale
 
@@ -250,7 +253,7 @@ $$\begin{aligned} R(A,B,C) : &A \text{ indépendant de }  C \\
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwOTc2NzA4MCw2Mjk5MTQzMTIsMjY0OT
-UxMjI2LDE2Njc0MDIwMzMsODIzNzUyNzIxLDc0ODYwMDMyNF19
-
+eyJoaXN0b3J5IjpbLTE0Mjc5NzExOTYsNjI5OTE0MzEyLDI2ND
+k1MTIyNiwxNjY3NDAyMDMzLDgyMzc1MjcyMSw3NDg2MDAzMjRd
+fQ==
 -->
