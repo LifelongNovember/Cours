@@ -161,10 +161,11 @@ $\text{Région} \rightarrow \text{Pays}$
 |Localisation|CRU|Pays|Région|Qualité
 |-|-|-|-|-|
 ||Chenas|France|Beaujolais|Excellent|
-||Juliénas||||
-||||||
-||||||
-
+||Juliénas|France|Beaujolais|Excellent|
+||Morgan|France|USA||
+||Chablis||||
+||Brouilly||||
+||Chablis||||
 
 ### Forme normale 4
 
@@ -178,6 +179,6 @@ $\text{Région} \rightarrow \text{Pays}$
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MDkwNzIxOCw4MjM3NTI3MjEsNzQ4Nj
-AwMzI0XX0=
+eyJoaXN0b3J5IjpbLTIwNzc0NDU3NjYsODIzNzUyNzIxLDc0OD
+YwMDMyNF19
 -->
