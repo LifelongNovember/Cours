@@ -300,7 +300,6 @@ E --> A
 > > $AC \rightarrow B$ (non valide),
 > > $BC \rightarrow A$ (non valide),
 > > 
-> > $A \rightarrow \rightarrow B$
 > > $$ \begin{array}{ccc|ccc} 
  x & y & z & & & \\
  1 & 2 & 4 & 1 & 3 & 4 \\
@@ -313,11 +312,11 @@ E --> A
  1 & 2 & 7 & 1 & 2 & 4 \\
  1 & 3 & 4 & 1 & 3 & 7 \\
 \end{array}$$ $$ \begin{array}{ccc|ccc} 
- 1 & 3 & 4 & 1 & 5 & 4 \\
- 1 & 5 & 7 & 1 & 3 & 7 \\
-\end{array}$$
+ 1 & 5 & 4 & 1 & 5 & 7 \\
+ 1 & 3 & 7 & 1 & 3 & 4 \\
+\end{array}$$ $$ A \rightarrow \rightarrow B $$ $$A \rightarrow \rightarrow C$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MTAyMTAzMiwxOTE4NTM5MDUwLDYyOT
-kxNDMxMiwyNjQ5NTEyMjYsMTY2NzQwMjAzMyw4MjM3NTI3MjEs
-NzQ4NjAwMzI0XX0=
+eyJoaXN0b3J5IjpbLTEwNjAyNTg4MjQsMTkxODUzOTA1MCw2Mj
+k5MTQzMTIsMjY0OTUxMjI2LDE2Njc0MDIwMzMsODIzNzUyNzIx
+LDc0ODYwMDMyNF19
 -->
