@@ -139,7 +139,9 @@ $A,B,C,D,E$ sont toutes clés candidates.
 On choisit $A$ comme clé.
 $R$ est 2NF car clé atomique composée d'une seul attribut.
 $R$ n'est pas 3NF car :
-$B \r 
+$B \rightarrow C$ de la forme $\text{attribut} \notin \text{clé} \rightarrow \text{attribut} \notin \text{ clé}$ 
+$C \rightarrow D$ de la forme $\text{attribut} \notin \text{clé} \rightarrow \text{attribut} \notin \text{ clé}$  
+$D \rightarrow E$ de la forme $\text{attribut} \notin \text{clé} \rightarrow \text{attribut} \notin \text{ clé}$  
 ### Forme normale 4
 
 ### Forme normale 5
@@ -152,6 +154,6 @@ $B \r
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0MTM4NzQ4LDgyMzc1MjcyMSw3NDg2MD
+eyJoaXN0b3J5IjpbMTgyMjIzOTE4LDgyMzc1MjcyMSw3NDg2MD
 AzMjRdfQ==
 -->
