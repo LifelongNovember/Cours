@@ -35,6 +35,8 @@ La relation Livre peut être normalisée pour respecter la 1NF de la manière su
 **Exemple** : 
 $R(A,B,C,D) \rightarrow \text{une relation } \{A \rightarrow B, C \rightarrow D, F \rightarrow C, FD \rightarrow A \}$, ensemble de dépendances fonctionnelles valides sur $R$.
 
+**Graphe des DF de R**
+
 ### Forme normale 4
 
 ### Forme normale 5
@@ -47,5 +49,5 @@ $R(A,B,C,D) \rightarrow \text{une relation } \{A \rightarrow B, C \rightarrow D,
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwODY5Mzc0XX0=
+eyJoaXN0b3J5IjpbNzQ4NjAwMzI0XX0=
 -->
