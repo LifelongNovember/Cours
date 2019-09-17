@@ -241,7 +241,10 @@ $$\begin{aligned} R(A,B,C) : &A \text{ indépendant de }  C \\
 >Quelle est la forme normale de cette relation ?
 > > La relation n'est pas normalisée.
 
-> Même question pour  $\text{Fournisseur}(\text{Nom},\text{Adresse},\text{Article},\text{Prix})$, 
+> Même question pour  $\text{Fournisseur}(\text{Nom},\text{Adresse},\text{Article},\text{Prix})$, $\text{Nom} \rightarrow \text{Adresse}$.
+> > Les attributs de cette relation sont atomiques : 1NF.
+
+> Même question pour $\text{Vin}(\text{Cru}, \text{Type}, \text{Client}, \text{Remise})$
 
 ### Cinquième forme normale
 
@@ -253,7 +256,7 @@ $$\begin{aligned} R(A,B,C) : &A \text{ indépendant de }  C \\
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjc5NzExOTYsNjI5OTE0MzEyLDI2ND
-k1MTIyNiwxNjY3NDAyMDMzLDgyMzc1MjcyMSw3NDg2MDAzMjRd
-fQ==
+eyJoaXN0b3J5IjpbOTQ4MzIyNzQ5LDYyOTkxNDMxMiwyNjQ5NT
+EyMjYsMTY2NzQwMjAzMyw4MjM3NTI3MjEsNzQ4NjAwMzI0XX0=
+
 -->
