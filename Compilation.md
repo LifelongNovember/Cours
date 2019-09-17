@@ -7,8 +7,10 @@
  * L'évalue si elle est valide
  * (CF diapo)
 
-**Compil
+**Compilateur** : programme qui traduit un langage dans un autre langage plus bas niveau.
+Le compu
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzYyNzE1NzQsMTA4NzczNzI3NiwtMT
-UyODIyOTQ0NSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE3MDkzMzA1MSwxMDg3NzM3Mjc2LC0xNT
+I4MjI5NDQ1LC0yMDg4NzQ2NjEyXX0=
 -->
