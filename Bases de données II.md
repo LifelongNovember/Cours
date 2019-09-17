@@ -56,7 +56,12 @@ $$\begin{aligned} (4) \text{ et } (1) \ &FF \rightarrow A \\ &F \rightarrow A \\
 **Exemple 2** :
 
 $R(ABCD) : A \rightarrow B, C\rightarrow D.$
-$(A) \rightarrow (B)$ : una partie de la clé
+$(A) \rightarrow (B)$ : une partie de la clé ⇒ un attribut n'appartenant pas à la clé.
+$(C) \rightarrow (D)$
+
+Clé de $R$ :
+$AC$ doivent faire partie de la clé.
+$AC \rightarrow A, AC\rightarrow C, AC \rightarrow B, AC \rightarrow D$ :  
 
 ### Forme normale 4
 
@@ -70,5 +75,5 @@ $(A) \rightarrow (B)$ : una partie de la clé
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyMDM3Mzg2LDc0ODYwMDMyNF19
+eyJoaXN0b3J5IjpbMTM3MTU1MjQ0MCw3NDg2MDAzMjRdfQ==
 -->
