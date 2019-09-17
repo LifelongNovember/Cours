@@ -272,10 +272,13 @@ $$\begin{aligned} R(A,B,C) : &A \text{ indépendant de }  C \\
 
 ```mermaid
 graph LR
-
+A((Cru)) --> B{/}
+C((Type)) --> B
+D((Client)) --> B
+ 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5Mjg1MDY3NSwxOTE4NTM5MDUwLDYyOT
-kxNDMxMiwyNjQ5NTEyMjYsMTY2NzQwMjAzMyw4MjM3NTI3MjEs
-NzQ4NjAwMzI0XX0=
+eyJoaXN0b3J5IjpbMjI1NjQyMjgzLDE5MTg1MzkwNTAsNjI5OT
+E0MzEyLDI2NDk1MTIyNiwxNjY3NDAyMDMzLDgyMzc1MjcyMSw3
+NDg2MDAzMjRdfQ==
 -->
