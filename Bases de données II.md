@@ -10,9 +10,13 @@
 
 Exemple :
 
-| Livre | Titre | Auteur |
-|-------|-------|--------|
-|       |
+| Livre | Titre | Auteur | Prix |
+|-------|-------|--------| -----|
+|       |Germinal|Pascal|10.12|
+|       |Optimisation|Ali|13.14|
+|       |Bases de données | Georges|12
+
+La relation Livre n'est pas 
 
 ### Forme normale 4
 
@@ -26,5 +30,5 @@ Exemple :
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgwNDE5MDQ5XX0=
+eyJoaXN0b3J5IjpbLTEyNTE5MjE5MzddfQ==
 -->
