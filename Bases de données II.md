@@ -112,7 +112,8 @@ E --> B
 E --> C
 D((D)) --> C
 ```
-$$ C \notin \text{clé} \\ D \in \text{clé} \\ A \in \text{clé} \\ B \rightarrow E  $$ $$ \begin{aligned} ABD &\rightarrow A \text{ oui} \\ & \rightarrow B \text{ oui} \\ &\rightarrow C \\ &\rightarrow D \text{ oui} \\ &\rightarrow E \text{ oui} \end{aligned}$$ $A,B,D$ clé candidate (n'est pas la seu
+$$ C \notin \text{clé} \\ D \in \text{clé} \\ A \in \text{clé} \\ B \rightarrow E  $$ $$ \begin{aligned} ABD &\rightarrow A \text{ oui} \\ & \rightarrow B \text{ oui} \\ &\rightarrow C \\ &\rightarrow D \text{ oui} \\ &\rightarrow E \text{ oui} \end{aligned}$$ $A,B,D$ clé candidate n°1, $A,D,E$ clé candidate n°2.
+Choix de clé : $A,D,E$. $$C \notin \text { clé}, B \notin \text{ clé}$$ $$ADE \rightarrow B$$
 
 ### Forme normale 4
 
@@ -126,5 +127,5 @@ $$ C \notin \text{clé} \\ D \in \text{clé} \\ A \in \text{clé} \\ B \rightarr
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTEwNjAwMjksNzQ4NjAwMzI0XX0=
+eyJoaXN0b3J5IjpbMTAzOTg4NzgzNiw3NDg2MDAzMjRdfQ==
 -->
