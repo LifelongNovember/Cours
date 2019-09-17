@@ -220,6 +220,9 @@ x & y' & z'
 x & y & z' & \in R \\
 2 & \text{A380} & 120 &
 \end{array}$$
+$$\begin{aligned} R(A,B,C) : &A \text{ indépendant de }  C \\ 
+B \rightarro
+\end{aligned} $$
 
 ### Cinquième forme normale
 
@@ -231,7 +234,7 @@ x & y & z' & \in R \\
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzE2OTI3NTEsNjI5OTE0MzEyLDI2ND
-k1MTIyNiwxNjY3NDAyMDMzLDgyMzc1MjcyMSw3NDg2MDAzMjRd
-fQ==
+eyJoaXN0b3J5IjpbMTI0NjM1OTU1MCw2Mjk5MTQzMTIsMjY0OT
+UxMjI2LDE2Njc0MDIwMzMsODIzNzUyNzIxLDc0ODYwMDMyNF19
+
 -->
