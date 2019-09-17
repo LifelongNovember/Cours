@@ -266,9 +266,9 @@ $$\begin{aligned} R(A,B,C) : &A \text{ indépendant de }  C \\
 
 > Même question pour $\text{Voiture}(\text{Marque}, \text{Type}, \text{Puissance}, \text{Couleur})$, $\text{Marque}, \text{Type} \rightarrow \text{Puissance}$ ; $\text{Puissance} \rightarrow \text{Couleur}$.
 > > Les attributs sont atomiques et aucun attribut non-clé ne dépend d'une partie de la clé : 2NF. Clé: $(\text{Marque Type})$.
-> 
+> <div align="center"><img src="https://raw.githubusercontent.com/LifelongNovember/Cours/master/img/UML%20Voiture.png"></img>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzU4MjA1NTQsMTkxODUzOTA1MCw2Mj
-k5MTQzMTIsMjY0OTUxMjI2LDE2Njc0MDIwMzMsODIzNzUyNzIx
-LDc0ODYwMDMyNF19
+eyJoaXN0b3J5IjpbNTc1NTk2MjQ1LDE5MTg1MzkwNTAsNjI5OT
+E0MzEyLDI2NDk1MTIyNiwxNjY3NDAyMDMzLDgyMzc1MjcyMSw3
+NDg2MDAzMjRdfQ==
 -->
