@@ -14,8 +14,8 @@ Le compilateur est *correct* si la sémantique du code produit est la même que 
 Il se divise en trois parties : 
  * front end : lecture du conde source et transformation en langage intermédiaire.
  * middle end : fait plusieurs passes de traitement dans le langage intermédiaire.
- * back end : responsable 
+ * back end : produit le code final à partir du langage intermédiaire.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODE4MzQ5NSwtMTcxMzU3NjI1NiwxMD
-g3NzM3Mjc2LC0xNTI4MjI5NDQ1LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTIwNjkxOTUzNjIsLTE3MTM1NzYyNTYsMT
+A4NzczNzI3NiwtMTUyODIyOTQ0NSwtMjA4ODc0NjYxMl19
 -->
