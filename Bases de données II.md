@@ -122,7 +122,10 @@ CF (2)
 
 > Une relation est dite 3NF ssi :
 > * Elle est 2NF,
-> * Aucune 
+> * Il n'existe aucune dépendance fonctionnelle entre deux attributs non-clé.
+
+**Exemple** : 
+$R(A,B,C,D) : A \rightarrow B, B \rightarrow C, C \rightarrow D, D \rightarrow E, E \rightarrow A$
 
 ### Forme normale 4
 
@@ -136,5 +139,5 @@ CF (2)
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMTExMiw3NDg2MDAzMjRdfQ==
+eyJoaXN0b3J5IjpbODIzNzUyNzIxLDc0ODYwMDMyNF19
 -->
