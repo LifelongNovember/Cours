@@ -199,6 +199,9 @@ Les dépendances fonctionnelles sont des cas particulier des dépendances multiv
 * Tout pilote est appelé à piloter tout avion sur n'importe quel vol,
 * Les avions et les pilotes sont indépendants.
 
+|Vol|NV|Avion|Pilote|
+|-|-|-|-|
+2|A380|115|
 
 ### Cinquième forme normale
 
@@ -210,7 +213,7 @@ Les dépendances fonctionnelles sont des cas particulier des dépendances multiv
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTcwNTU4NzQsNjI5OTE0MzEyLDI2ND
+eyJoaXN0b3J5IjpbLTIwMDU1ODE4MzQsNjI5OTE0MzEyLDI2ND
 k1MTIyNiwxNjY3NDAyMDMzLDgyMzc1MjcyMSw3NDg2MDAzMjRd
 fQ==
 -->
