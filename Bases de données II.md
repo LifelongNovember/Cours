@@ -204,7 +204,9 @@ Les dépendances fonctionnelles sont des cas particulier des dépendances multiv
 | |2|A380|115|
 | |3|B737|115|
 | |5|A360|115|
-| |
+| |2|A380|215|
+| |3|B747|215|
+| |5|A360|230|
 
 ### Cinquième forme normale
 
@@ -216,7 +218,7 @@ Les dépendances fonctionnelles sont des cas particulier des dépendances multiv
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MjM1MTE1MSw2Mjk5MTQzMTIsMjY0OT
+eyJoaXN0b3J5IjpbMTQ0MTg2MTk4NCw2Mjk5MTQzMTIsMjY0OT
 UxMjI2LDE2Njc0MDIwMzMsODIzNzUyNzIxLDc0ODYwMDMyNF19
 
 -->
