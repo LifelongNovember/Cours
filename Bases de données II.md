@@ -154,7 +154,17 @@ $$ R = R1 \underset{B}{(\times)}  R2 \underset{C}{(\times)} R3 \underset{D}{(\ti
 
 **Exemple** : ${\bf \text{Localisation}} (\text{CRU}, \text{Pays}, \text{Région}, \text{Qualité}$) 
 
-$\text{CRU}, 
+$\text{CRU}, \text{Pays} \rightarrow \text{Région}$
+$\text{CRU}, \text{Pays} \rightarrow \text{Qualité}$
+$\text{Région} \rightarrow \text{Pays}$
+
+|Localisation|CRU|Pays|Région|Qualité
+|-|-|-|-|-|
+|1|2|3|4|
+|1|2|7|8|
+|9|10|3|4|
+|$\bf9$|$\bf10$|$\bf7$|$\bf8$|
+
 
 ### Forme normale 4
 
@@ -168,6 +178,6 @@ $\text{CRU},
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NDQ5MjUwMiw4MjM3NTI3MjEsNzQ4Nj
-AwMzI0XX0=
+eyJoaXN0b3J5IjpbLTExNzEwNTEyNTUsODIzNzUyNzIxLDc0OD
+YwMDMyNF19
 -->
