@@ -247,7 +247,7 @@ $$\begin{aligned} R(A,B,C) : &A \text{ indépendant de }  C \\
 > Même question pour $\text{Vin}(\text{Cru}, \text{Type}, \text{Client}, \text{Remise})$, $\text{Cru} \rightarrow \text{Type}$.
 > > Les attributs sont atomiques : 1NF. Clé : $(\text{Cru} \ \text{Client} \ \text{Remise})$.
 
-> Même question pour $\text{Voiture}(\text{Marque}, \text{Type}, \text{Puissance}, \text{Couleur})$, $\text{Marque}, \text{Type} \rightarrow \text{Puissance}$ ; \text{Puissance} \rightarrow 
+> Même question pour $\text{Voiture}(\text{Marque}, \text{Type}, \text{Puissance}, \text{Couleur})$, $\text{Marque}, \text{Type} \rightarrow \text{Puissance}$ ; $\text{Puissance} \rightarrow \text{Couleur}$
 
 ### Cinquième forme normale
 
@@ -259,7 +259,7 @@ $$\begin{aligned} R(A,B,C) : &A \text{ indépendant de }  C \\
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzcwMDk1NjIsNjI5OTE0MzEyLDI2ND
-k1MTIyNiwxNjY3NDAyMDMzLDgyMzc1MjcyMSw3NDg2MDAzMjRd
-fQ==
+eyJoaXN0b3J5IjpbLTYyNTY4NTg5Miw2Mjk5MTQzMTIsMjY0OT
+UxMjI2LDE2Njc0MDIwMzMsODIzNzUyNzIxLDc0ODYwMDMyNF19
+
 -->
