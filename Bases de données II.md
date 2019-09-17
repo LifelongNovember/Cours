@@ -64,10 +64,9 @@ $AC$ doivent faire partie de la clé.
 $AC \rightarrow A, AC\rightarrow C, AC \rightarrow B, AC \rightarrow D$ : $AC$ est une clé unique.
 $R$ n'est pas 2NF car $A \rightarrow B$ est de la forme $\text{partie de la clé } \rightarrow \text{ attribut} \notin \text{ clé}$.
 
-``` mermaid
-graph LR
-R(( R[A,B,C,D] )) --> B(( R1[A,B] ))
-```
+CF (1)
+
+
 
 ### Forme normale 4
 
@@ -81,5 +80,5 @@ R(( R[A,B,C,D] )) --> B(( R1[A,B] ))
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNDI5MzgwLDc0ODYwMDMyNF19
+eyJoaXN0b3J5IjpbLTIwNzkxMTIyOTQsNzQ4NjAwMzI0XX0=
 -->
