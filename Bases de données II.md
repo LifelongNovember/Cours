@@ -87,7 +87,7 @@ $$ \\ $$
 |  | 3 | 4 |
 |  | 7 | 8 |
 
-$$ R1 (\times) R2 = R1 \times R2 $$ $$ R1 (\times) R2 = R : \text{sans perte d'infor$$ 
+$$  R1 (\times) R2 = R1 \times R2 $$ $$ \begin{aligned}R1 (\times) R2 &= R :\text{sans perte d'information}  \\ \neq \end{aligned} $$ 
 ### Forme normale 4
 
 ### Forme normale 5
@@ -100,5 +100,5 @@ $$ R1 (\times) R2 = R1 \times R2 $$ $$ R1 (\times) R2 = R : \text{sans perte d'i
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYwNjgxOTEyLDc0ODYwMDMyNF19
+eyJoaXN0b3J5IjpbNjM2MTQxNzA3LDc0ODYwMDMyNF19
 -->
