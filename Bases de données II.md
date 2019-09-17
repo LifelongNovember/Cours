@@ -66,6 +66,14 @@ $R$ n'est pas 2NF car $A \rightarrow B$ est de la forme $\text{partie de la clé
 
 CF (1)
 
+Cette décomposition est sans perte de dépendances fonctionnelles ?
+Oui : les deux DF initiales sont préservées.
+
+| R | A | B | C | D
+|-------|-------|--------| -----|---
+|       |1|2|3|4
+|  $\rightarrow$     |1|Ali|13|14
+|       |Bases de données | Georges|12 | 12
 
 
 ### Forme normale 4
@@ -80,5 +88,5 @@ CF (1)
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzkxMTIyOTQsNzQ4NjAwMzI0XX0=
+eyJoaXN0b3J5IjpbNjkwNDAzNDM1LDc0ODYwMDMyNF19
 -->
