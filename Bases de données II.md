@@ -173,7 +173,11 @@ CF4
 
 ### Quatrième forme normale
 
-La BCNF n'est pas suffisante pour éliminer les redondanc
+La BCNF n'étant pas suffisante pour éliminer les redondance, on introduit d'autres types de formes normales.
+
+#### Dépendances Multivaluées
+
+
 
 ### Cinquième forme normale
 
@@ -185,6 +189,6 @@ La BCNF n'est pas suffisante pour éliminer les redondanc
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NjA1MzczMCwyNjQ5NTEyMjYsMTY2Nz
-QwMjAzMyw4MjM3NTI3MjEsNzQ4NjAwMzI0XX0=
+eyJoaXN0b3J5IjpbNTMxMTE3NDA4LDI2NDk1MTIyNiwxNjY3ND
+AyMDMzLDgyMzc1MjcyMSw3NDg2MDAzMjRdfQ==
 -->
