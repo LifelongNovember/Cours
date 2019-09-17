@@ -137,7 +137,9 @@ E --> A
 ```
 $A,B,C,D,E$ sont toutes clés candidates.
 On choisit $A$ comme clé.
-$R$ est 2NF 
+$R$ est 2NF car clé atomique composée d'une seul attribut.
+$R$ n'est pas 3NF car :
+$B \r 
 ### Forme normale 4
 
 ### Forme normale 5
@@ -150,6 +152,6 @@ $R$ est 2NF
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MDgxNTA5Nyw4MjM3NTI3MjEsNzQ4Nj
-AwMzI0XX0=
+eyJoaXN0b3J5IjpbODY0MTM4NzQ4LDgyMzc1MjcyMSw3NDg2MD
+AzMjRdfQ==
 -->
