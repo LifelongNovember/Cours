@@ -265,10 +265,12 @@ $$\begin{aligned} R(A,B,C) : &A \text{ indépendant de }  C \\
 > > Les attributs sont atomiques : 1NF. Clé : $(\text{Cru} \ \text{Client} \ \text{Remise})$.
 
 > Même question pour $\text{Voiture}(\text{Marque}, \text{Type}, \text{Puissance}, \text{Couleur})$, $\text{Marque}, \text{Type} \rightarrow \text{Puissance}$ ; $\text{Puissance} \rightarrow \text{Couleur}$.
-> > Les attributs sont atomiques et aucun attribut non-clé ne dépend d'une partie de la clé : 2NF. Clé: $(\text{Marque Type})$.
+> > Les attributs sont atomiques et aucun attribut non-clé ne dépend d'une partie de la clé : 2NF.
 > <div align="center"><img src="https://raw.githubusercontent.com/LifelongNovember/Cours/master/img/UML%20Voiture.png"></img>
+
+> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1NTk2MjQ1LDE5MTg1MzkwNTAsNjI5OT
+eyJoaXN0b3J5IjpbMjA0MzY2NDA2LDE5MTg1MzkwNTAsNjI5OT
 E0MzEyLDI2NDk1MTIyNiwxNjY3NDAyMDMzLDgyMzc1MjcyMSw3
 NDg2MDAzMjRdfQ==
 -->
