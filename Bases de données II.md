@@ -147,6 +147,13 @@ Décomposition :
 CF (3)
 
 $$ R = R1 \underset{B}{(\times)}  R2 \underset{C}{(\times)} R3 \underset{D}{(\times)} R4 \underset{E}{(\times)} R5$$
+
+#### Forme normale de Boyce-Codd
+
+> Une relation $R$ est dite BCNF ssi toutes ses DF sont de la forme $\text{clé} \rightarrow \text{attribut}$.
+
+**Exemple** : locat
+
 ### Forme normale 4
 
 ### Forme normale 5
@@ -159,6 +166,6 @@ $$ R = R1 \underset{B}{(\times)}  R2 \underset{C}{(\times)} R3 \underset{D}{(\ti
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTMzMDkxNiw4MjM3NTI3MjEsNzQ4Nj
+eyJoaXN0b3J5IjpbMjA0ODc4MDUxOCw4MjM3NTI3MjEsNzQ4Nj
 AwMzI0XX0=
 -->
