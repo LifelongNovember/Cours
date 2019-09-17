@@ -72,8 +72,13 @@ Oui : les deux DF initiales sont préservées.
 | R | A | B | C | D
 |-------|-------|--------| -----|---
 |       |1|2|3|4
-|  $\rightarrow$     |1|Ali|13|14
-|       |Bases de données | Georges|12 | 12
+|  $\rightarrow$     |1|2|7|8
+|       |9 | 10|3 | 4
+
+$$ \\ $$
+|R1|A|B|
+--|--|--
+1
 
 
 ### Forme normale 4
@@ -88,5 +93,5 @@ Oui : les deux DF initiales sont préservées.
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkwNDAzNDM1LDc0ODYwMDMyNF19
+eyJoaXN0b3J5IjpbMTMyOTIxNjg0NCw3NDg2MDAzMjRdfQ==
 -->
