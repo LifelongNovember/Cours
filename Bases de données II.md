@@ -245,9 +245,9 @@ $$\begin{aligned} R(A,B,C) : &A \text{ indépendant de }  C \\
 > > Les attributs de cette relation sont atomiques : 1NF. Clé : $(\text{Nom Article Prix})$
 
 > Même question pour $\text{Vin}(\text{Cru}, \text{Type}, \text{Client}, \text{Remise})$, $\text{Cru} \rightarrow \text{Type}$.
-> > Les attributs sont atomiques : 1NF. Clé : $(\text{Cru}, \text{Client}, \text{Remise})$.
+> > Les attributs sont atomiques : 1NF. Clé : $(\text{Cru} \ \text{Client} \ \text{Remise})$.
 
-> Même question pour $\text{Voiture(\text{Marque
+> Même question pour $\text{Voiture}(\text{Marque}, \text{Type}, \text{Puissance}, \text{Couleur})$, $\text{Marque}, \text{Type} \rightarrow \text{Puissance}$ ; \text{Puissance} \rightarrow 
 
 ### Cinquième forme normale
 
@@ -259,7 +259,7 @@ $$\begin{aligned} R(A,B,C) : &A \text{ indépendant de }  C \\
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NTU2Nzg1NCw2Mjk5MTQzMTIsMjY0OT
-UxMjI2LDE2Njc0MDIwMzMsODIzNzUyNzIxLDc0ODYwMDMyNF19
-
+eyJoaXN0b3J5IjpbLTE0NzcwMDk1NjIsNjI5OTE0MzEyLDI2ND
+k1MTIyNiwxNjY3NDAyMDMzLDgyMzc1MjcyMSw3NDg2MDAzMjRd
+fQ==
 -->
