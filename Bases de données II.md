@@ -12,12 +12,17 @@ Exemple :
 
 | Livre | Titre | Auteur | Prix |
 |-------|-------|--------| -----|
-|       |Germinal|Pascal|10.12|
-|       |Optimisation|Ali|13.14|
+|       |Germinal|Pascal|10-12|
+|       |Optimisation|Ali|13-14|
 |       |Bases de données | Georges|12
 
 La relation Livre n'est pas en première forme normale (1NF) car l'attribut prix n'est pas atomique.
-La relation Livre peut être normalisée pour respecter la 1NF de la m
+La relation Livre peut être normalisée pour respecter la 1NF de la manière suivante :
+| Livre | Titre | Auteur | PrixMin | PrixMax
+|-------|-------|--------| -----|---
+|       |Germinal|Pascal|10|12
+|       |Optimisation|Ali|13|14
+|       |Bases de données | Georges|12 | 12
 
 ### Forme normale 4
 
@@ -31,5 +36,5 @@ La relation Livre peut être normalisée pour respecter la 1NF de la m
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODM1NTM3NTNdfQ==
+eyJoaXN0b3J5IjpbOTA3ODU4NDk2XX0=
 -->
