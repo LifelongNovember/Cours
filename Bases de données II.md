@@ -101,7 +101,7 @@ $$ R1 (\times) R2 = R + (9, 10, 7, 8)$$
 
 **Exemple 3**
 
-$$ R(A,B,C,D) : AB \rightarrow C, DE \rightarrow C, B \rightarrow E, $$
+$$ R(A,B,C,D) : AB \rightarrow C, DE \rightarrow C, B \rightarrow E, E \rightarrow B$$
 
 ```mermaid
 graph LR
@@ -112,6 +112,7 @@ E --> B
 E --> C
 D((D)) --> C
 ```
+$$ C \notin \text{clé} \\ D \in \text{clé} \\ A \in \text{clé} \\ B \rightarrow E  $$ $$ \begin{aligned} ABD &\rightarrow \end{aligned}$$
 
 ### Forme normale 4
 
@@ -125,5 +126,5 @@ D((D)) --> C
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5ODc4NDUwOCw3NDg2MDAzMjRdfQ==
+eyJoaXN0b3J5IjpbMjA2MTUwMDc2NSw3NDg2MDAzMjRdfQ==
 -->
