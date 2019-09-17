@@ -281,10 +281,15 @@ E --> A
 > > $\text{Remise}, \text{Type}, \text{Client}$ : 1NF
 
 > Même question pour :
+
 |R|A|B|C|
-|-|-|-|--
+|-|-|-|-|
+||1|2|4|
+||1|3|4|
+||2|5|7|
+||
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczMzA2OSwxOTE4NTM5MDUwLDYyOTkxND
-MxMiwyNjQ5NTEyMjYsMTY2NzQwMjAzMyw4MjM3NTI3MjEsNzQ4
-NjAwMzI0XX0=
+eyJoaXN0b3J5IjpbLTEzMDgxNzIxMDcsMTkxODUzOTA1MCw2Mj
+k5MTQzMTIsMjY0OTUxMjI2LDE2Njc0MDIwMzMsODIzNzUyNzIx
+LDc0ODYwMDMyNF19
 -->
