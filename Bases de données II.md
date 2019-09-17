@@ -226,7 +226,9 @@ $$\begin{aligned} R(A,B,C) : &A \text{ indépendant de }  C \\
 \end{aligned} $$
 
 **Propriétés** : 
-* Augmentation : $X \rightarrow \rightarrow Y \im
+* Augmentation : $X \rightarrow \rightarrow Y \implies XV \rightarrow \rightarrow YV$
+* Transitivité : $\begin{array}{l} X \rightarrow \rightarrow Y \\ Y \rightarrow \rightarrow Z \end{array} \implies X \rightarrow \rightarrow Z$
+* Complémentation : $X \rightarrow \rightarrow Y \implies
 
 **Exemple 2** : $\text{Personne}(\text{N°SS}, \text{N°Véhicule}, \text{Prénom-Enfant})$, $\text{N°Véhicule}$ et $\text{Prénom-Enfant}$ indépendants : $\begin{array}{l}\text{N°SS} \rightarrow \rightarrow \text{N°Véhicule} \\ \text{N°SS} \rightarrow \rightarrow \text{Prénom-Enfant} \end{array}$.
 
@@ -241,7 +243,7 @@ $$\begin{aligned} R(A,B,C) : &A \text{ indépendant de }  C \\
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTYzNjA4MjcsNjI5OTE0MzEyLDI2ND
+eyJoaXN0b3J5IjpbLTE3MzM0OTMyNTEsNjI5OTE0MzEyLDI2ND
 k1MTIyNiwxNjY3NDAyMDMzLDgyMzc1MjcyMSw3NDg2MDAzMjRd
 fQ==
 -->
