@@ -101,15 +101,16 @@ $$ R1 (\times) R2 = R + (9, 10, 7, 8)$$
 
 **Exemple 3**
 
+$$ R(A,B,C,D) : AB \rightarrow C, DE \rightarrow C, B \rightarrow E, $$
+
 ```mermaid
 graph LR
 A((A)) -->C((C))
 B((B)) --> C
 B --> E((E))
 E --> B
-D((D)) --> A
-C((C)) --> D
-F --> C
+E --> C
+D((D)) --> C
 ```
 
 ### Forme normale 4
@@ -124,5 +125,5 @@ F --> C
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjIyNTIwNDgsNzQ4NjAwMzI0XX0=
+eyJoaXN0b3J5IjpbMTI5ODc4NDUwOCw3NDg2MDAzMjRdfQ==
 -->
