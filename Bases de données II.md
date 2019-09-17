@@ -87,13 +87,16 @@ $$ \\ $$
 |  | 3 | 4 |
 |  | 7 | 8 |
 
-$$  R1 (\times) R2 = R1 \times R2 $$ $$ \begin{aligned}R1 (\times) R2 &= R :\text{sans perte d'information}  \\ &\neq R : \text {perte d'informations} \end{aligned} $$ $R1 (\times) R2 :$
+$$  R1 (\times) R2 = R1 \times R2 $$ $$ \begin{aligned}R1 (\times) R2 &= R :\text{sans perte d'informations}  \\ &\neq R : \text {perte d'informations} \end{aligned} $$ $R1 (\times) R2 :$
 
 |A|B|C|D|
 |-|-|-|-|
 |1|2|3|4|
 |1|2|7|8|
+|9|10|3|4|
+|$\bf9$|$\bf10$|$\bf7$|$\bf8$|
 
+Le tuple $(9,10,7,8) \notin R$
 ### Forme normale 4
 
 ### Forme normale 5
@@ -106,5 +109,5 @@ $$  R1 (\times) R2 = R1 \times R2 $$ $$ \begin{aligned}R1 (\times) R2 &= R :\tex
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MzA1MDI0MCw3NDg2MDAzMjRdfQ==
+eyJoaXN0b3J5IjpbMTUyMTkyOTc5MCw3NDg2MDAzMjRdfQ==
 -->
