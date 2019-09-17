@@ -118,6 +118,12 @@ $E \rightarrow B$ & $DE \rightarrow C$ sont deux dépendances fonctionnelles qui
 
 CF (2)
 
+#### Troisième forme normale
+
+> Une relation est dite 3NF ssi :
+> * Elle est 2NF,
+> * Aucune 
+
 ### Forme normale 4
 
 ### Forme normale 5
@@ -130,5 +136,5 @@ CF (2)
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MjU3NDkzNCw3NDg2MDAzMjRdfQ==
+eyJoaXN0b3J5IjpbLTcwMTExMiw3NDg2MDAzMjRdfQ==
 -->
