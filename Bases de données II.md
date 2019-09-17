@@ -301,9 +301,14 @@ E --> A
 > > $BC \rightarrow A$ (non valide),
 > > 
 > > $A \rightarrow \rightarrow B$
-> > $$ \begin{array}{ccc|ccc} \end{array}$$
+> > $$ \begin{array}{ccc|ccc} 
+ x & y & z & & & \\
+ 1 & 2 & 4 & 1 & 3 & 4 \\
+ 1 & 3 & 7 & 1 & 2 & 7 \\
+ x' & y' & z' & & &
+\end{array}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjgxNzMwNzEsMTkxODUzOTA1MCw2Mj
+eyJoaXN0b3J5IjpbLTE0NzIwOTMxMDQsMTkxODUzOTA1MCw2Mj
 k5MTQzMTIsMjY0OTUxMjI2LDE2Njc0MDIwMzMsODIzNzUyNzIx
 LDc0ODYwMDMyNF19
 -->
