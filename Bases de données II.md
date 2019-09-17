@@ -232,7 +232,12 @@ $$\begin{aligned} R(A,B,C) : &A \text{ indépendant de }  C \\
 * Transitivité : $\begin{array}{l} X \rightarrow \rightarrow Y \\ Y \rightarrow \rightarrow Z \end{array} \implies X \rightarrow \rightarrow Z$
 * Complémentation : $X \rightarrow \rightarrow Y \implies X \rightarrow \rightarrow R - X - Y$
 
-**Exercice 1** : Soit la relation
+**Exercice 1** : Soit la relation :
+|Personne|Nom|Profession|
+|-|-|-|
+||Martin|Président|
+||Arij|Enseignante|
+||
 
 ### Cinquième forme normale
 
@@ -244,7 +249,7 @@ $$\begin{aligned} R(A,B,C) : &A \text{ indépendant de }  C \\
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDI1NzI4NDMsNjI5OTE0MzEyLDI2ND
-k1MTIyNiwxNjY3NDAyMDMzLDgyMzc1MjcyMSw3NDg2MDAzMjRd
-fQ==
+eyJoaXN0b3J5IjpbMTczMjY5OTcyMCw2Mjk5MTQzMTIsMjY0OT
+UxMjI2LDE2Njc0MDIwMzMsODIzNzUyNzIxLDc0ODYwMDMyNF19
+
 -->
