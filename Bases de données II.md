@@ -96,7 +96,22 @@ $$  R1 (\times) R2 = R1 \times R2 $$ $$ \begin{aligned}R1 (\times) R2 &= R :\tex
 |9|10|3|4|
 |$\bf9$|$\bf10$|$\bf7$|$\bf8$|
 
-Le tuple $(9,10,7,8) \notin R$
+Le tuple $(9,10,7,8) \notin R$.
+$$ R1 (\times) R2 = R + (9, 10, 7, 8)$$
+
+**Exemple 3**
+
+```mermaid
+graph LR
+A((A)) -->C((C))
+B((B)) --> C
+B --> E((E))
+E --> B
+D((D)) --> A
+C((C)) --> D
+F --> C
+```
+
 ### Forme normale 4
 
 ### Forme normale 5
@@ -109,5 +124,5 @@ Le tuple $(9,10,7,8) \notin R$
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMTkyOTc5MCw3NDg2MDAzMjRdfQ==
+eyJoaXN0b3J5IjpbLTE3NjIyNTIwNDgsNzQ4NjAwMzI0XX0=
 -->
