@@ -268,9 +268,14 @@ $$\begin{aligned} R(A,B,C) : &A \text{ indépendant de }  C \\
 > > Les attributs sont atomiques et aucun attribut non-clé ne dépend d'une partie de la clé : 2NF.
 > <div align="center"><img src="https://raw.githubusercontent.com/LifelongNovember/Cours/master/img/UML%20Voiture.png"></img>
 
-> Même question pour $\text{Cru}, \text{Type}, \text{Client} \rightarrow \text{Remise}$, $\text{Remise}
+> Même question pour $\text{Cru}, \text{Type}, \text{Client} \rightarrow \text{Remise}$, $\text{Remise} \rightarrow \text{Cru}$.
+
+```mermaid
+graph LR
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzI2MDQ0LDE5MTg1MzkwNTAsNjI5OT
-E0MzEyLDI2NDk1MTIyNiwxNjY3NDAyMDMzLDgyMzc1MjcyMSw3
-NDg2MDAzMjRdfQ==
+eyJoaXN0b3J5IjpbMTI5Mjg1MDY3NSwxOTE4NTM5MDUwLDYyOT
+kxNDMxMiwyNjQ5NTEyMjYsMTY2NzQwMjAzMyw4MjM3NTI3MjEs
+NzQ4NjAwMzI0XX0=
 -->
