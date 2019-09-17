@@ -46,7 +46,9 @@ C((C)) --> D
 F --> C
 ```
 
-Tout attribut n'appartenant à caucune des parties 
+Tout attribut n'appartenant à aucune des parties droites des dépendances fonctionnelles doit faire partie de la clé.
+⇒ $F \in \text{clé}$
+$\begin{aligned} FD \rightarrow A \$
 
 ### Forme normale 4
 
@@ -60,5 +62,5 @@ Tout attribut n'appartenant à caucune des parties
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIwNzk5ODYsNzQ4NjAwMzI0XX0=
+eyJoaXN0b3J5IjpbODk2ODAyODcsNzQ4NjAwMzI0XX0=
 -->
