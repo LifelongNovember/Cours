@@ -127,6 +127,15 @@ CF (2)
 **Exemple** : 
 $R(A,B,C,D) : A \rightarrow B, B \rightarrow C, C \rightarrow D, D \rightarrow E, E \rightarrow A$
 
+```mermaid
+graph LR
+A((A)) -->B((B))
+F((F)) --> A
+D((D)) --> A
+C((C)) --> D
+F --> C
+```
+
 ### Forme normale 4
 
 ### Forme normale 5
@@ -139,5 +148,6 @@ $R(A,B,C,D) : A \rightarrow B, B \rightarrow C, C \rightarrow D, D \rightarrow E
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIzNzUyNzIxLDc0ODYwMDMyNF19
+eyJoaXN0b3J5IjpbLTE4MDE1ODMzNjUsODIzNzUyNzIxLDc0OD
+YwMDMyNF19
 -->
