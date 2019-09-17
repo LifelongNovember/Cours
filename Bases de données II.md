@@ -171,9 +171,9 @@ Considérons $(\text{CRU, Pays)}$ clé de la relation. Cette relation est 3NF ma
 
 CF4
 
-### Quatrième 
+### Quatrième forme normale
 
-### Forme normale 5
+### Cinquième forme normale
 
 ## Gestion des transactions
 
@@ -183,6 +183,6 @@ CF4
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MTg4MDQxMSwyNjQ5NTEyMjYsMTY2Nz
+eyJoaXN0b3J5IjpbLTU0ODE3NjY5NCwyNjQ5NTEyMjYsMTY2Nz
 QwMjAzMyw4MjM3NTI3MjEsNzQ4NjAwMzI0XX0=
 -->
