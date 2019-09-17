@@ -169,6 +169,8 @@ $\text{Région} \rightarrow \text{Pays}$
 
 Considérons $(\text{CRU, Pays)}$ clé de la relation. Cette relation est 3NF mais n'est pas BCNF car $\text{Région} \rightarrow \text{Pays}$ n'est pas de la forme $\text{clé} \rightarrow \text{attribut}$.
 
+CF4
+
 ### Forme normale 4
 
 ### Forme normale 5
@@ -181,6 +183,6 @@ Considérons $(\text{CRU, Pays)}$ clé de la relation. Cette relation est 3NF ma
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NzQwMjAzMyw4MjM3NTI3MjEsNzQ4Nj
-AwMzI0XX0=
+eyJoaXN0b3J5IjpbMjY0OTUxMjI2LDE2Njc0MDIwMzMsODIzNz
+UyNzIxLDc0ODYwMDMyNF19
 -->
