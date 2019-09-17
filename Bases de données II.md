@@ -37,6 +37,14 @@ $R(A,B,C,D) \rightarrow \text{une relation } \{A \rightarrow B, C \rightarrow D,
 
 **Graphe des DF de R**
 
+```mermaid
+graph LR
+A((A)) -- Link text --> B((B))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
+
 ### Forme normale 4
 
 ### Forme normale 5
@@ -49,5 +57,5 @@ $R(A,B,C,D) \rightarrow \text{une relation } \{A \rightarrow B, C \rightarrow D,
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4NjAwMzI0XX0=
+eyJoaXN0b3J5IjpbLTIwNjg5MzI1NDgsNzQ4NjAwMzI0XX0=
 -->
