@@ -8,7 +8,7 @@
 
 > Une relation R est dite en première forme normale ssi tous ses attributs sont atomiques.
 
-Exemple :
+**Exemple** :
 
 | Livre | Titre | Auteur | Prix |
 |-------|-------|--------| -----|
@@ -28,9 +28,12 @@ La relation Livre peut être normalisée pour respecter la 1NF de la manière su
 
 > Une relation R est 2NF ssi :
 > * Elle est en 1NF
-> * Aucun attribut non-clé ne dépend d'une partie de la clé.
-> 
-Remarque : 
+> * Aucun attribut non-clé ne dépend d'une partie de la clé. 
+
+**Remarque** : Toute relation dont la clé est composée d(un seul attribut et qui respecte la 1NF est forcément 2NF.
+
+**Exemple** : 
+$R(
 
 ### Forme normale 4
 
@@ -44,5 +47,5 @@ Remarque :
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njk1NDcxNDVdfQ==
+eyJoaXN0b3J5IjpbLTEyNTE3NDA5NTJdfQ==
 -->
