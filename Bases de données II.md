@@ -179,7 +179,7 @@ La BCNF n'étant pas suffisante pour éliminer les redondance, on introduit d'au
 
 On considère la relation $\text{Étudiant}(\text{NE}, \text{Cours}, \text{Sport})$.
 Exemple de contenu de cette relation :
-|NE|Cours|Sport|
+|$\text{NE}$|$\text{Cours}$|$\text{Sport}$|
 |-|-|-|
 |100|BD|Tennis|
 |100|BD|Foot|
@@ -187,7 +187,7 @@ Exemple de contenu de cette relation :
 |100|Réseau|Foot|
 |200|Réseau|Vélo|
 
-La clé de cette relation est constituée de l'ensemble des attributs $\text{NE}$, $\text{Cours}$ et $\te
+La clé de cette relation est constituée de l'ensemble des attributs $\text{NE}$, $\text{Cours}$ et $\text{Sport}$. Cette relation ne possède aucune dépendance fonctionnelle et elle respecte les formes normales BNCF et 3NF.
 
 ### Cinquième forme normale
 
@@ -199,6 +199,6 @@ La clé de cette relation est constituée de l'ensemble des attributs $\text{NE}
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQ2NjM1NDEsMjY0OTUxMjI2LDE2Nj
-c0MDIwMzMsODIzNzUyNzIxLDc0ODYwMDMyNF19
+eyJoaXN0b3J5IjpbNjI5OTE0MzEyLDI2NDk1MTIyNiwxNjY3ND
+AyMDMzLDgyMzc1MjcyMSw3NDg2MDAzMjRdfQ==
 -->
