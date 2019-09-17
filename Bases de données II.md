@@ -292,9 +292,15 @@ E --> A
 ||1|5|7|
 
 > Quelles sont les dépendance fonctionnelles ou multivaluées de $R$ ?
-> > $A \rightarrow
+> > $A \rightarrow B$ (non valide),
+> > $A \rightarrow C$ (non valide),
+> > $B \rightarrow A$ (non valide),
+> > $B \rightarrow C$ (non valide),
+> > $AB \rightarrow C$ (non valide),
+> > $AB \rightarrow C$ (non valide),
+> > $AC \rightarrow B$ (non valide),
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMjMyNzgwOSwxOTE4NTM5MDUwLDYyOT
+eyJoaXN0b3J5IjpbLTIzNzE2MjYxMiwxOTE4NTM5MDUwLDYyOT
 kxNDMxMiwyNjQ5NTEyMjYsMTY2NzQwMjAzMyw4MjM3NTI3MjEs
 NzQ4NjAwMzI0XX0=
 -->
