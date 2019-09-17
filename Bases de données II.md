@@ -39,11 +39,14 @@ $R(A,B,C,D) \rightarrow \text{une relation } \{A \rightarrow B, C \rightarrow D,
 
 ```mermaid
 graph LR
-A((A)) -- Link text --> B((B))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
+A((A)) -->B((B))
+F((F)) --> A
+D((D)) --> A
+C((C)) --> D
+F --> C
 ```
+
+Tout attribut n'appartenant à caucune des parties 
 
 ### Forme normale 4
 
@@ -57,5 +60,5 @@ C --> D
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjg5MzI1NDgsNzQ4NjAwMzI0XX0=
+eyJoaXN0b3J5IjpbNDIwNzk5ODYsNzQ4NjAwMzI0XX0=
 -->
