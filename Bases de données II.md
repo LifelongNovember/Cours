@@ -191,7 +191,11 @@ La clé de cette relation est constituée de l'ensemble des attributs $\text{NE}
 
 > $R(A_1, \dots, A_n) \ ;X \subseteq \{A_1, \dots, A_n \} \ ; Y \subseteq \{A_1, \dots, A_n \} \ ; X \neq Y.$
 > $X$ multidétermine $Y$ ($X \rightarrow \rightarrow Y$) ssi $\exists \ Z \in R$ avec $Z \neq Y$, $Z \neq X$ et $Z = R - X - Y$.
-> C'est à dire $X \rightarrow \rightarrow Y \iff (x, y, z) \in R$ et $(x', y', z') \in R$. D'où $(xy'z) \in R$ et $
+> C'est à dire $X \rightarrow \rightarrow Y \iff (x, y, z) \in R$ et $(x', y', z') \in R$. D'où $(xy'z) \in R$ et $(xyz') \in R$.
+
+Les dépendances fonctionnelles sont des cas particulier des dépendances multivaluées.
+
+**Exemple** : Considérons la relation $\text{Vol}(\text{NV}, \text{Avion}, \text{Pilote})$
 
 ### Cinquième forme normale
 
@@ -203,7 +207,7 @@ La clé de cette relation est constituée de l'ensemble des attributs $\text{NE}
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4OTY1MTM3MSw2Mjk5MTQzMTIsMjY0OT
-UxMjI2LDE2Njc0MDIwMzMsODIzNzUyNzIxLDc0ODYwMDMyNF19
+eyJoaXN0b3J5IjpbMTcxNDcxMDIzLDYyOTkxNDMxMiwyNjQ5NT
+EyMjYsMTY2NzQwMjAzMyw4MjM3NTI3MjEsNzQ4NjAwMzI0XX0=
 
 -->
