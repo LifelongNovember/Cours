@@ -114,6 +114,9 @@ D((D)) --> C
 ```
 $$ C \notin \text{clé} \\ D \in \text{clé} \\ A \in \text{clé} \\ B \rightarrow E  $$ $$ \begin{aligned} ABD &\rightarrow A \text{ oui} \\ & \rightarrow B \text{ oui} \\ &\rightarrow C \\ &\rightarrow D \text{ oui} \\ &\rightarrow E \text{ oui} \end{aligned}$$ $A,B,D$ clé candidate n°1, $A,D,E$ clé candidate n°2.
 Choix de clé : $A,D,E$. $$C \notin \text { clé}, B \notin \text{ clé}$$ $$ADE \rightarrow B \\ ADE \rightarrow C$$
+$E \rightarrow B$ & $DE \rightarrow C$ sont deux dépendances fonctionnelles qui font que $R$ n'est pas 2NF.
+
+CF (2)
 
 ### Forme normale 4
 
@@ -127,5 +130,5 @@ Choix de clé : $A,D,E$. $$C \notin \text { clé}, B \notin \text{ clé}$$ $$ADE
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMDMxNjA1MCw3NDg2MDAzMjRdfQ==
+eyJoaXN0b3J5IjpbMTQ1MjU3NDkzNCw3NDg2MDAzMjRdfQ==
 -->
