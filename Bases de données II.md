@@ -130,11 +130,12 @@ $R(A,B,C,D) : A \rightarrow B, B \rightarrow C, C \rightarrow D, D \rightarrow E
 ```mermaid
 graph LR
 A((A)) -->B((B))
-F((F)) --> A
-D((D)) --> A
-C((C)) --> D
-F --> C
+B --> C((C))
+C --> D((D))
+D --> E((E))
+E --> A
 ```
+$AB$
 
 ### Forme normale 4
 
@@ -148,6 +149,6 @@ F --> C
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDE1ODMzNjUsODIzNzUyNzIxLDc0OD
-YwMDMyNF19
+eyJoaXN0b3J5IjpbNTkwNTQwNzc4LDgyMzc1MjcyMSw3NDg2MD
+AzMjRdfQ==
 -->
