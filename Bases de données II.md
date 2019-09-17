@@ -160,10 +160,10 @@ $\text{Région} \rightarrow \text{Pays}$
 
 |Localisation|CRU|Pays|Région|Qualité
 |-|-|-|-|-|
-|1|2|3|4|
-|1|2|7|8|
-|9|10|3|4|
-|$\bf9$|$\bf10$|$\bf7$|$\bf8$|
+||Chenas|France|Beaujolais|Excellent|
+||Juliénas||||
+||||||
+||||||
 
 
 ### Forme normale 4
@@ -178,6 +178,6 @@ $\text{Région} \rightarrow \text{Pays}$
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzEwNTEyNTUsODIzNzUyNzIxLDc0OD
-YwMDMyNF19
+eyJoaXN0b3J5IjpbMTY3MDkwNzIxOCw4MjM3NTI3MjEsNzQ4Nj
+AwMzI0XX0=
 -->
