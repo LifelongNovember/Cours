@@ -191,7 +191,7 @@ La clé de cette relation est constituée de l'ensemble des attributs $\text{NE}
 
 > $R(A_1, \dots, A_n) \ ;X \subseteq \{A_1, \dots, A_n \} \ ; Y \subseteq \{A_1, \dots, A_n \} \ ; X \neq Y.$
 > $X$ multidétermine $Y$ ($X \rightarrow \rightarrow Y$) ssi $\exists \ Z \in R$ avec $Z \neq Y$, $Z \neq X$ et $Z = R - X - Y$.
-> C'est à dire $X \rightarrow \rightarrow 
+> C'est à dire $X \rightarrow \rightarrow Y \iff (x, y, z) \in R$ et $(x', y', z') \in R$. D'où $(xy'z) \in R$ et $
 
 ### Cinquième forme normale
 
@@ -203,7 +203,7 @@ La clé de cette relation est constituée de l'ensemble des attributs $\text{NE}
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NDM0OTk2OSw2Mjk5MTQzMTIsMjY0OT
+eyJoaXN0b3J5IjpbLTg4OTY1MTM3MSw2Mjk5MTQzMTIsMjY0OT
 UxMjI2LDE2Njc0MDIwMzMsODIzNzUyNzIxLDc0ODYwMDMyNF19
 
 -->
