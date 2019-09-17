@@ -277,9 +277,14 @@ D((Client)) --> B
 B --> E((Remise))
 E --> A 
 ```
-> > $\text{
+> > $\text{Cru}, \text{Type}, \text{Client}$ : 2NF
+> > $\text{Remise}, \text{Type}, \text{Client}$ : 1NF
+
+> Même question pour :
+|R|A|B|C|
+|-|-|-|--
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODE5NjMwNywxOTE4NTM5MDUwLDYyOT
-kxNDMxMiwyNjQ5NTEyMjYsMTY2NzQwMjAzMyw4MjM3NTI3MjEs
-NzQ4NjAwMzI0XX0=
+eyJoaXN0b3J5IjpbNDczMzA2OSwxOTE4NTM5MDUwLDYyOTkxND
+MxMiwyNjQ5NTEyMjYsMTY2NzQwMjAzMyw4MjM3NTI3MjEsNzQ4
+NjAwMzI0XX0=
 -->
