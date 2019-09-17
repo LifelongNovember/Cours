@@ -225,7 +225,11 @@ $$\begin{aligned} R(A,B,C) : &A \text{ indépendant de }  C \\
 &B \rightarrow \rightarrow C
 \end{aligned} $$
 
-**Exemple 2** : $\text{Personne}(\text{N°SS}, \text{N°Véhicule}, \text{Prénom-Enfant})$, $\text{N°Véhicule}$ et $\text{Prénom-Enfant}$ indépendants : $\text{N°SS} \rightarrow \rightarrow \text{N°Véhicule} \\ \text{N°SS} \rightarrow \rightarrow \text{$
+**Propriétés** : 
+* Augmentation : $X \rightarrow \rightarrow Y \im
+
+**Exemple 2** : $\text{Personne}(\text{N°SS}, \text{N°Véhicule}, \text{Prénom-Enfant})$, $\text{N°Véhicule}$ et $\text{Prénom-Enfant}$ indépendants : $\begin{array}{l}\text{N°SS} \rightarrow \rightarrow \text{N°Véhicule} \\ \text{N°SS} \rightarrow \rightarrow \text{Prénom-Enfant} \end{array}$.
+
 
 ### Cinquième forme normale
 
@@ -237,7 +241,7 @@ $$\begin{aligned} R(A,B,C) : &A \text{ indépendant de }  C \\
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MjI2MjcyOCw2Mjk5MTQzMTIsMjY0OT
-UxMjI2LDE2Njc0MDIwMzMsODIzNzUyNzIxLDc0ODYwMDMyNF19
-
+eyJoaXN0b3J5IjpbLTE5MTYzNjA4MjcsNjI5OTE0MzEyLDI2ND
+k1MTIyNiwxNjY3NDAyMDMzLDgyMzc1MjcyMSw3NDg2MDAzMjRd
+fQ==
 -->
