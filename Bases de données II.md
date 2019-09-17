@@ -195,7 +195,7 @@ La clé de cette relation est constituée de l'ensemble des attributs $\text{NE}
 
 Les dépendances fonctionnelles sont des cas particulier des dépendances multivaluées.
 
-**Exemple** : Considérons la relation $\text{Vol}(\text{NV}, \text{Avion}, \text{Pilote})$.
+**Exemple 1** : Considérons la relation $\text{Vol}(\text{NV}, \text{Avion}, \text{Pilote})$.
 * Tout pilote est appelé à piloter tout avion sur n'importe quel vol,
 * Les avions et les pilotes sont indépendants.
 
@@ -221,8 +221,11 @@ x & y & z' & \in R \\
 2 & \text{A380} & 120 &
 \end{array}$$
 $$\begin{aligned} R(A,B,C) : &A \text{ indépendant de }  C \\ 
-B \rightarro
+&B \rightarrow \rightarrow A \\
+&B \rightarrow \rightarrow C
 \end{aligned} $$
+
+**Exemple 2** :
 
 ### Cinquième forme normale
 
@@ -234,7 +237,7 @@ B \rightarro
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NjM1OTU1MCw2Mjk5MTQzMTIsMjY0OT
+eyJoaXN0b3J5IjpbMjA1NDIwMzE0NSw2Mjk5MTQzMTIsMjY0OT
 UxMjI2LDE2Njc0MDIwMzMsODIzNzUyNzIxLDc0ODYwMDMyNF19
 
 -->
