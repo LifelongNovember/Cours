@@ -167,7 +167,7 @@ $\text{Région} \rightarrow \text{Pays}$
 ||Brouilly|USA|Californie|Médiocre|
 ||Chablis|France|Beaujolais|Excellent|
 
-Considérons $(\text{CRU, Pays)}$ clé de la relation. Cette relation est 3NF mais n'est pas BCNF car $\text{Région} \rightarrow \text{Pays}$ n'est pas de la f
+Considérons $(\text{CRU, Pays)}$ clé de la relation. Cette relation est 3NF mais n'est pas BCNF car $\text{Région} \rightarrow \text{Pays}$ n'est pas de la forme $\text{clé} \rightarrow \text{attribut}$.
 
 ### Forme normale 4
 
@@ -181,6 +181,6 @@ Considérons $(\text{CRU, Pays)}$ clé de la relation. Cette relation est 3NF ma
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDI3MTY0ODgsODIzNzUyNzIxLDc0OD
-YwMDMyNF19
+eyJoaXN0b3J5IjpbMTY2NzQwMjAzMyw4MjM3NTI3MjEsNzQ4Nj
+AwMzI0XX0=
 -->
