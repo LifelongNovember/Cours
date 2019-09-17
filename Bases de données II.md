@@ -32,7 +32,7 @@ La relation Livre peut être normalisée pour respecter la 1NF de la manière su
 
 **Remarque** : Toute relation dont la clé est composée d(un seul attribut et qui respecte la 1NF est forcément 2NF.
 
-**Exemple** : 
+**Exemple 1** : 
 $R(A,B,C,D) \rightarrow \text{une relation } \{A \rightarrow B, C \rightarrow D, F \rightarrow C, FD \rightarrow A \}$, ensemble de dépendances fonctionnelles valides sur $R$.
 
 **Graphe des DF de R**
@@ -50,7 +50,13 @@ Tout attribut n'appartenant à aucune des parties droites des dépendances fonct
 ⇒ $F \in \text{clé}$
 $$\begin{aligned} FD \rightarrow A   &(1) \\ F \rightarrow C &(2) \\ C \rightarrow D &(3) \\ F \rightarrow D &(4)\end{aligned}$$
 
-$$\begin{aligned} (4) \text{ et } (1) \ &FF \rightarrow A \\ &F \rightarrow A \\ &F \rightarrow B\end{aligned}$$
+$$\begin{aligned} (4) \text{ et } (1) \ &FF \rightarrow A \\ &F \rightarrow A \\ &F \rightarrow B \text{ par transitivité}\end{aligned}$$ $F$ est une clé candidate, elle est unique.
+⇒ Clé atomique : $R$ 2NF.
+
+**Exemple 2** :
+
+$R
+
 ### Forme normale 4
 
 ### Forme normale 5
@@ -63,5 +69,5 @@ $$\begin{aligned} (4) \text{ et } (1) \ &FF \rightarrow A \\ &F \rightarrow A \\
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg1MDAwMzYzLDc0ODYwMDMyNF19
+eyJoaXN0b3J5IjpbLTY0MTM2ODAxNSw3NDg2MDAzMjRdfQ==
 -->
