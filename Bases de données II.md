@@ -10,8 +10,9 @@
 
 Exemple :
 
-|Livre|Titre|Auteur|
----
+| Livre | Titre | Auteur |
+|-------|-------|--------|
+|       |
 
 ### Forme normale 4
 
@@ -25,5 +26,5 @@ Exemple :
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY3NTkxMjhdfQ==
+eyJoaXN0b3J5IjpbMjgwNDE5MDQ5XX0=
 -->
