@@ -225,7 +225,7 @@ $$\begin{aligned} R(A,B,C) : &A \text{ indépendant de }  C \\
 &B \rightarrow \rightarrow C
 \end{aligned} $$
 
-**Exemple 2** :
+**Exemple 2** : $\text{Personne}(\text{N°SS}, \text{N°Véhicule}, \text{Prénom-Enfant})$, $\text{N°Véhicule}$ et $\tex
 
 ### Cinquième forme normale
 
@@ -237,7 +237,7 @@ $$\begin{aligned} R(A,B,C) : &A \text{ indépendant de }  C \\
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NDIwMzE0NSw2Mjk5MTQzMTIsMjY0OT
-UxMjI2LDE2Njc0MDIwMzMsODIzNzUyNzIxLDc0ODYwMDMyNF19
-
+eyJoaXN0b3J5IjpbLTE0MzAyNjI1MDksNjI5OTE0MzEyLDI2ND
+k1MTIyNiwxNjY3NDAyMDMzLDgyMzc1MjcyMSw3NDg2MDAzMjRd
+fQ==
 -->
