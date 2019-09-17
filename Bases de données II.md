@@ -78,8 +78,16 @@ Oui : les deux DF initiales sont préservées.
 $$ \\ $$
 |R1|A|B|
 --|--|--
-1
+|  | 1 | 2 |
+|  | 9 | 10 |
 
+$$ \\ $$
+|R2|C|D|
+--|--|--
+|  | 3 | 4 |
+|  | 7 | 8 |
+
+$$ R1 \times $$
 
 ### Forme normale 4
 
@@ -93,5 +101,5 @@ $$ \\ $$
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyOTIxNjg0NCw3NDg2MDAzMjRdfQ==
+eyJoaXN0b3J5IjpbOTM2NDgwNDY4LDc0ODYwMDMyNF19
 -->
