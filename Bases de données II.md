@@ -297,10 +297,13 @@ E --> A
 > > $B \rightarrow A$ (non valide),
 > > $B \rightarrow C$ (non valide),
 > > $AB \rightarrow C$ (non valide),
-> > $AB \rightarrow C$ (non valide),
 > > $AC \rightarrow B$ (non valide),
+> > $BC \rightarrow A$ (non valide),
+> > 
+> > $A \rightarrow \rightarrow B$
+> > $$ \begin{array}{ccc|ccc} \end{array}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNzE2MjYxMiwxOTE4NTM5MDUwLDYyOT
-kxNDMxMiwyNjQ5NTEyMjYsMTY2NzQwMjAzMyw4MjM3NTI3MjEs
-NzQ4NjAwMzI0XX0=
+eyJoaXN0b3J5IjpbLTE0NjgxNzMwNzEsMTkxODUzOTA1MCw2Mj
+k5MTQzMTIsMjY0OTUxMjI2LDE2Njc0MDIwMzMsODIzNzUyNzIx
+LDc0ODYwMDMyNF19
 -->
