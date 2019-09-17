@@ -269,16 +269,17 @@ $$\begin{aligned} R(A,B,C) : &A \text{ indépendant de }  C \\
 > <div align="center"><img src="https://raw.githubusercontent.com/LifelongNovember/Cours/master/img/UML%20Voiture.png"></img>
 
 > Même question pour $\text{Cru}, \text{Type}, \text{Client} \rightarrow \text{Remise}$, $\text{Remise} \rightarrow \text{Cru}$.
-
 ```mermaid
 graph LR
 A((Cru)) --> B{/}
 C((Type)) --> B
 D((Client)) --> B
- 
+B --> E((Remise))
+E --> A 
 ```
+> > $\text{
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1NjQyMjgzLDE5MTg1MzkwNTAsNjI5OT
-E0MzEyLDI2NDk1MTIyNiwxNjY3NDAyMDMzLDgyMzc1MjcyMSw3
-NDg2MDAzMjRdfQ==
+eyJoaXN0b3J5IjpbLTcyODE5NjMwNywxOTE4NTM5MDUwLDYyOT
+kxNDMxMiwyNjQ5NTEyMjYsMTY2NzQwMjAzMyw4MjM3NTI3MjEs
+NzQ4NjAwMzI0XX0=
 -->
