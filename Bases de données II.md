@@ -189,7 +189,7 @@ Exemple de contenu de cette relation :
 
 La clé de cette relation est constituée de l'ensemble des attributs $\text{NE}$, $\text{Cours}$ et $\text{Sport}$. Cette relation ne possède aucune dépendance fonctionnelle et elle respecte les formes normales BNCF et 3NF.
 
-
+> $R(A_1, \dots, A_n)$, $X \inc$
 
 ### Cinquième forme normale
 
@@ -201,7 +201,7 @@ La clé de cette relation est constituée de l'ensemble des attributs $\text{NE}
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NjA5NjQ5Miw2Mjk5MTQzMTIsMjY0OT
-UxMjI2LDE2Njc0MDIwMzMsODIzNzUyNzIxLDc0ODYwMDMyNF19
+eyJoaXN0b3J5IjpbNjg5NjM4ODYwLDYyOTkxNDMxMiwyNjQ5NT
+EyMjYsMTY2NzQwMjAzMyw4MjM3NTI3MjEsNzQ4NjAwMzI0XX0=
 
 -->
