@@ -204,12 +204,15 @@ Les dépendances fonctionnelles sont des cas particulier des dépendances multiv
 | |2|A380|115|
 | |3|B737|115|
 | |5|A360|115|
-|\right |2|B737|120|
+|$\rightarrow$ |2|B737|120|
 | |2|B737|115|
 | |2|A380|120|
 | |3|B740|120|
 | |3|B740|115|
 | |3|B737|120|
+
+$\text{NV} \rightarrow \rightarrow \text{Pilote}$
+$$\begin{array} 2 & A380 & 115 \end{array}$$
 
 ### Cinquième forme normale
 
@@ -221,7 +224,7 @@ Les dépendances fonctionnelles sont des cas particulier des dépendances multiv
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MzYwMDc3NSw2Mjk5MTQzMTIsMjY0OT
-UxMjI2LDE2Njc0MDIwMzMsODIzNzUyNzIxLDc0ODYwMDMyNF19
+eyJoaXN0b3J5IjpbMTcxODc3ODQwLDYyOTkxNDMxMiwyNjQ5NT
+EyMjYsMTY2NzQwMjAzMyw4MjM3NTI3MjEsNzQ4NjAwMzI0XX0=
 
 -->
