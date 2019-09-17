@@ -247,7 +247,7 @@ $$\begin{aligned} R(A,B,C) : &A \text{ indépendant de }  C \\
 > > Les attributs sont atomiques : 1NF. Clé : $(\text{Cru} \ \text{Client} \ \text{Remise})$.
 
 > Même question pour $\text{Voiture}(\text{Marque}, \text{Type}, \text{Puissance}, \text{Couleur})$, $\text{Marque}, \text{Type} \rightarrow \text{Puissance}$ ; $\text{Puissance} \rightarrow \text{Couleur}$.
-> > Les attributs sont atomiques, aucun attribut non-clé ne  : 2NF. Clé: $(\text{Marque Type})$.
+> > Les attributs sont atomiques et aucun attribut non-clé ne dépend d'une partie de la clé : 2NF. Clé: $(\text{Marque Type})$.
 
 ### Cinquième forme normale
 
@@ -259,7 +259,7 @@ $$\begin{aligned} R(A,B,C) : &A \text{ indépendant de }  C \\
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDEwNjA5MDEsNjI5OTE0MzEyLDI2ND
-k1MTIyNiwxNjY3NDAyMDMzLDgyMzc1MjcyMSw3NDg2MDAzMjRd
-fQ==
+eyJoaXN0b3J5IjpbLTM0NjMyMDY1MCw2Mjk5MTQzMTIsMjY0OT
+UxMjI2LDE2Njc0MDIwMzMsODIzNzUyNzIxLDc0ODYwMDMyNF19
+
 -->
