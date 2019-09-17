@@ -162,10 +162,12 @@ $\text{Région} \rightarrow \text{Pays}$
 |-|-|-|-|-|
 ||Chenas|France|Beaujolais|Excellent|
 ||Juliénas|France|Beaujolais|Excellent|
-||Morgan|France|USA||
-||Chablis||||
-||Brouilly||||
-||Chablis||||
+||Morgan|France|Beaujolais|Bon|
+||Chablis|USA|Californie|Moyen|
+||Brouilly|USA|Californie|Médiocre|
+||Chablis|France|Beaujolais|Excellent|
+
+Considérons $(\text{CRU, Pays)}
 
 ### Forme normale 4
 
@@ -179,6 +181,6 @@ $\text{Région} \rightarrow \text{Pays}$
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzc0NDU3NjYsODIzNzUyNzIxLDc0OD
-YwMDMyNF19
+eyJoaXN0b3J5IjpbOTUyMzA4NzQxLDgyMzc1MjcyMSw3NDg2MD
+AzMjRdfQ==
 -->
