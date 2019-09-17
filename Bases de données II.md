@@ -231,10 +231,25 @@ $$\begin{aligned} R(A,B,C) : &A \text{ indépendant de }  C \\
 * Transitivité : $\begin{array}{l} X \rightarrow \rightarrow Y \\ Y \rightarrow \rightarrow Z \end{array} \implies X \rightarrow \rightarrow Z$
 * Complémentation : $X \rightarrow \rightarrow Y \implies X \rightarrow \rightarrow R - X - Y$
 
-**Exercice 1** : 
+
+
+
+### Cinquième forme normale
+
+## Gestion des transactions
+
+## Optimisation
+
+## Techniques de stockage
+
+## Administration
+
+# Exercices
+
+## Exercice 1 
 
 >Soit la relation :
->
+
 |Personne|Nom|Profession|
 |-|-|-|
 ||Martin|Président|
@@ -251,18 +266,8 @@ $$\begin{aligned} R(A,B,C) : &A \text{ indépendant de }  C \\
 
 > Même question pour $\text{Voiture}(\text{Marque}, \text{Type}, \text{Puissance}, \text{Couleur})$, $\text{Marque}, \text{Type} \rightarrow \text{Puissance}$ ; $\text{Puissance} \rightarrow \text{Couleur}$.
 > > Les attributs sont atomiques et aucun attribut non-clé ne dépend d'une partie de la clé : 2NF. Clé: $(\text{Marque Type})$.
-
-### Cinquième forme normale
-
-## Gestion des transactions
-
-## Optimisation
-
-## Techniques de stockage
-
-## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3OTg0MDU2OCw2Mjk5MTQzMTIsMjY0OT
+eyJoaXN0b3J5IjpbMTkxODUzOTA1MCw2Mjk5MTQzMTIsMjY0OT
 UxMjI2LDE2Njc0MDIwMzMsODIzNzUyNzIxLDc0ODYwMDMyNF19
 
 -->
