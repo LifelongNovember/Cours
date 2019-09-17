@@ -173,6 +173,8 @@ CF4
 
 ### Quatrième forme normale
 
+La BCNF n'est pas suffisante pour éliminer les redondanc
+
 ### Cinquième forme normale
 
 ## Gestion des transactions
@@ -183,6 +185,6 @@ CF4
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0ODE3NjY5NCwyNjQ5NTEyMjYsMTY2Nz
+eyJoaXN0b3J5IjpbLTU0NjA1MzczMCwyNjQ5NTEyMjYsMTY2Nz
 QwMjAzMyw4MjM3NTI3MjEsNzQ4NjAwMzI0XX0=
 -->
