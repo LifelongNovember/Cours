@@ -142,6 +142,9 @@ $R$ n'est pas 3NF car :
 $B \rightarrow C$ de la forme $\text{attribut} \notin \text{clé} \rightarrow \text{attribut} \notin \text{ clé}$ 
 $C \rightarrow D$ de la forme $\text{attribut} \notin \text{clé} \rightarrow \text{attribut} \notin \text{ clé}$  
 $D \rightarrow E$ de la forme $\text{attribut} \notin \text{clé} \rightarrow \text{attribut} \notin \text{ clé}$  
+
+Décomposition : 
+CF (3)
 ### Forme normale 4
 
 ### Forme normale 5
@@ -154,6 +157,6 @@ $D \rightarrow E$ de la forme $\text{attribut} \notin \text{clé} \rightarrow \t
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMjIzOTE4LDgyMzc1MjcyMSw3NDg2MD
-AzMjRdfQ==
+eyJoaXN0b3J5IjpbLTk0MzU5NjkzOCw4MjM3NTI3MjEsNzQ4Nj
+AwMzI0XX0=
 -->
