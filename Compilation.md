@@ -8,9 +8,9 @@
  * (CF diapo)
 
 **Compilateur** : programme qui traduit un langage dans un autre langage plus bas niveau.
-Le compu
-
+Le compilateur produit généralement un exécutable mais pas nécessairement. 
+Le compilateur est *correct* si la sémantique du code produit est la même que celle du code source.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDkzMzA1MSwxMDg3NzM3Mjc2LC0xNT
-I4MjI5NDQ1LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE3MTM1NzYyNTYsMTA4NzczNzI3NiwtMT
+UyODIyOTQ0NSwtMjA4ODc0NjYxMl19
 -->
