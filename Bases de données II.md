@@ -16,7 +16,8 @@ Exemple :
 |       |Optimisation|Ali|13.14|
 |       |Bases de données | Georges|12
 
-La relation Livre n'est pas 
+La relation Livre n'est pas en première forme normale (1NF) car l'attribut prix n'est pas atomique.
+La relation Livre peut être normalisée pour respecter la 1NF de la m
 
 ### Forme normale 4
 
@@ -30,5 +31,5 @@ La relation Livre n'est pas
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTE5MjE5MzddfQ==
+eyJoaXN0b3J5IjpbLTE5ODM1NTM3NTNdfQ==
 -->
