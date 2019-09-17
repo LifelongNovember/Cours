@@ -48,9 +48,9 @@ F --> C
 
 Tout attribut n'appartenant à aucune des parties droites des dépendances fonctionnelles doit faire partie de la clé.
 ⇒ $F \in \text{clé}$
-$$\begin{aligned} FD \rightarrow A   &(1) \\ F \rightarrow C &(2) \\ C \rightarrow D &(3) \\ F \rightarrow D &(4)\end{aligned}$
+$$\begin{aligned} FD \rightarrow A   &(1) \\ F \rightarrow C &(2) \\ C \rightarrow D &(3) \\ F \rightarrow D &(4)\end{aligned}$$
 
-$(
+$$\begin{aligned} (4) \text{ et } (1) \ &FF \rightarrow A \\ &F \rightarrow A \\ &F \rightarrow B\end{aligned}$$
 ### Forme normale 4
 
 ### Forme normale 5
@@ -63,5 +63,5 @@ $(
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMDAxNjQ2Nyw3NDg2MDAzMjRdfQ==
+eyJoaXN0b3J5IjpbMzg1MDAwMzYzLDc0ODYwMDMyNF19
 -->
