@@ -146,7 +146,7 @@ $D \rightarrow E$ de la forme $\text{attribut} \notin \text{clé} \rightarrow \t
 Décomposition : 
 CF (3)
 
-$$ R = R1 (\times)  B R2$$
+$$ R = R1 \underset{B}{(\times)}  R2 \underset{C}{(\times)} R3 \underset{D}{(\times)} R4 \underset{E}{(\times)} R5$$
 ### Forme normale 4
 
 ### Forme normale 5
@@ -159,6 +159,6 @@ $$ R = R1 (\times)  B R2$$
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDU4NTMxMzUsODIzNzUyNzIxLDc0OD
-YwMDMyNF19
+eyJoaXN0b3J5IjpbMTcyMTMzMDkxNiw4MjM3NTI3MjEsNzQ4Nj
+AwMzI0XX0=
 -->
