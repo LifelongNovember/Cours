@@ -189,6 +189,8 @@ Exemple de contenu de cette relation :
 
 La clé de cette relation est constituée de l'ensemble des attributs $\text{NE}$, $\text{Cours}$ et $\text{Sport}$. Cette relation ne possède aucune dépendance fonctionnelle et elle respecte les formes normales BNCF et 3NF.
 
+
+
 ### Cinquième forme normale
 
 ## Gestion des transactions
@@ -199,6 +201,7 @@ La clé de cette relation est constituée de l'ensemble des attributs $\text{NE}
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI5OTE0MzEyLDI2NDk1MTIyNiwxNjY3ND
-AyMDMzLDgyMzc1MjcyMSw3NDg2MDAzMjRdfQ==
+eyJoaXN0b3J5IjpbMTk0NjA5NjQ5Miw2Mjk5MTQzMTIsMjY0OT
+UxMjI2LDE2Njc0MDIwMzMsODIzNzUyNzIxLDc0ODYwMDMyNF19
+
 -->
