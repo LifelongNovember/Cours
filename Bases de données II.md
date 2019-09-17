@@ -211,13 +211,14 @@ Les dépendances fonctionnelles sont des cas particulier des dépendances multiv
 | |3|B740|115|
 | |3|B737|120|
 
-$\text{NV} \rightarrow \rightarrow \text{Pilote}$
-$$\begin{array}{ccc} 2 & A380 & 115 \\ 
+$$\text{NV} \rightarrow \rightarrow \text{Pilote}$$ $$\begin{array}{ccc} 2 & \text{A380} & 115 \\ 
 x & y & z \\ \\
-2 & B737 & 120 \\
+2 & \text{B737} & 120 \\
 x & y' & z'
 \end{array} \implies \begin{array}{cccc} x & y' & z & \in R \\ 
-2 & B737 & 115 & \\
+2 & \text{B737} & 115 & \\ \\
+x & y & z' & \in R \\
+2 & \text{A380} & 120 &
 \end{array}$$
 
 ### Cinquième forme normale
@@ -230,7 +231,7 @@ x & y' & z'
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExOTQ3NTk5LDYyOTkxNDMxMiwyNjQ5NT
-EyMjYsMTY2NzQwMjAzMyw4MjM3NTI3MjEsNzQ4NjAwMzI0XX0=
-
+eyJoaXN0b3J5IjpbLTEyNzE2OTI3NTEsNjI5OTE0MzEyLDI2ND
+k1MTIyNiwxNjY3NDAyMDMzLDgyMzc1MjcyMSw3NDg2MDAzMjRd
+fQ==
 -->
