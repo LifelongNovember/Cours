@@ -46,8 +46,7 @@ C((C)) --> D
 F --> C
 ```
 
-Tout attribut n'appartenant à aucune des parties droites des dépendances fonctionnelles doit faire partie de la clé.
-⇒ $F \in \text{clé}$
+Tout attribut n'appartenant à aucune des parties droites des dépendances fonctionnelles doit faire partie de la clé. ⇒ $F \in \text{clé}$
 $$\begin{aligned} FD \rightarrow A   &(1) \\ F \rightarrow C &(2) \\ C \rightarrow D &(3) \\ F \rightarrow D &(4)\end{aligned}$$
 
 $$\begin{aligned} (4) \text{ et } (1) \ &FF \rightarrow A \\ &F \rightarrow A \\ &F \rightarrow B \text{ par transitivité}\end{aligned}$$ $F$ est une clé candidate, elle est unique.
@@ -260,7 +259,7 @@ $$\begin{aligned} R(A,B,C) : &A \text{ indépendant de }  C \\
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTY1NTExMDAsNjI5OTE0MzEyLDI2ND
-k1MTIyNiwxNjY3NDAyMDMzLDgyMzc1MjcyMSw3NDg2MDAzMjRd
-fQ==
+eyJoaXN0b3J5IjpbMTg4NDM2MDk4Niw2Mjk5MTQzMTIsMjY0OT
+UxMjI2LDE2Njc0MDIwMzMsODIzNzUyNzIxLDc0ODYwMDMyNF19
+
 -->
