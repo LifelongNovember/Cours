@@ -8,7 +8,10 @@
 
 > Une relation R est dite en première forme normale ssi tous ses attributs sont atomiques.
 
-_Exemple_
+Exemple :
+
+|Livre|Titre|Auteur|
+---
 
 ### Forme normale 4
 
@@ -22,5 +25,5 @@ _Exemple_
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MDg4NTU3M119
+eyJoaXN0b3J5IjpbOTY3NTkxMjhdfQ==
 -->
