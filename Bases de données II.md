@@ -189,9 +189,9 @@ Exemple de contenu de cette relation :
 
 La clé de cette relation est constituée de l'ensemble des attributs $\text{NE}$, $\text{Cours}$ et $\text{Sport}$. Cette relation ne possède aucune dépendance fonctionnelle et elle respecte les formes normales BNCF et 3NF.
 
-> $R(A_1, \dots, A_n) \ ;X \subseteq \{A_1, \dots, A_n \} \ ; Y \subseteq \{A_1, \dots, A_n \} \ ; X \neq Y.$
-> $X$ multidétermine $Y$ ($X \rightarrow \rightarrow Y$) ssi $\exists \ Z \in R$ avec $Z \neq Y$, $Z \neq X$ et $Z = R - X - Y$.
-> C'est à dire $X \rightarrow \rightarrow Y \iff (x, y, z) \in R$ et $(x', y', z') \in R$. D'où $(xy'z) \in R$ et $(xyz') \in R$.
+$R(A_1, \dots, A_n) \ ;X \subseteq \{A_1, \dots, A_n \} \ ; Y \subseteq \{A_1, \dots, A_n \} \ ; X \neq Y.$
+$X$ multidétermine $Y$ ($X \rightarrow \rightarrow Y$) ssi $\exists \ Z \in R$ avec $Z \neq Y$, $Z \neq X$ et $Z = R - X - Y$.
+C'est à dire $X \rightarrow \rightarrow Y \iff (x, y, z) \in R$ et $(x', y', z') \in R$. D'où $(xy'z) \in R$ et $(xyz') \in R$.
 
 Les dépendances fonctionnelles sont des cas particulier des dépendances multivaluées.
 
@@ -225,13 +225,14 @@ $$\begin{aligned} R(A,B,C) : &A \text{ indépendant de }  C \\
 &B \rightarrow \rightarrow C
 \end{aligned} $$
 
+**Exemple 2** : $\text{Personne}(\text{N°SS}, \text{N°Véhicule}, \text{Prénom-Enfant})$, $\text{N°Véhicule}$ et $\text{Prénom-Enfant}$ indépendants : $\begin{array}{l}\text{N°SS} \rightarrow \rightarrow \text{N°Véhicule} \\ \text{N°SS} \rightarrow \rightarrow \text{Prénom-Enfant} \end{array}$.
+
 **Propriétés** : 
 * Augmentation : $X \rightarrow \rightarrow Y \implies XV \rightarrow \rightarrow YV$
 * Transitivité : $\begin{array}{l} X \rightarrow \rightarrow Y \\ Y \rightarrow \rightarrow Z \end{array} \implies X \rightarrow \rightarrow Z$
-* Complémentation : $X \rightarrow \rightarrow Y \implies
+* Complémentation : $X \rightarrow \rightarrow Y \implies X \rightarrow \rightarrow R - X - Y$
 
-**Exemple 2** : $\text{Personne}(\text{N°SS}, \text{N°Véhicule}, \text{Prénom-Enfant})$, $\text{N°Véhicule}$ et $\text{Prénom-Enfant}$ indépendants : $\begin{array}{l}\text{N°SS} \rightarrow \rightarrow \text{N°Véhicule} \\ \text{N°SS} \rightarrow \rightarrow \text{Prénom-Enfant} \end{array}$.
-
+**Exercice 1** : Soit la relation
 
 ### Cinquième forme normale
 
@@ -243,7 +244,7 @@ $$\begin{aligned} R(A,B,C) : &A \text{ indépendant de }  C \\
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzM0OTMyNTEsNjI5OTE0MzEyLDI2ND
+eyJoaXN0b3J5IjpbLTE0NDI1NzI4NDMsNjI5OTE0MzEyLDI2ND
 k1MTIyNiwxNjY3NDAyMDMzLDgyMzc1MjcyMSw3NDg2MDAzMjRd
 fQ==
 -->
