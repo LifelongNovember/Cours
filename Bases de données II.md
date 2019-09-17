@@ -183,7 +183,11 @@ Exemple de contenu de cette relation :
 |-|-|-|
 |100|BD|Tennis|
 |100|BD|Foot|
-|100|Réseaux|
+|100|Réseau|Tennis|
+|100|Réseau|Foot|
+|200|Réseau|Vélo|
+
+La clé de cette relation est constituée de l'ensemble des attributs $\text{NE}$, $\text{Cours}$ et $\te
 
 ### Cinquième forme normale
 
@@ -195,6 +199,6 @@ Exemple de contenu de cette relation :
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU0NTM5MjA1LDI2NDk1MTIyNiwxNjY3ND
-AyMDMzLDgyMzc1MjcyMSw3NDg2MDAzMjRdfQ==
+eyJoaXN0b3J5IjpbLTIwNzQ2NjM1NDEsMjY0OTUxMjI2LDE2Nj
+c0MDIwMzMsODIzNzUyNzIxLDc0ODYwMDMyNF19
 -->
