@@ -33,7 +33,7 @@ La relation Livre peut être normalisée pour respecter la 1NF de la manière su
 **Remarque** : Toute relation dont la clé est composée d(un seul attribut et qui respecte la 1NF est forcément 2NF.
 
 **Exemple** : 
-$R(A,B,C,D) \rightarrow \text{une relation } \{A \rightarrow B, C \rightarrow D, F \rightarrow C, FD \rightarrow A \}$
+$R(A,B,C,D) \rightarrow \text{une relation } \{A \rightarrow B, C \rightarrow D, F \rightarrow C, FD \rightarrow A \}$, ensemble de dépendances fonctionnelles valides sur $R$.
 
 ### Forme normale 4
 
@@ -47,5 +47,5 @@ $R(A,B,C,D) \rightarrow \text{une relation } \{A \rightarrow B, C \rightarrow D,
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ2Mjg1OTExXX0=
+eyJoaXN0b3J5IjpbLTcwODY5Mzc0XX0=
 -->
