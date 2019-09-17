@@ -237,7 +237,8 @@ $$\begin{aligned} R(A,B,C) : &A \text{ indépendant de }  C \\
 |-|-|-|
 ||Martin|Président|
 ||Arij|Enseignante|
-||
+||Anne|Enseignante|
+>Quelle est la 
 
 ### Cinquième forme normale
 
@@ -249,7 +250,7 @@ $$\begin{aligned} R(A,B,C) : &A \text{ indépendant de }  C \\
 
 ## Administration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMjY5OTcyMCw2Mjk5MTQzMTIsMjY0OT
+eyJoaXN0b3J5IjpbMTkwOTc2NzA4MCw2Mjk5MTQzMTIsMjY0OT
 UxMjI2LDE2Njc0MDIwMzMsODIzNzUyNzIxLDc0ODYwMDMyNF19
 
 -->
