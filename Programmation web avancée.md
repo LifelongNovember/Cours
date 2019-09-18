@@ -36,9 +36,12 @@ function main() {
 **Promise** :
 
 ``` javascript
-new Promise() let req = XMLHTTPRequest(val,..., callback)
+new Promise((resolve, reject) {
+  if(statusCode = 200) resolve();
+  else reject();
+});
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0MTA2OTkwLC0yMDE4MjM2MTAxLC03MD
-g4MDcwMjldfQ==
+eyJoaXN0b3J5IjpbMTEzMzAwODAwMiwtMjAxODIzNjEwMSwtNz
+A4ODA3MDI5XX0=
 -->
