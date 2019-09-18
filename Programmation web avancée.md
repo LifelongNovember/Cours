@@ -56,15 +56,15 @@ req(url).then => (val => {
 **Fonctions nommées** :
 
 ``` javascript
-function myFunc() {
+function myFunc(a, func) {
 };
 -----
-var myFunc = function() {
+var myFunc(a = function() {
 };
 -----
 var myFunc = () => {};
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI2NDY2MjQyLDExMzMwMDgwMDIsLTIwMT
-gyMzYxMDEsLTcwODgwNzAyOV19
+eyJoaXN0b3J5IjpbLTE2MDczNDc4NTAsMTEzMzAwODAwMiwtMj
+AxODIzNjEwMSwtNzA4ODA3MDI5XX0=
 -->
