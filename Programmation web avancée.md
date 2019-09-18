@@ -36,12 +36,16 @@ function main() {
 **Promise** :
 
 ``` javascript
-new Promise((resolve, reject) {
-  if(statusCode = 200) resolve();
-  else reject();
-});
+function req(url) {
+  new Promise((resolve, reject) {
+    if(statusCode = 200) resolve();
+    else reject();
+  });
+}
+let r = await req(url);
+console.log("fini")
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzAwODAwMiwtMjAxODIzNjEwMSwtNz
-A4ODA3MDI5XX0=
+eyJoaXN0b3J5IjpbMjY3NTA4NDQ1LDExMzMwMDgwMDIsLTIwMT
+gyMzYxMDEsLTcwODgwNzAyOV19
 -->
