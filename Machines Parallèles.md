@@ -58,8 +58,12 @@ $$ \begin{array}{c|c}
 **Inversion des priorités** : Lorsque des threads ont des fonctions différentes d'importance plus ou moins grande, les mutex ne sont pas capables de gérer les priorités.
 
 ## Sémaphore
+
+$S$ : entier non négatif (correspondant au nombre de threads que peuvent utiliser la ressource).
+$q$ : pile de threads FIFO
+$semwait$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MzU3NjczNiwtNzM0MjIxNTA3LC0xMz
-c4NjkyNTE2LDM1NDk4NDM3MiwxMDM1OTY4MjgzLC0xOTMzMTY5
-NDg4XX0=
+eyJoaXN0b3J5IjpbLTE4ODQwMTIwOTMsLTczNDIyMTUwNywtMT
+M3ODY5MjUxNiwzNTQ5ODQzNzIsMTAzNTk2ODI4MywtMTkzMzE2
+OTQ4OF19
 -->
