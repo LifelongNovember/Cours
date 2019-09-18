@@ -33,8 +33,10 @@ function main() {
 }
 ```
 
+**Promise** :
 
+``` javascript
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzOTU3OTU0MywtMjAxODIzNjEwMSwtNz
-A4ODA3MDI5XX0=
+eyJoaXN0b3J5IjpbLTE1Nzk0NjU3MzcsLTIwMTgyMzYxMDEsLT
+cwODgwNzAyOV19
 -->
