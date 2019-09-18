@@ -24,7 +24,15 @@ $$ \text {nb = 1} \quad \begin{array}{|c|c}
 \text{set nb} & \\
 & \text{set nb}
 \end{array}$$
+
+``` c
+bool isLocked = false
+if(isLocked == false)
+  isLocked = true
+else
+  while(isLocked)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTA2MDg4OSwzNTQ5ODQzNzIsMTAzNT
-k2ODI4MywtMTkzMzE2OTQ4OF19
+eyJoaXN0b3J5IjpbMTM2OTEwOTksMzU0OTg0MzcyLDEwMzU5Nj
+gyODMsLTE5MzMxNjk0ODhdfQ==
 -->
