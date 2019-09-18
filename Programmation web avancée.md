@@ -36,7 +36,9 @@ function main() {
 **Promise** :
 
 ``` javascript
+new Promise() let req = XMLHTTPRequest(val,..., callback)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzk0NjU3MzcsLTIwMTgyMzYxMDEsLT
-cwODgwNzAyOV19
+eyJoaXN0b3J5IjpbMjU0MTA2OTkwLC0yMDE4MjM2MTAxLC03MD
+g4MDcwMjldfQ==
 -->
