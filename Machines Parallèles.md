@@ -59,11 +59,14 @@ $$ \begin{array}{c|c}
 
 ## Sémaphore
 
-$S$ : entier non négatif (correspondant au nombre de threads que peuvent utiliser la ressource).
+$s$ : entier non négatif (correspondant au nombre de threads que peuvent utiliser la ressource).
+
 $q$ : pile de threads FIFO
-$semwait$
+
+```semwait``` décrémente $s$. Si $s$ passe en négatif, le thread en cours entre dans la pile.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODQwMTIwOTMsLTczNDIyMTUwNywtMT
-M3ODY5MjUxNiwzNTQ5ODQzNzIsMTAzNTk2ODI4MywtMTkzMzE2
-OTQ4OF19
+eyJoaXN0b3J5IjpbLTE3Mjk2Nzc2MywtNzM0MjIxNTA3LC0xMz
+c4NjkyNTE2LDM1NDk4NDM3MiwxMDM1OTY4MjgzLC0xOTMzMTY5
+NDg4XX0=
 -->
