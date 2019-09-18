@@ -15,11 +15,12 @@ La mémoire d'un processus est partagée avec ses threads.
  *  Mémoire partagée,
  * Communication directe (data race).
 
-$$ \begin{array}{lll}
-\text {\bf Routine} & \text{\bf Thread 1} & \text{\bf Thread 2} \\
-\text{get nb} & 
+$$ \begin{array}{l|l}
+\text{\bf Thread 1} & \text{\bf Thread 2} \\
+\text{get nb} & \\
+ & \text{get nb : 1} \\
 \end{array}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzk3NDM5MTYsMTAzNTk2ODI4MywtMT
-kzMzE2OTQ4OF19
+eyJoaXN0b3J5IjpbNjM3MDIyNDA1LDEwMzU5NjgyODMsLTE5Mz
+MxNjk0ODhdfQ==
 -->
