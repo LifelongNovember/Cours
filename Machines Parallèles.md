@@ -29,10 +29,15 @@ $$ \text {nb = 1} \quad \begin{array}{|c|c}
 bool isLocked = false
 if(isLocked == false)
   isLocked = true
-else
-  while(isLocked)
+else {
+  while(isLocked) {
+    wait
+   }
+}
+isLocked = true
+...
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2OTEwOTksMzU0OTg0MzcyLDEwMzU5Nj
+eyJoaXN0b3J5IjpbLTk5Mzc2NjEsMzU0OTg0MzcyLDEwMzU5Nj
 gyODMsLTE5MzMxNjk0ODhdfQ==
 -->
