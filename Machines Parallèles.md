@@ -66,8 +66,10 @@ $q$ : pile de threads FIFO
 ```SemWait()``` décrémente $s$. Si $s$ passe en négatif, le thread en cours entre dans la pile.
 
 ```SemSignal()``` incrémente $s$. Si $s <= 0$, on fait sortir le thread de la pile.
+
+$$ \text{\bf S = 1} :  \text{\bf D C B} \ \vert \ \text{\bf A} $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3Nzk0MzIxNiwtNzM0MjIxNTA3LC0xMz
-c4NjkyNTE2LDM1NDk4NDM3MiwxMDM1OTY4MjgzLC0xOTMzMTY5
-NDg4XX0=
+eyJoaXN0b3J5IjpbODk1NjMwMzgxLDE3Nzc5NDMyMTYsLTczND
+IyMTUwNywtMTM3ODY5MjUxNiwzNTQ5ODQzNzIsMTAzNTk2ODI4
+MywtMTkzMzE2OTQ4OF19
 -->
