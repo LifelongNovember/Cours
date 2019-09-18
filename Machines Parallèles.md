@@ -15,8 +15,8 @@ La mémoire d'un processus est partagée avec ses threads.
  *  Mémoire partagée,
  * Communication directe (data race).
 
-
+**Routine**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3Mjg1NTA0OCwxMDM1OTY4MjgzLC0xOT
+eyJoaXN0b3J5IjpbLTQ3NjkwMDY5NiwxMDM1OTY4MjgzLC0xOT
 MzMTY5NDg4XX0=
 -->
