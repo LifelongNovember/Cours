@@ -74,9 +74,11 @@ $$ \begin{alignedat}{3}
 \text{\bf S = -2} &: \text{\bf D } \ && \text{\bf [AB]} \quad &&q : [ \text{\bf C} ] \\
 \text{\bf S = -3} &: \text{\bf} \ && \text{\bf [AB]} \quad &&q : [ \text{\bf C D} ] \\
 \text{\bf S = -2} &: \text{\bf} \ && \text{\bf [B]} \quad &&q : [ \text{\bf C D} ] \\
+\text{\bf S = -1} &: \text{\bf} \ && \text{\bf [C]} \quad &&q : [ \text{\bf D} ] \\
+\text{\bf S = 0} &: \text{\bf} \ && \text{\bf [D]} \quad &&q : [ \text{\bf} ] \\
  \end{alignedat}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwMzQ5ODA5LDE3Nzc5NDMyMTYsLTczND
-IyMTUwNywtMTM3ODY5MjUxNiwzNTQ5ODQzNzIsMTAzNTk2ODI4
-MywtMTkzMzE2OTQ4OF19
+eyJoaXN0b3J5IjpbLTE2ODIzMTk2MDAsOTUwMzQ5ODA5LDE3Nz
+c5NDMyMTYsLTczNDIyMTUwNywtMTM3ODY5MjUxNiwzNTQ5ODQz
+NzIsMTAzNTk2ODI4MywtMTkzMzE2OTQ4OF19
 -->
