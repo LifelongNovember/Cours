@@ -20,7 +20,10 @@ Gestion des variables en JS vs ES6 :
 ``` javascript
 function main() {
   let a = 5;
-  for(var i =
+  for(var i = 0; i < a; i++) {
+  }
+  i++; // OK
+}
 -----
 function main() {
   let a = 5;
@@ -30,5 +33,5 @@ function main() {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTczNzU1NiwtNzA4ODA3MDI5XX0=
+eyJoaXN0b3J5IjpbLTIwMTgyMzYxMDEsLTcwODgwNzAyOV19
 -->
