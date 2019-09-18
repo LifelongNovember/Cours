@@ -10,8 +10,10 @@ On abandonne les boucle for, on les remplace par des itérateurs
 Charger une liste d'amis : https://monsite/friends
 
 ``` javascript
-let friends[].map(friend => {username: 
+let friends[].map(friend => {username: username})
+-----
+let friends=[].map(
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MDE2OTIzN119
+eyJoaXN0b3J5IjpbLTEwMjkxNTMzOV19
 -->
