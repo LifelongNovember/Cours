@@ -72,10 +72,11 @@ $$ \begin{alignedat}{3}
 \text{\bf S = 0} &: \text{\bf D C B} \  &&\text{\bf [A]} \quad &&q : [ \ ] \\
 \text{\bf S = -1} &: \text{\bf D C} \ && \text{\bf [AB]} \quad &&q : [ \ ] \\
 \text{\bf S = -2} &: \text{\bf D } \ && \text{\bf [AB]} \quad &&q : [ \text{\bf C} ] \\
-\text{\bf S = -2} &: \text{\bf} \ && \text{\bf [AB]} \quad &&q : [ \text{\bf C} ] \\
+\text{\bf S = -3} &: \text{\bf} \ && \text{\bf [AB]} \quad &&q : [ \text{\bf C D} ] \\
+\text{\bf S = -2} &: \text{\bf} \ && \text{\bf [B]} \quad &&q : [ \text{\bf C D} ] \\
  \end{alignedat}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzY1NjA2OTIsMTc3Nzk0MzIxNiwtNz
-M0MjIxNTA3LC0xMzc4NjkyNTE2LDM1NDk4NDM3MiwxMDM1OTY4
-MjgzLC0xOTMzMTY5NDg4XX0=
+eyJoaXN0b3J5IjpbOTUwMzQ5ODA5LDE3Nzc5NDMyMTYsLTczND
+IyMTUwNywtMTM3ODY5MjUxNiwzNTQ5ODQzNzIsMTAzNTk2ODI4
+MywtMTkzMzE2OTQ4OF19
 -->
