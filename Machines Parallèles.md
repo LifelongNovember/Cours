@@ -49,7 +49,9 @@ $$ \begin{array}{c|c}
 \text{M1.lock()} & \text{M2.lock()} \\ \\
 \text{wait M2} & \text{wait M1}
 \end{array}$$
+
+**Inversion des priorités** : Lorsque des threads ont des fonctions différentes d'importance plus ou moins grande, les mutex ne sont pas capables de gérer les priorités
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzg2OTI1MTYsMzU0OTg0MzcyLDEwMz
-U5NjgyODMsLTE5MzMxNjk0ODhdfQ==
+eyJoaXN0b3J5IjpbMTc4ODIwNjI4MSwtMTM3ODY5MjUxNiwzNT
+Q5ODQzNzIsMTAzNTk2ODI4MywtMTkzMzE2OTQ4OF19
 -->
