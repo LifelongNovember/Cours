@@ -38,7 +38,9 @@ else {
 isLocked = true
 ...
 ```
+
+**Goulet d'étranglement** : Point où le système limite les performances globales à for
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MjYyMzYxMSwzNTQ5ODQzNzIsMTAzNT
-k2ODI4MywtMTkzMzE2OTQ4OF19
+eyJoaXN0b3J5IjpbOTc2MDI3NDQ3LDM1NDk4NDM3MiwxMDM1OT
+Y4MjgzLC0xOTMzMTY5NDg4XX0=
 -->
