@@ -2,7 +2,7 @@
 
 La mémoire d'un processus est partagée avec ses threads.
 **Data race** : Concurrence d'accès à une même donnée par plusieurs threads (résultat différent selon l'ordre dans lequel s'exécutent les agents).
-**Mutex** : Primitive d'exécution qui permet de réguler l'accès aux données de sorte à ce qu'une seule routine n'y accède à la fois.
+
 **Multitâches** : Outil dont dispose un processeur pour traiter plusieurs tâches en même temps. Chaque tâche est assignée à un temps de traitement appelé **quantum**.
 
 **Processus** : 
@@ -52,6 +52,7 @@ $$ \begin{array}{c|c}
 
 **Inversion des priorités** : Lorsque des threads ont des fonctions différentes d'importance plus ou moins grande, les mutex ne sont pas capables de gérer les priorités.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNDIyMTUwNywtMTM3ODY5MjUxNiwzNT
-Q5ODQzNzIsMTAzNTk2ODI4MywtMTkzMzE2OTQ4OF19
+eyJoaXN0b3J5IjpbMTY5NDk3NjgzMSwtNzM0MjIxNTA3LC0xMz
+c4NjkyNTE2LDM1NDk4NDM3MiwxMDM1OTY4MjgzLC0xOTMzMTY5
+NDg4XX0=
 -->
