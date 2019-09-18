@@ -8,8 +8,9 @@ J'ai quelques difficultés à reconstituer le fprintf de la fonction show_all po
 Je trouve ensuite la variable PROMPT dans le fichier command.c et change sa valeur.
 J'essaye d'insérer un fprintf de *argv dans RECOVER_FROM_ERROR_IN_DASH (du fichier plot.c) pour afficher le fichier entré, mais sans succès.
 Je passe plusieurs heures à galérer sans réussir à générer de nouveaux inputs avant de m'apercevoir que je travaillais sur une copie locale du fichier (qui n'était donc pas incluse dans la compilation).
-J'essaye d'afficher le contenu d'argv dans plot.c, mais je me rends compte plus tard qu'il s'agît en fait 
+J'essaye d'afficher le contenu d'argv dans plot.c, mais je me rends compte plus tard qu'il s'agît en fait des arguments de lancement de gnuplot depuis le terminal (du lancement du binaire gnuplot, pas des commandes du prompt).
+Je trouve finalement la fonction loadpath_fopen du fichier misc.c, qui prend pour paramètre une chaîne "filename", que je 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNDcyMzYzMiw3MDk2NTAwMzIsLTE2NT
-M4NTM1NDQsMTA0ODI4MjczMSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbODQ4MTM5MDMwLDcwOTY1MDAzMiwtMTY1Mz
+g1MzU0NCwxMDQ4MjgyNzMxLC0yMDg4NzQ2NjEyXX0=
 -->
