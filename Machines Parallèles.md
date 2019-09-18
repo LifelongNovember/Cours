@@ -39,7 +39,12 @@ isLocked = true
 ...
 ```
 
+## Mutex
+
+**Mutex** : Primitive d'exécution qui permet de réguler l'accès aux données de sorte à ce qu'une seule routine n'y accède à la fois.
+
 **État de famine** : Point à partir duquel le système limite les performances globales à force d'attendre l'accès aux données.
+
 **Deadlock** : Interblocage entre deux threads.
 
 
@@ -51,8 +56,10 @@ $$ \begin{array}{c|c}
 \end{array}$$
 
 **Inversion des priorités** : Lorsque des threads ont des fonctions différentes d'importance plus ou moins grande, les mutex ne sont pas capables de gérer les priorités.
+
+## Sémaphore
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NDk3NjgzMSwtNzM0MjIxNTA3LC0xMz
+eyJoaXN0b3J5IjpbLTY4MzU3NjczNiwtNzM0MjIxNTA3LC0xMz
 c4NjkyNTE2LDM1NDk4NDM3MiwxMDM1OTY4MjgzLC0xOTMzMTY5
 NDg4XX0=
 -->
