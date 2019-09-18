@@ -27,17 +27,18 @@ $$ \text {nb = 1} \quad \begin{array}{|c|c}
 
 ``` c
 bool isLocked = false
-if(isLocked == false)
+if(isLocked == false) {
   isLocked = true
+}
 else {
   while(isLocked) {
-    wait
-   }
+    thread.sleep() / thread.yield()
+  }
 }
 isLocked = true
 ...
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5Mzc2NjEsMzU0OTg0MzcyLDEwMzU5Nj
-gyODMsLTE5MzMxNjk0ODhdfQ==
+eyJoaXN0b3J5IjpbLTI4MjYyMzYxMSwzNTQ5ODQzNzIsMTAzNT
+k2ODI4MywtMTkzMzE2OTQ4OF19
 -->
