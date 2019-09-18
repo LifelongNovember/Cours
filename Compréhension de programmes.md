@@ -7,7 +7,9 @@ J'identifie la variable gnuplot_date et trouve sa définition dans version.c. Je
 J'ai quelques difficultés à reconstituer le fprintf de la fonction show_all pour qu'elle prenne en compte mes ajouts, mais en prenant un peu de temps pour tout remettre à sa place, l'en-tête désiré s'affiche correctement.
 Je trouve ensuite la variable PROMPT dans le fichier command.c et change sa valeur.
 J'essaye d'insérer un fprintf de *argv dans RECOVER_FROM_ERROR_IN_DASH (du fichier plot.c) pour afficher le fichier entré, mais sans succès.
+Je passe plusieurs heures à galérer sans réussir à générer de nouveaux inputs avant de m'apercevoir que je travaillais sur une copie locale du fichier (qui n'était donc pas incluse dans la compilation).
+J'essaye d'afficher le contenu d'argv dans plot.c, mais je me rends compte plus tard qu'il s'agît en fait 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA5NjUwMDMyLC0xNjUzODUzNTQ0LDEwND
-gyODI3MzEsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTQyNDcyMzYzMiw3MDk2NTAwMzIsLTE2NT
+M4NTM1NDQsMTA0ODI4MjczMSwtMjA4ODc0NjYxMl19
 -->
