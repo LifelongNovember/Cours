@@ -39,8 +39,9 @@ isLocked = true
 ...
 ```
 
-**Goulet d'étranglement** : Point où le système limite les performances globales à for
+**État de famine** : Point à partir duquel le système limite les performances globales à force d'attendre l'accès aux données.
+**Deadlock** : 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2MDI3NDQ3LDM1NDk4NDM3MiwxMDM1OT
-Y4MjgzLC0xOTMzMTY5NDg4XX0=
+eyJoaXN0b3J5IjpbLTIwOTU0NDkzOTcsMzU0OTg0MzcyLDEwMz
+U5NjgyODMsLTE5MzMxNjk0ODhdfQ==
 -->
