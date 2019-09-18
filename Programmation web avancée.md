@@ -7,6 +7,10 @@ On abandonne les boucle for, on les remplace par des itérateurs
 > -----
 >  values = values.map(value => val * 2);
 >  ```
+
+``` javascript
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUyNDg2NTIzXX0=
+eyJoaXN0b3J5IjpbLTE0Nzk4Njg5NzhdfQ==
 -->
