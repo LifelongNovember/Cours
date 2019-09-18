@@ -47,10 +47,18 @@ let r = await req(url);
 console.log("fini");
 -----
 req(url).then => (val => {
+    let("fini");
   }) catch (err => {
+    let("erreur");
 });
 ```
+
+Fonctions nommées :
+
+``` javascript
+funct
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTU5MDc2MTgsMTEzMzAwODAwMiwtMj
+eyJoaXN0b3J5IjpbLTEzMjUwMTUxNzEsMTEzMzAwODAwMiwtMj
 AxODIzNjEwMSwtNzA4ODA3MDI5XX0=
 -->
