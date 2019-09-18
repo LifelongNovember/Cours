@@ -43,16 +43,13 @@ isLocked = true
 **Deadlock** : Interblocage entre deux threads.
 
 
-$$ \begin{array}{|c|c}
+$$ \begin{array}{c|c}
 \text{\bf Thread 1} & \text{\bf Thread 2} \\
-\text{M1.lock()} & \text{M2.lock()} \\
- & \text{get nb} \\ 
-\text{nb++} \rightarrow \text{nb} = 2 & \\
-& \text{nb++} \rightarrow \text{nb} = 2 \\
-\text{set nb} & \\
-& \text{set nb}
+\hline \\
+\text{M1.lock()} & \text{M2.lock()} \\ \\
+\text{wait M2} & \text{wait M1}
 \end{array}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MTE1ODkwLDM1NDk4NDM3MiwxMDM1OT
-Y4MjgzLC0xOTMzMTY5NDg4XX0=
+eyJoaXN0b3J5IjpbLTEzNzg2OTI1MTYsMzU0OTg0MzcyLDEwMz
+U5NjgyODMsLTE5MzMxNjk0ODhdfQ==
 -->
