@@ -17,9 +17,16 @@ friends.map[].filter(friend => friend.publicProfile) // publicProfile booléen
 ```
 
 Gestion des variables en JS vs ES6 :
-``` javascript 
-function mai
+``` javascript
+function main() 
+-----
+function main() {
+  let a = 5;
+  for(let i = 0; i < a; i++) {
+  }
+  i++; // Erreur
+}
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MjQzNTcwMCwtNzA4ODA3MDI5XX0=
+eyJoaXN0b3J5IjpbLTkwODkzMzk0MiwtNzA4ODA3MDI5XX0=
 -->
