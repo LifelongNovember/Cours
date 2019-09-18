@@ -53,12 +53,18 @@ req(url).then => (val => {
 });
 ```
 
-Fonctions nommées :
+**Fonctions nommées** :
 
 ``` javascript
-funct
+function myFunc() {
+};
+-----
+var myFunc = function() {
+};
+-----
+var myFunc = () => {};
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjUwMTUxNzEsMTEzMzAwODAwMiwtMj
-AxODIzNjEwMSwtNzA4ODA3MDI5XX0=
+eyJoaXN0b3J5IjpbNDI2NDY2MjQyLDExMzMwMDgwMDIsLTIwMT
+gyMzYxMDEsLTcwODgwNzAyOV19
 -->
