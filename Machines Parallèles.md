@@ -65,9 +65,9 @@ $q$ : pile de threads FIFO
 
 ```SemWait()``` décrémente $s$. Si $s$ passe en négatif, le thread en cours entre dans la pile.
 
-```SemSignal()``` incrémente $s$. Si $s <= 0$,
+```SemSignal()``` incrémente $s$. Si $s <= 0$, on 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzkxNzI4OTcsLTczNDIyMTUwNywtMT
-M3ODY5MjUxNiwzNTQ5ODQzNzIsMTAzNTk2ODI4MywtMTkzMzE2
-OTQ4OF19
+eyJoaXN0b3J5IjpbMTI2ODI4NTQyLC03MzQyMjE1MDcsLTEzNz
+g2OTI1MTYsMzU0OTg0MzcyLDEwMzU5NjgyODMsLTE5MzMxNjk0
+ODhdfQ==
 -->
