@@ -1,6 +1,12 @@
 On abandonne les boucle for, on les remplace par des itérateurs
-> ```  a = [1,2,3
-> for (let i = 0; i < 3```
+> ```  
+> a = [1,2,3];
+> -----
+> for (let i = 0; i < 3; i++)
+>  a[i] = a[i]* 2;
+> -----
+>  
+>  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjkzNzU0NV19
+eyJoaXN0b3J5IjpbNjM3NDA1MDU0XX0=
 -->
