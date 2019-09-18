@@ -1,3 +1,5 @@
+> nicopowa@gmail.com
+
 On abandonne les boucles for, on les remplace par des itérateurs.
 > ```  javascript
 > a = [1,2,3];
@@ -65,6 +67,6 @@ var myFunc = (a, () => {});
 // Rigoureusement identiques
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzc5NjQ0NTgsMTEzMzAwODAwMiwtMj
-AxODIzNjEwMSwtNzA4ODA3MDI5XX0=
+eyJoaXN0b3J5IjpbLTkxMTcyNTYzNSwtMTU3Nzk2NDQ1OCwxMT
+MzMDA4MDAyLC0yMDE4MjM2MTAxLC03MDg4MDcwMjldfQ==
 -->
