@@ -6,9 +6,7 @@ On abandonne les boucle for, on les remplace par des itérateurs
 >  a[i] = a[i]* 2;
 > -----
 >  values = values.map(value => val * 2);
-> ------
-> 
 >  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU1NDE5NTA3XX0=
+eyJoaXN0b3J5IjpbOTUyNDg2NTIzXX0=
 -->
