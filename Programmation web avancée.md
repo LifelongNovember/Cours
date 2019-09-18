@@ -11,7 +11,10 @@ Charger une liste d'amis : https://monsite/friends
 
 ``` javascript
 let friends[].map(friend => {username: username})
+-----
+// Charger les amis dont le profil est public.
+friends.map[].filter(friend => friend.publicProfile) // publicProfile booléen
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODgyMTU1MjhdfQ==
+eyJoaXN0b3J5IjpbLTcwODgwNzAyOV19
 -->
