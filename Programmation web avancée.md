@@ -42,10 +42,15 @@ function req(url) {
     else reject();
   });
 }
+-----
 let r = await req(url);
-console.log("fini")
+console.log("fini");
+-----
+req(url).then => (val => {
+  }) catch (err => {
+});
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY3NTA4NDQ1LDExMzMwMDgwMDIsLTIwMT
-gyMzYxMDEsLTcwODgwNzAyOV19
+eyJoaXN0b3J5IjpbLTE4OTU5MDc2MTgsMTEzMzAwODAwMiwtMj
+AxODIzNjEwMSwtNzA4ODA3MDI5XX0=
 -->
