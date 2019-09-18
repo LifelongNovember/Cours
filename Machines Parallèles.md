@@ -70,10 +70,12 @@ $q$ : pile de threads FIFO
 $$ \begin{alignedat}{3} 
 \text{\bf S = 1} &:  \text{\bf D C B A} \quad && \ &&q :  [ \ ] \\
 \text{\bf S = 0} &: \text{\bf D C B} \  &&\text{\bf [A]} \quad &&q : [ \ ] \\
-\text{\bf S = -1} &: \text{\bf D C} \ && \text{\bf [AB]} \quad &&q : [ \text{\bf C} ]
+\text{\bf S = -1} &: \text{\bf D C} \ && \text{\bf [AB]} \quad &&q : [ \ ] \\
+\text{\bf S = -2} &: \text{\bf D } \ && \text{\bf [AB]} \quad &&q : [ \text{\bf C} ] \\
+\text{\bf S = -2} &: \text{\bf} \ && \text{\bf [AB]} \quad &&q : [ \text{\bf C} ] \\
  \end{alignedat}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDkxODA2NzQsMTc3Nzk0MzIxNiwtNz
+eyJoaXN0b3J5IjpbLTE4MzY1NjA2OTIsMTc3Nzk0MzIxNiwtNz
 M0MjIxNTA3LC0xMzc4NjkyNTE2LDM1NDk4NDM3MiwxMDM1OTY4
 MjgzLC0xOTMzMTY5NDg4XX0=
 -->
