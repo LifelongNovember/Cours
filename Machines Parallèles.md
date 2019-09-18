@@ -40,8 +40,19 @@ isLocked = true
 ```
 
 **État de famine** : Point à partir duquel le système limite les performances globales à force d'attendre l'accès aux données.
-**Deadlock** : 
+**Deadlock** : Interblocage entre deux threads.
+
+
+$$ \begin{array}{|c|c}
+\text{\bf Thread 1} & \text{\bf Thread 2} \\
+\text{M1.lock()} & \text{M2.lock()} \\
+ & \text{get nb} \\ 
+\text{nb++} \rightarrow \text{nb} = 2 & \\
+& \text{nb++} \rightarrow \text{nb} = 2 \\
+\text{set nb} & \\
+& \text{set nb}
+\end{array}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTU0NDkzOTcsMzU0OTg0MzcyLDEwMz
-U5NjgyODMsLTE5MzMxNjk0ODhdfQ==
+eyJoaXN0b3J5IjpbLTQ2MTE1ODkwLDM1NDk4NDM3MiwxMDM1OT
+Y4MjgzLC0xOTMzMTY5NDg4XX0=
 -->
