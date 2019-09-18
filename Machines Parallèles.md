@@ -59,7 +59,7 @@ $$ \begin{array}{c|c}
 
 ## Sémaphore
 
-$s$ : entier non négatif (correspondant au nombre de threads que peuvent utiliser la ressource).
+$s$ : entier non négatif (correspondant au nombre de threads qui peuvent utiliser la ressource).
 
 $q$ : pile de threads FIFO
 
@@ -67,7 +67,7 @@ $q$ : pile de threads FIFO
 
 ```SemSignal()``` incrémente $s$. Si $s <= 0$, on 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2ODI4NTQyLC03MzQyMjE1MDcsLTEzNz
-g2OTI1MTYsMzU0OTg0MzcyLDEwMzU5NjgyODMsLTE5MzMxNjk0
-ODhdfQ==
+eyJoaXN0b3J5IjpbLTE1NzUyMjg5MjYsLTczNDIyMTUwNywtMT
+M3ODY5MjUxNiwzNTQ5ODQzNzIsMTAzNTk2ODI4MywtMTkzMzE2
+OTQ4OF19
 -->
