@@ -16,7 +16,10 @@ let friends[].map(friend => {username: username})
 friends.map[].filter(friend => friend.publicProfile) // publicProfile booléen
 ```
 
-
+Gestion des variables en JS vs ES6 :
+``` javascript 
+function mai
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTMxMjQwOSwtNzA4ODA3MDI5XX0=
+eyJoaXN0b3J5IjpbLTU5MjQzNTcwMCwtNzA4ODA3MDI5XX0=
 -->
