@@ -15,6 +15,8 @@ let friends[].map(friend => {username: username})
 // Charger les amis dont le profil est public.
 friends.map[].filter(friend => friend.publicProfile) // publicProfile booléen
 ```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwODgwNzAyOV19
+eyJoaXN0b3J5IjpbLTExMTMxMjQwOSwtNzA4ODA3MDI5XX0=
 -->
