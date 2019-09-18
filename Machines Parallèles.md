@@ -50,8 +50,8 @@ $$ \begin{array}{c|c}
 \text{wait M2} & \text{wait M1}
 \end{array}$$
 
-**Inversion des priorités** : Lorsque des threads ont des fonctions différentes d'importance plus ou moins grande, les mutex ne sont pas capables de gérer les priorités
+**Inversion des priorités** : Lorsque des threads ont des fonctions différentes d'importance plus ou moins grande, les mutex ne sont pas capables de gérer les priorités.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4ODIwNjI4MSwtMTM3ODY5MjUxNiwzNT
+eyJoaXN0b3J5IjpbLTczNDIyMTUwNywtMTM3ODY5MjUxNiwzNT
 Q5ODQzNzIsMTAzNTk2ODI4MywtMTkzMzE2OTQ4OF19
 -->
