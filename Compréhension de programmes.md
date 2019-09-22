@@ -2,7 +2,7 @@ $$ \text{\LARGE \sf  Compréhension de programmes} $$ $$ \text{\large \sf  Ateli
 
 ## Message d'accueil & prompt
 
-J'essaye de trouver le fichier compilé dans le Makefile sans succès.
+J'essaye de trouver le fichier compilé contenant la fonction main dans le Makefile sans succès.
 J'ouvre un IDE et lance une session de debug sans trouver les lignes de code pertinentes.
 À l'aide de l'IDE, je trouve que "G N U P L O T" est défini dans une variable globale **PROGRAM** dans show.c
 Cette variable globale est mentionnée dans la fonction **show_all** du même fichier, elle semble afficher le message de démarrage de la CLI.
@@ -18,7 +18,7 @@ Je passe plusieurs heures à chercher là où le message pourrait aller sans ré
 J'essaye d'afficher le contenu d'argv dans plot.c, mais je me rends compte plus tard qu'il s'agît en fait des arguments de lancement de gnuplot depuis le terminal (du binaire de gnuplot lui-même donc, pas des commandes du prompt).
 Je trouve finalement la fonction **loadpath_fopen** du fichier misc.c, qui prend pour paramètre une chaîne "filename", que j'utilise pour afficher le message de chargement du fichier, qui produit le résultat attendu.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODc4MzY5MTcsODE3NDY3NzY1LDcwOT
-Y1MDAzMiwtMTY1Mzg1MzU0NCwxMDQ4MjgyNzMxLC0yMDg4NzQ2
-NjEyXX0=
+eyJoaXN0b3J5IjpbLTI4MzMwNDA5Myw4MTc0Njc3NjUsNzA5Nj
+UwMDMyLC0xNjUzODUzNTQ0LDEwNDgyODI3MzEsLTIwODg3NDY2
+MTJdfQ==
 -->
