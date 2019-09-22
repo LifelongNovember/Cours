@@ -1,3 +1,6 @@
+
+## Message d'accueil
+
 J'essaye de trouver le fichier compilé dans le Makefile sans succès.
 J'ouvre un IDE et lance une session de debug sans trouver les lignes de code pertinentes.
 À l'aide de l'IDE, je trouve que "G N U P L O T" est défini dans une variable globale PROGRAM dans show.c
@@ -11,6 +14,7 @@ Je passe plusieurs heures à galérer sans réussir à générer de nouveaux inp
 J'essaye d'afficher le contenu d'argv dans plot.c, mais je me rends compte plus tard qu'il s'agît en fait des arguments de lancement de gnuplot depuis le terminal (du lancement du binaire gnuplot, pas des commandes du prompt).
 Je trouve finalement la fonction loadpath_fopen du fichier misc.c, qui prend pour paramètre une chaîne "filename", que j'utilise pour afficher le message de chargement du fichier, qui produit le résultat attendu.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE3NDY3NzY1LDcwOTY1MDAzMiwtMTY1Mz
-g1MzU0NCwxMDQ4MjgyNzMxLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTg0NjExNDQzNSw4MTc0Njc3NjUsNzA5Nj
+UwMDMyLC0xNjUzODUzNTQ0LDEwNDgyODI3MzEsLTIwODg3NDY2
+MTJdfQ==
 -->
