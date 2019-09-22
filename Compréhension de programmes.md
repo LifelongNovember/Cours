@@ -1,6 +1,6 @@
 $$ \text{\LARGE \sf  Compréhension de programmes} $$ $$ \text{\large \sf  Atelier gnuplot} $$
 
-*Antoine DENI*
+*Antoine DENIS*
 
 ## Message d'accueil & prompt
 
@@ -20,7 +20,7 @@ Je passe plusieurs heures à chercher là où le message pourrait aller sans ré
 J'essaye d'afficher le contenu d'argv dans plot.c, mais je me rends compte plus tard qu'il s'agît en fait des arguments de lancement de gnuplot depuis le terminal (du binaire de gnuplot lui-même donc, pas des commandes du prompt).
 Je trouve finalement la fonction **loadpath_fopen** du fichier misc.c, qui prend pour paramètre une chaîne "filename", que j'utilise pour afficher le message de chargement du fichier, qui produit le résultat attendu.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4OTQ0Njk3MywtMjgzMzA0MDkzLDgxNz
-Q2Nzc2NSw3MDk2NTAwMzIsLTE2NTM4NTM1NDQsMTA0ODI4Mjcz
-MSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE4NzI2ODY3MTAsLTI4MzMwNDA5Myw4MT
+c0Njc3NjUsNzA5NjUwMDMyLC0xNjUzODUzNTQ0LDEwNDgyODI3
+MzEsLTIwODg3NDY2MTJdfQ==
 -->
