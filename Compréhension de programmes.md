@@ -19,8 +19,10 @@ J'essaye d'insérer un fprintf de *argv dans RECOVER_FROM_ERROR_IN_DASH (du fich
 Je passe plusieurs heures à chercher là où le message pourrait aller sans réussir à générer de nouveaux inputs avant de m'apercevoir que je travaillais sur une copie locale du fichier (qui n'était donc pas incluse dans la compilation).
 J'essaye d'afficher le contenu d'argv dans plot.c, mais je me rends compte plus tard qu'il s'agît en fait des arguments de lancement de gnuplot depuis le terminal (du binaire de gnuplot lui-même donc, pas des commandes du prompt).
 Je trouve finalement la fonction **loadpath_fopen** du fichier misc.c, qui prend pour paramètre une chaîne "filename", que j'utilise pour afficher le message de chargement du fichier, qui produit le résultat attendu.
+
+<div align="center"><img src="https://framapic.org/ZI9hG8XISfWf/4dhU6kKROdRy.png" width=5000px /></div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzI2ODY3MTAsLTI4MzMwNDA5Myw4MT
-c0Njc3NjUsNzA5NjUwMDMyLC0xNjUzODUzNTQ0LDEwNDgyODI3
-MzEsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE3MjE4MzU2NzksLTE4NzI2ODY3MTAsLT
+I4MzMwNDA5Myw4MTc0Njc3NjUsNzA5NjUwMDMyLC0xNjUzODUz
+NTQ0LDEwNDgyODI3MzEsLTIwODg3NDY2MTJdfQ==
 -->
