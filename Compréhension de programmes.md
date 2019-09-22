@@ -20,9 +20,9 @@ Je passe plusieurs heures à chercher là où le message pourrait aller sans ré
 J'essaye d'afficher le contenu d'argv dans plot.c, mais je me rends compte plus tard qu'il s'agît en fait des arguments de lancement de gnuplot depuis le terminal (du binaire de gnuplot lui-même donc, pas des commandes du prompt).
 Je trouve finalement la fonction **loadpath_fopen** du fichier misc.c, qui prend pour paramètre une chaîne "filename", que j'utilise pour afficher le message de chargement du fichier, qui produit le résultat attendu.
 
-<div align="center"><img src="https://framapic.org/ZI9hG8XISfWf/4dhU6kKROdRy.png" width=5000px /></div>
+<div align="center"><img src="https://framapic.org/ZI9hG8XISfWf/4dhU6kKROdRy.png" width=500px /></div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjE4MzU2NzksLTE4NzI2ODY3MTAsLT
-I4MzMwNDA5Myw4MTc0Njc3NjUsNzA5NjUwMDMyLC0xNjUzODUz
-NTQ0LDEwNDgyODI3MzEsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNTUzOTUxMzE3LC0xODcyNjg2NzEwLC0yOD
+MzMDQwOTMsODE3NDY3NzY1LDcwOTY1MDAzMiwtMTY1Mzg1MzU0
+NCwxMDQ4MjgyNzMxLC0yMDg4NzQ2NjEyXX0=
 -->
