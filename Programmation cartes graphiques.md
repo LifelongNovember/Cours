@@ -136,11 +136,11 @@ Le vecteur normal à l'une des faces doit être orthogonal à au moins deux des 
 
 ### Exercice 3
 
-$$ F_1 : \vec{n_1} = \vec{AD} \land \vec{AB} = \overset{(D - A)}{\begin{pmatrix} 0 \\ 1 \\ -1 \end{pmatrix}}  \land \overset{(D - A)}{\begin{pmatrix} 0 \\ 1 \\ -1 \end{pmatrix}} $$
+$$ F_1 : \vec{n_1} = \vec{AD} \land \vec{AB} = \overset{(D - A)}{\begin{pmatrix} 0 \\ 1 \\ -1 \end{pmatrix}}  \land \overset{(D - A)}{\begin{pmatrix} 1 \\ 0 \\ -2 \end{pmatrix}} = \begin{pmatrix} 2 \cdot (-2) - (-1) \cdot (0) \\ -(0 \cdot (-1) - ((-1) \cdot 1) $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0MTA0MjIwLDEzMDI2NjAzODAsLTE0Nz
-gwNjcxNjAsLTE5NzY4Mjk4NzQsNTM0MTg1OTk0LC0yMDcwMjY4
-OTUwLC0zMTY5NzQ3ODEsLTE1NzkzNDA0MDIsMTQ2NzM0NjU2My
-wxMjI3OTQyNzcxLC0xMDcxMzE4OTYxLDExMzg2NjI3MjhdfQ==
+eyJoaXN0b3J5IjpbLTE4MzUzNjU3ODEsMTMwMjY2MDM4MCwtMT
+Q3ODA2NzE2MCwtMTk3NjgyOTg3NCw1MzQxODU5OTQsLTIwNzAy
+Njg5NTAsLTMxNjk3NDc4MSwtMTU3OTM0MDQwMiwxNDY3MzQ2NT
+YzLDEyMjc5NDI3NzEsLTEwNzEzMTg5NjEsMTEzODY2MjcyOF19
 
 -->
