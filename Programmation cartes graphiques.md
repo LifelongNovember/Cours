@@ -136,10 +136,10 @@ Le vecteur normal à l'une des faces doit être orthogonal à au moins deux des 
 
 ### Exercice 3
 
-$$ AB = \begin{pmatrix} 0 & 1 \\ 1 & 1 \\ 1 & -1 \end{pmatrix}, AD = \begin{pmatrix} \end{pmatrix}$$
+$$ F_1 : \vec{n_1} = \vec{A D} \$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MjIxOTgxNiwtMTQ3ODA2NzE2MCwtMT
-k3NjgyOTg3NCw1MzQxODU5OTQsLTIwNzAyNjg5NTAsLTMxNjk3
-NDc4MSwtMTU3OTM0MDQwMiwxNDY3MzQ2NTYzLDEyMjc5NDI3Nz
-EsLTEwNzEzMTg5NjEsMTEzODY2MjcyOF19
+eyJoaXN0b3J5IjpbLTE0NDg0MzI1NDgsLTE0NzgwNjcxNjAsLT
+E5NzY4Mjk4NzQsNTM0MTg1OTk0LC0yMDcwMjY4OTUwLC0zMTY5
+NzQ3ODEsLTE1NzkzNDA0MDIsMTQ2NzM0NjU2MywxMjI3OTQyNz
+cxLC0xMDcxMzE4OTYxLDExMzg2NjI3MjhdfQ==
 -->
