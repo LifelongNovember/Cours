@@ -102,6 +102,7 @@ Lorsqu'on trace une droite sur un nombre discret de pixels, si la pente est < 1,
 ### Algorithmes de Brensham
 
 Pour chaque pixel, on calcule de manière incrémentale la distance entre la pseudo-distance du centre du pixel à la droite.
+Pour calculer e, on utilise le théorème de Thales
 
 # TD
 
@@ -129,6 +130,6 @@ Le vecteur normal à l'une des faces doit être orthogonal à au moins deux des 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NzM0NjU2MywxMjI3OTQyNzcxLC0xMD
-cxMzE4OTYxLDExMzg2NjI3MjhdfQ==
+eyJoaXN0b3J5IjpbLTE0MjQ1NTIyMzYsMTQ2NzM0NjU2MywxMj
+I3OTQyNzcxLC0xMDcxMzE4OTYxLDExMzg2NjI3MjhdfQ==
 -->
