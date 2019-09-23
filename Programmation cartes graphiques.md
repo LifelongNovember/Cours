@@ -132,14 +132,14 @@ $$
 
 Le vecteur normal à l'une des faces doit être orthogonal à au moins deux des arêtes de l'autre face pour que les deux faces soient parallèles.
 
-<div align="center"><img src="https://raw.githubusercontent.com/LifelongNovember/Cours/master/img/faces%20triangulaires.png" width=200px/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/LifelongNovember/Cours/master/img/triangles.png" width=200px/></div>
 
 ### Exercice 3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzY4Mjk4NzQsNTM0MTg1OTk0LC0yMD
-cwMjY4OTUwLC0zMTY5NzQ3ODEsLTE1NzkzNDA0MDIsMTQ2NzM0
-NjU2MywxMjI3OTQyNzcxLC0xMDcxMzE4OTYxLDExMzg2NjI3Mj
-hdfQ==
+eyJoaXN0b3J5IjpbLTE0NzgwNjcxNjAsLTE5NzY4Mjk4NzQsNT
+M0MTg1OTk0LC0yMDcwMjY4OTUwLC0zMTY5NzQ3ODEsLTE1Nzkz
+NDA0MDIsMTQ2NzM0NjU2MywxMjI3OTQyNzcxLC0xMDcxMzE4OT
+YxLDExMzg2NjI3MjhdfQ==
 -->
