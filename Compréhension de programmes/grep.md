@@ -72,7 +72,13 @@ gnuplot-5.0.7
 ./config/djconfig.sh
 (...)
 ```
+> Trouver tous les fichiers avec une date de modification en octobre
+```bash
+gnuplot-5.0.7 took 8s 
+[I] ✘130 ➜ ls ~ -alR | grep "oct\. [[:space:]]*201[0-9]"
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjczMzM2NTg2LDE5MTkyNzY4Niw0NDMwMT
-g3NDcsLTcyNjY4ODkxOSw3NjEyNDc2NzZdfQ==
+eyJoaXN0b3J5IjpbMTYwOTk3NDQ5Myw2NzMzMzY1ODYsMTkxOT
+I3Njg2LDQ0MzAxODc0NywtNzI2Njg4OTE5LDc2MTI0NzY3Nl19
+
 -->
