@@ -136,11 +136,11 @@ Le vecteur normal à l'une des faces doit être orthogonal à au moins deux des 
 
 ### Exercice 3
 
-$$ F_1 : \vec{n_1} = \vec{AD} \land \vec{AB} = \overset{(D - A)}{\begin{pmatrix} 0 \\ 1 \\ -1 \end{pmatrix}}  \land \overset{(D - A)}{\begin{pmatrix} 1 \\ 0 \\ -2 \end{pmatrix}} = \begin{pmatrix} 2 \cdot (-2) - (-1) \cdot (0) \\ -(0 \cdot (-1) - (-1) \cdot 1)) \\ 0 \cdot{ 0}  - (2) \cdot (1) (2) \end{pmatrix} $$
+$$ F_1 : \vec{n_1} = \vec{AD} \land \vec{AB} = \overset{\vec{AD}}{\begin{pmatrix} 0 \\ 1 \\ -1 \end{pmatrix}}  \land \overset{\vec {AB} }{\begin{pmatrix} 1 \\ 0 \\ -2 \end{pmatrix}} = \begin{pmatrix} 2 \cdot (-2) - (-1) \cdot (0) \\ -(0 \cdot (-1) - (-1) \cdot 1)) \\ 0 \cdot{ 0}  - (2) \cdot (1) (2) \end{pmatrix} $$
 
-$$ F_2 : \vec{n_2} = \vec{AC} \land \vec{AD} = \overset{(D - A)}{\begin{pmatrix} -1 \\ 0 \\ -2 \end{pmatrix}}  \land \overset{(D - A)}{\begin{pmatrix} 1 \\ 0 \\ -2 \end{pmatrix}} = \begin{pmatrix} 2 \cdot (-2) - (-1) \cdot (0) \\ -(0 \cdot (-1) - (-1) \cdot 1)) \\ 0 \cdot{ 0}  - (2) \cdot (1) (2) \end{pmatrix} $$
+$$ F_2 : \vec{n_2} = \vec{AC} \land \vec{AD} = \overset{\vec{ AC}}{\begin{pmatrix} -1 \\ 0 \\ -2 \end{pmatrix}}  \land \overset{\vec{AD}}{\begin{pmatrix} 1 \\ 0 \\ -2 \end{pmatrix}} = \begin{pmatrix} 2 \cdot (-2) - (-1) \cdot (0) \\ -(0 \cdot (-1) - (-1) \cdot 1)) \\ 0 \cdot{ 0}  - (2) \cdot (1) (2) \end{pmatrix} $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NzgxMzI5MywxMzAyNjYwMzgwLC0xND
+eyJoaXN0b3J5IjpbMTMxMDcwMDYyNCwxMzAyNjYwMzgwLC0xND
 c4MDY3MTYwLC0xOTc2ODI5ODc0LDUzNDE4NTk5NCwtMjA3MDI2
 ODk1MCwtMzE2OTc0NzgxLC0xNTc5MzQwNDAyLDE0NjczNDY1Nj
 MsMTIyNzk0Mjc3MSwtMTA3MTMxODk2MSwxMTM4NjYyNzI4XX0=
