@@ -101,13 +101,23 @@ gnuplot-5.0.7
 ./PATCHLEVEL
 (...)
 ```
-
+> Trouver tous les fichier avec plus de 500000 octets
 ``` bash
 gnuplot-5.0.7 
-[I] ➜ find . -size -500000c -type f
+[I] ➜ find . -size +500000c -type f
+./gnuplot/5.0/gnuplot.gih
+./bin/gnuplot
+./docs/gnuplot.pdf
+./docs/gnuplot.doc
+./docs/gnuplot-ja.doc
+./docs/gnuplot.gih
+./configure
+./src/qtterminal/QtGnuplotItems.o
+./src/qtterminal/QtGnuplotWindow.o
+(...)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNTc1NTE2NiwyOTUzMDcyOCwxNjA5OT
-c0NDkzLDY3MzMzNjU4NiwxOTE5Mjc2ODYsNDQzMDE4NzQ3LC03
-MjY2ODg5MTksNzYxMjQ3Njc2XX0=
+eyJoaXN0b3J5IjpbMzcyNjM4OTMxLDI5NTMwNzI4LDE2MDk5Nz
+Q0OTMsNjczMzM2NTg2LDE5MTkyNzY4Niw0NDMwMTg3NDcsLTcy
+NjY4ODkxOSw3NjEyNDc2NzZdfQ==
 -->
