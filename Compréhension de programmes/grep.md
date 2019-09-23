@@ -87,12 +87,24 @@ gnuplot-5.0.7 took 2s
 -rw-r--r-- 1 novembre novembre 3198 10 oct.   2012 ./demo/varcolor.dem
 (...)
 ```
+> -   Trouver tous les fichier avec moins de 50 octets
 
 ```bash
 gnuplot-5.0.7 
-[I] ➜ find . -size +50c -exec ls -al '{}' \;
+[I] ➜ find . -size +50c -type f'{}' \;
+./Makefile.maint
+./share/colors_default.gp
+./share/colors_podo.gp
+./share/colors_mono.gp
+./share/Makefile.am
+./share/gnuplotrc
+./share/LaTeX/gnuplot.cfg
+./share/LaTeX/gnuplot-lua-tikz.sty
+./share/LaTeX/Makefile.am
+(...)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzI0NzYzMSwyOTUzMDcyOCwxNjA5OT
-c0NDkzLDY3MzMzNjU4NiwxOTE5Mjc2ODYsNDQzMDE4NzQ3LC03
-MjY2ODg5MTksNzYxMjQ3Njc2XX0=
+eyJoaXN0b3J5IjpbMjg2OTE1ODU1LDI5NTMwNzI4LDE2MDk5Nz
+Q0OTMsNjczMzM2NTg2LDE5MTkyNzY4Niw0NDMwMTg3NDcsLTcy
+NjY4ODkxOSw3NjEyNDc2NzZdfQ==
 -->
