@@ -97,7 +97,7 @@ Règle de la main droite :
 
 ### Tracé de segments
 
-Lorsqu'on trace une droite sur un nombre discret de pixels, si la pente est < 1, la discrétisation se fait selon x, si elle > 1, elle se fait selon y. 
+Lorsqu'on trace une droite sur un nombre discret de pixels, si la pente est < 1, la discrétisation se fait selon $x$, si elle est > 1, elle se fait selon $y$. 
 
 #### Algorithmes de Brensham
 
@@ -105,7 +105,6 @@ Pour chaque pixel, on calcule de manière incrémentale la distance entre la pse
 Pour calculer e, on utilise le théorème de Thales : ${{dy} \over {dx}} = {{e} \over {1}} \implies e = {dy \over dx}$.
 $$ a = {dy \over dx} \\ \text{ pour chaque itération : } e = {e + a}, \  {x = x + 1}  \\ \text{ si } e > 0,5 : y = y + 1, \ e = e - 1$$
 
-Si
 
 ### Tracé de cercles
 
@@ -135,7 +134,7 @@ Le vecteur normal à l'une des faces doit être orthogonal à au moins deux des 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODU1NzQwOTksLTE1NzkzNDA0MDIsMT
+eyJoaXN0b3J5IjpbLTE5MTk4MzcyNzksLTE1NzkzNDA0MDIsMT
 Q2NzM0NjU2MywxMjI3OTQyNzcxLC0xMDcxMzE4OTYxLDExMzg2
 NjI3MjhdfQ==
 -->
