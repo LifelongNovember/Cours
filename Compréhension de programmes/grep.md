@@ -74,7 +74,7 @@ gnuplot-5.0.7
 ```
 > Trouver tous les fichiers avec une date de modification en octobre
 ```bash
-gnuplot-5.0.7 took 2s 
+gnuplot-5.0.7
 [I] ➜ find . -exec ls -al '{}' \; | grep "oct\. [[:space:]]*201[0-9]"
 -rw-r--r--  1 novembre novembre   4990 24 oct.   2013 TODO
 -rw-r--r--  1 novembre novembre  1794  5 oct.   2015 imageNaN.dem
@@ -91,20 +91,23 @@ gnuplot-5.0.7 took 2s
 
 ```bash
 gnuplot-5.0.7 
-[I] ➜ find . -size +50c -type f'{}' \;
-./Makefile.maint
-./share/colors_default.gp
-./share/colors_podo.gp
-./share/colors_mono.gp
-./share/Makefile.am
-./share/gnuplotrc
-./share/LaTeX/gnuplot.cfg
-./share/LaTeX/gnuplot-lua-tikz.sty
-./share/LaTeX/Makefile.am
+[I] ➜ find . -size -50c -type f       
+./demo/line.fnc
+./demo/histopt.dat
+./config/watcom/config.h
+./stamp-h
+./docs/.deps/doc2wxhtml.Po
+./VERSION
+./PATCHLEVEL
 (...)
 ```
+
+``` bash
+gnuplot-5.0.7 
+[I] ➜ find . -size -500000c -type f
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2OTE1ODU1LDI5NTMwNzI4LDE2MDk5Nz
-Q0OTMsNjczMzM2NTg2LDE5MTkyNzY4Niw0NDMwMTg3NDcsLTcy
-NjY4ODkxOSw3NjEyNDc2NzZdfQ==
+eyJoaXN0b3J5IjpbLTgxNTc1NTE2NiwyOTUzMDcyOCwxNjA5OT
+c0NDkzLDY3MzMzNjU4NiwxOTE5Mjc2ODYsNDQzMDE4NzQ3LC03
+MjY2ODg5MTksNzYxMjQ3Njc2XX0=
 -->
