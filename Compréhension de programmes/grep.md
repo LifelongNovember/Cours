@@ -26,6 +26,10 @@ gnuplot-5.0.7/src
 ./Makefile.in:gnuplot_SOURCES = alloc.c alloc.h axis.c axis.h breaders.c breaders.h 
 (...)
 ```
+
+> Trouver tous les fichiers datant de moins de 15 jours
+> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNjY4ODkxOSw3NjEyNDc2NzZdfQ==
+eyJoaXN0b3J5IjpbNDQzMDE4NzQ3LC03MjY2ODg5MTksNzYxMj
+Q3Njc2XX0=
 -->
