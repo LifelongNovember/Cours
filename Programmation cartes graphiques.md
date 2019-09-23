@@ -150,11 +150,11 @@ $$ \Delta = \begin{pmatrix} 0 \\ 0 \\ -1 \end{pmatrix} $$
 $$ \vec{n_1} \cdot \vec{\Delta} = \begin{pmatrix} -4 \\ -1 \\ -2 \end{pmatrix} \cdot \begin{pmatrix} 0 \\ 0 \\ -1 \end{pmatrix} = (-4 \cdot 0) + (-1 \cdot 0) + (-2 \cdot -1) = 2 \implies \text{face visible} $$
 $$ \vec{n_2} \cdot \vec{\Delta} = \begin{pmatrix} 4 \\ -1 \\ -2 \end{pmatrix} \cdot \begin{pmatrix} 0 \\ 0 \\ -1 \end{pmatrix} = (4 \cdot 0) + (-1 \cdot 0) + (-2 \cdot -1) = 2 \implies \text{face visible} $$
 $$ \vec{n_3} \cdot \vec{\Delta} = \begin{pmatrix} 0 \\ 0 \\ 4 \end{pmatrix} \cdot \begin{pmatrix} 0 \\ 0 \\ -1 \end{pmatrix} = (0 + 0 -4) = -4 \implies \text{face non visible} $$
-$$ \vec{n_4} \cdot \vec{\Delta} = \begin{pmatrix} 0 \\ 4 \\ 0 \end{pmatrix} \cdot \begin{pmatrix} 0 \\ 0 \\ -1 \end{pmatrix} = (4 \cdot 0) + (-1 \cdot 0) + (-2 \cdot -1) = 2 \implies \text{face visible} $$
+$$ \vec{n_4} \cdot \vec{\Delta} = \begin{pmatrix} 0 \\ 4 \\ 0 \end{pmatrix} \cdot \begin{pmatrix} 0 \\ 0 \\ -1 \end{pmatrix} = (0 + 0 + 0) = 0 \implies \text{face parallele à l'axe de vue} $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDQ0MDQ2NjksLTI0NjI4NDkxNCwxMz
-AyNjYwMzgwLC0xNDc4MDY3MTYwLC0xOTc2ODI5ODc0LDUzNDE4
-NTk5NCwtMjA3MDI2ODk1MCwtMzE2OTc0NzgxLC0xNTc5MzQwND
-AyLDE0NjczNDY1NjMsMTIyNzk0Mjc3MSwtMTA3MTMxODk2MSwx
-MTM4NjYyNzI4XX0=
+eyJoaXN0b3J5IjpbLTk5MzcxNTQyMiwtMjQ2Mjg0OTE0LDEzMD
+I2NjAzODAsLTE0NzgwNjcxNjAsLTE5NzY4Mjk4NzQsNTM0MTg1
+OTk0LC0yMDcwMjY4OTUwLC0zMTY5NzQ3ODEsLTE1NzkzNDA0MD
+IsMTQ2NzM0NjU2MywxMjI3OTQyNzcxLC0xMDcxMzE4OTYxLDEx
+Mzg2NjI3MjhdfQ==
 -->
