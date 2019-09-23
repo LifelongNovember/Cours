@@ -136,10 +136,10 @@ Le vecteur normal à l'une des faces doit être orthogonal à au moins deux des 
 
 ### Exercice 3
 
-
+$$  = \begin{pmatrix} 0 1 \end{pmatrix}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzgwNjcxNjAsLTE5NzY4Mjk4NzQsNT
-M0MTg1OTk0LC0yMDcwMjY4OTUwLC0zMTY5NzQ3ODEsLTE1Nzkz
-NDA0MDIsMTQ2NzM0NjU2MywxMjI3OTQyNzcxLC0xMDcxMzE4OT
-YxLDExMzg2NjI3MjhdfQ==
+eyJoaXN0b3J5IjpbMTk0ODEwMDI1OCwtMTQ3ODA2NzE2MCwtMT
+k3NjgyOTg3NCw1MzQxODU5OTQsLTIwNzAyNjg5NTAsLTMxNjk3
+NDc4MSwtMTU3OTM0MDQwMiwxNDY3MzQ2NTYzLDEyMjc5NDI3Nz
+EsLTEwNzEzMTg5NjEsMTEzODY2MjcyOF19
 -->
