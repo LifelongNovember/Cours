@@ -103,7 +103,8 @@ Lorsqu'on trace une droite sur un nombre discret de pixels, si la pente est < 1,
 
 Pour chaque pixel, on calcule de manière incrémentale la distance entre la pseudo-distance du centre du pixel à la droite.
 Pour calculer e, on utilise le théorème de Thales : ${{dy} \over {dx}} = {{e} \over {1}} \implies e = {dy \over dx}$.
-$$ a = {dy \over dx}, \text{ pour chaque itération :} e = {e + a}, {x = x + 1} \text{ et si } e > 0,5 : y = y + 1, e = e
+$$ a = {dy \over dx} \\ \text{ pour chaque itération : } e = {e + a}, {x = x + 1}  \\ \text{ si } e > 0,5 : y = y + 1, e = e - 1$$
+
 # TD
 
 ## TD0
@@ -130,7 +131,7 @@ Le vecteur normal à l'une des faces doit être orthogonal à au moins deux des 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MTI2ODY2MiwtMTU3OTM0MDQwMiwxND
-Y3MzQ2NTYzLDEyMjc5NDI3NzEsLTEwNzEzMTg5NjEsMTEzODY2
-MjcyOF19
+eyJoaXN0b3J5IjpbMTU3OTc4ODUsLTE1NzkzNDA0MDIsMTQ2Nz
+M0NjU2MywxMjI3OTQyNzcxLC0xMDcxMzE4OTYxLDExMzg2NjI3
+MjhdfQ==
 -->
