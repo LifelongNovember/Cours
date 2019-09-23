@@ -99,7 +99,9 @@ Règle de la main droite :
 
 Lorsqu'on trace une droite sur un nombre discret de pixels, si la pente est < 1, la discrétisation se fait selon x, si elle > 1, elle se fait selon y. 
 
-### Algorithmes de Breisham
+### Algorithmes de Brensham
+
+Pour chaque point 
 
 # TD
 
@@ -127,6 +129,6 @@ Le vecteur normal à l'une des faces doit être orthogonal à au moins deux des 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1Nzc3MjQ1NywxMjI3OTQyNzcxLC0xMD
-cxMzE4OTYxLDExMzg2NjI3MjhdfQ==
+eyJoaXN0b3J5IjpbLTIwMzg1OTQzNjEsMTIyNzk0Mjc3MSwtMT
+A3MTMxODk2MSwxMTM4NjYyNzI4XX0=
 -->
