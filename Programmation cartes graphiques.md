@@ -108,6 +108,8 @@ $$ a = {dy \over dx} \\ \text{ pour chaque itération : } e = {e + a}, \  {x = x
 
 ### Tracé de cercles
 
+L'algorithme fonctionne de la même manière que le tracé de segments. On procède par des arcs correspondant à un huitième de cercle.
+
 # TD
 
 ## TD0
@@ -134,7 +136,7 @@ Le vecteur normal à l'une des faces doit être orthogonal à au moins deux des 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTk4MzcyNzksLTE1NzkzNDA0MDIsMT
-Q2NzM0NjU2MywxMjI3OTQyNzcxLC0xMDcxMzE4OTYxLDExMzg2
-NjI3MjhdfQ==
+eyJoaXN0b3J5IjpbMzU2MzQwMTc3LC0xNTc5MzQwNDAyLDE0Nj
+czNDY1NjMsMTIyNzk0Mjc3MSwtMTA3MTMxODk2MSwxMTM4NjYy
+NzI4XX0=
 -->
