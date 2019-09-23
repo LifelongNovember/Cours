@@ -95,6 +95,8 @@ Règle de la main droite :
 
 ⇒ Translation + Rotation + Homothétie + Réflexion + Projection (3DDL) : 15 degrés de liberté
 
+
+
 # TD
 
 ## TD0
@@ -121,5 +123,6 @@ Le vecteur normal à l'une des faces doit être orthogonal à au moins deux des 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzEzMTg5NjEsMTEzODY2MjcyOF19
+eyJoaXN0b3J5IjpbMTIyNzk0Mjc3MSwtMTA3MTMxODk2MSwxMT
+M4NjYyNzI4XX0=
 -->
