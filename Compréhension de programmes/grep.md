@@ -74,11 +74,21 @@ gnuplot-5.0.7
 ```
 > Trouver tous les fichiers avec une date de modification en octobre
 ```bash
-gnuplot-5.0.7 took 8s 
-[I] ✘130 ➜ ls ~ -alR | grep "oct\. [[:space:]]*201[0-9]"
+gnuplot-5.0.7 took 2s 
+[I] ➜ find . -exec ls -al '{}' \; | grep "oct\. [[:space:]]*201[0-9]"
+-rw-r--r--  1 novembre novembre   4990 24 oct.   2013 TODO
+-rw-r--r--  1 novembre novembre  1794  5 oct.   2015 imageNaN.dem
+-rw-r--r--  1 novembre novembre  5578 31 oct.   2010 pm3dcolors.dem
+-rw-r--r--  1 novembre novembre 11630  4 oct.   2012 pm3d.dem
+-rw-r--r--  1 novembre novembre  3526 30 oct.   2012 rgb_variable.dem
+-rw-r--r--  1 novembre novembre  1331 10 oct.   2012 smooth.dem
+-rw-r--r--  1 novembre novembre  1523 24 oct.   2015 timedat.dem
+-rw-r--r--  1 novembre novembre  3198 10 oct.   2012 varcolor.dem
+-rw-r--r-- 1 novembre novembre 3198 10 oct.   2012 ./demo/varcolor.dem
+(...)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwOTk3NDQ5Myw2NzMzMzY1ODYsMTkxOT
-I3Njg2LDQ0MzAxODc0NywtNzI2Njg4OTE5LDc2MTI0NzY3Nl19
-
+eyJoaXN0b3J5IjpbMjk1MzA3MjgsMTYwOTk3NDQ5Myw2NzMzMz
+Y1ODYsMTkxOTI3Njg2LDQ0MzAxODc0NywtNzI2Njg4OTE5LDc2
+MTI0NzY3Nl19
 -->
