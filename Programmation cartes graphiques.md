@@ -134,9 +134,12 @@ Le vecteur normal à l'une des faces doit être orthogonal à au moins deux des 
 
 <div align="center"><img src="https://raw.githubusercontent.com/LifelongNovember/Cours/master/img/faces%20triangulaires.png" width=200px/></div>
 
+### Exercice 3
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM0MTg1OTk0LC0yMDcwMjY4OTUwLC0zMT
-Y5NzQ3ODEsLTE1NzkzNDA0MDIsMTQ2NzM0NjU2MywxMjI3OTQy
-NzcxLC0xMDcxMzE4OTYxLDExMzg2NjI3MjhdfQ==
+eyJoaXN0b3J5IjpbLTE5NzY4Mjk4NzQsNTM0MTg1OTk0LC0yMD
+cwMjY4OTUwLC0zMTY5NzQ3ODEsLTE1NzkzNDA0MDIsMTQ2NzM0
+NjU2MywxMjI3OTQyNzcxLC0xMDcxMzE4OTYxLDExMzg2NjI3Mj
+hdfQ==
 -->
