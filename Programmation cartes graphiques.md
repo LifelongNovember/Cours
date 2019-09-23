@@ -101,7 +101,7 @@ Lorsqu'on trace une droite sur un nombre discret de pixels, si la pente est < 1,
 
 ### Algorithmes de Brensham
 
-Pour chaque point 
+Pour chaque pixel, on calcule de manière incrémentale la distance entre la pseudo-distance du centre du pixel à la droite.
 
 # TD
 
@@ -129,6 +129,6 @@ Le vecteur normal à l'une des faces doit être orthogonal à au moins deux des 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzg1OTQzNjEsMTIyNzk0Mjc3MSwtMT
-A3MTMxODk2MSwxMTM4NjYyNzI4XX0=
+eyJoaXN0b3J5IjpbMTQ2NzM0NjU2MywxMjI3OTQyNzcxLC0xMD
+cxMzE4OTYxLDExMzg2NjI3MjhdfQ==
 -->
