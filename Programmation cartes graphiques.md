@@ -136,9 +136,9 @@ Le vecteur normal à l'une des faces doit être orthogonal à au moins deux des 
 
 ### Exercice 3
 
-$$  = \begin{pmatrix} 0 1 \end{pmatrix}$$
+$$ AB = \begin{pmatrix} 0 & 1 \\ 1 & 1 \\ 1 & -1 \end{pmatrix}, AD = \begin{pmatrix} \end{pmatrix}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODEwMDI1OCwtMTQ3ODA2NzE2MCwtMT
+eyJoaXN0b3J5IjpbMTI1MjIxOTgxNiwtMTQ3ODA2NzE2MCwtMT
 k3NjgyOTg3NCw1MzQxODU5OTQsLTIwNzAyNjg5NTAsLTMxNjk3
 NDc4MSwtMTU3OTM0MDQwMiwxNDY3MzQ2NTYzLDEyMjc5NDI3Nz
 EsLTEwNzEzMTg5NjEsMTEzODY2MjcyOF19
