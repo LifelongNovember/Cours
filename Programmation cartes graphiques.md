@@ -147,12 +147,12 @@ $$ F_4 : \vec{n_4} = \vec{AB} \land \vec{AC} = \overset{\vec{ AB}}{\begin{pmatri
 Pour être visible, le produit scalaire doit être positif.
 
 $$ \Delta = \begin{pmatrix} 0 \\ 0 \\ -1 \end{pmatrix} $$
-$$ \vec{n_1} \cdot \vec{\Delta} = \begin{pmatrix} -4 \\ -1 \\ -2 \end{pmatrix} \cdot \begin{pmatrix} 0 \\ 0 \\ -1 \end{pmatrix} = (-4 $$
-
+$$ \vec{n_1} \cdot \vec{\Delta} = \begin{pmatrix} -4 \\ -1 \\ -2 \end{pmatrix} \cdot \begin{pmatrix} 0 \\ 0 \\ -1 \end{pmatrix} = (-4 \cdot 0) + (-1 \cdot 0) + (-2 \cdot -1) = 2 \implies \text{face visible} $$
+$$ \vec{n_2} \cdot \vec{\Delta} = \begin{pmatrix} -4 \\ -1 \\ -2 \end{pmatrix} \cdot \begin{pmatrix} 0 \\ 0 \\ -1 \end{pmatrix} = (-4 \cdot 0) + (-1 \cdot 0) + (-2 \cdot -1) = 2 \implies \text{face visible} $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDc0MDA3NzMsLTI0NjI4NDkxNCwxMz
-AyNjYwMzgwLC0xNDc4MDY3MTYwLC0xOTc2ODI5ODc0LDUzNDE4
-NTk5NCwtMjA3MDI2ODk1MCwtMzE2OTc0NzgxLC0xNTc5MzQwND
-AyLDE0NjczNDY1NjMsMTIyNzk0Mjc3MSwtMTA3MTMxODk2MSwx
-MTM4NjYyNzI4XX0=
+eyJoaXN0b3J5IjpbMjU1ODUzODQ5LC0yNDYyODQ5MTQsMTMwMj
+Y2MDM4MCwtMTQ3ODA2NzE2MCwtMTk3NjgyOTg3NCw1MzQxODU5
+OTQsLTIwNzAyNjg5NTAsLTMxNjk3NDc4MSwtMTU3OTM0MDQwMi
+wxNDY3MzQ2NTYzLDEyMjc5NDI3NzEsLTEwNzEzMTg5NjEsMTEz
+ODY2MjcyOF19
 -->
