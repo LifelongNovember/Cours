@@ -97,7 +97,7 @@ Règle de la main droite :
 
 ## Tracé de segments
 
-Lorsqu'on trace une droite sur un nombre discret de pixels, si la pente est < 1, la dis se fait selon 
+Lorsqu'on trace une droite sur un nombre discret de pixels, si la pente est < 1, la discrétisation se fait selon x, si elle > 1, elle se fait selon y. 
 
 # TD
 
@@ -125,6 +125,6 @@ Le vecteur normal à l'une des faces doit être orthogonal à au moins deux des 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDM2NzQ0NzUsMTIyNzk0Mjc3MSwtMT
-A3MTMxODk2MSwxMTM4NjYyNzI4XX0=
+eyJoaXN0b3J5IjpbLTc5MDQzMDM0MywxMjI3OTQyNzcxLC0xMD
+cxMzE4OTYxLDExMzg2NjI3MjhdfQ==
 -->
