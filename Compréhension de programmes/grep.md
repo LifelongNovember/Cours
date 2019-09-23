@@ -28,8 +28,19 @@ gnuplot-5.0.7/src
 ```
 
 > Trouver tous les fichiers datant de moins de 15 jours
-> 
+```bash
+gnuplot-5.0.7 took 7s 
+[I] ➜ find . ! -ctime 15
+./Makefile.maint
+./share
+./share/colors_default.gp
+./share/colors_podo.gp
+./share/colors_mono.gp
+./share/Makefile.am
+./share/gnuplotrc
+(...)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzMDE4NzQ3LC03MjY2ODg5MTksNzYxMj
-Q3Njc2XX0=
+eyJoaXN0b3J5IjpbLTU0NDE0NTkwMiw0NDMwMTg3NDcsLTcyNj
+Y4ODkxOSw3NjEyNDc2NzZdfQ==
 -->
