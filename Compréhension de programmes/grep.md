@@ -87,8 +87,12 @@ gnuplot-5.0.7 took 2s
 -rw-r--r-- 1 novembre novembre 3198 10 oct.   2012 ./demo/varcolor.dem
 (...)
 ```
+
+```bash
+gnuplot-5.0.7 
+[I] ➜ find . -size +50c -exec ls -al '{}' \;
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk1MzA3MjgsMTYwOTk3NDQ5Myw2NzMzMz
-Y1ODYsMTkxOTI3Njg2LDQ0MzAxODc0NywtNzI2Njg4OTE5LDc2
-MTI0NzY3Nl19
+eyJoaXN0b3J5IjpbMjExNzI0NzYzMSwyOTUzMDcyOCwxNjA5OT
+c0NDkzLDY3MzMzNjU4NiwxOTE5Mjc2ODYsNDQzMDE4NzQ3LC03
+MjY2ODg5MTksNzYxMjQ3Njc2XX0=
 -->
