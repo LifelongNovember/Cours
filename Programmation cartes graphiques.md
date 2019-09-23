@@ -148,11 +148,12 @@ Pour être visible, le produit scalaire doit être positif.
 
 $$ \Delta = \begin{pmatrix} 0 \\ 0 \\ -1 \end{pmatrix} $$
 $$ \vec{n_1} \cdot \vec{\Delta} = \begin{pmatrix} -4 \\ -1 \\ -2 \end{pmatrix} \cdot \begin{pmatrix} 0 \\ 0 \\ -1 \end{pmatrix} = (-4 \cdot 0) + (-1 \cdot 0) + (-2 \cdot -1) = 2 \implies \text{face visible} $$
-$$ \vec{n_2} \cdot \vec{\Delta} = \begin{pmatrix} -4 \\ -1 \\ -2 \end{pmatrix} \cdot \begin{pmatrix} 0 \\ 0 \\ -1 \end{pmatrix} = (-4 \cdot 0) + (-1 \cdot 0) + (-2 \cdot -1) = 2 \implies \text{face visible} $$
+$$ \vec{n_2} \cdot \vec{\Delta} = \begin{pmatrix} 4 \\ -1 \\ -2 \end{pmatrix} \cdot \begin{pmatrix} 0 \\ 0 \\ -1 \end{pmatrix} = (4 \cdot 0) + (-1 \cdot 0) + (-2 \cdot -1) = 2 \implies \text{face visible} $$
+$$ \vec{n_3} \cdot \vec{\Delta} = \begin{pmatrix} 0 \\ 0 \\ 4 \end{pmatrix} \cdot \begin{pmatrix} 0 \\ 0 \\ -1 \end{pmatrix} = (4 \cdot 0) + (-1 \cdot 0) + (-2 \cdot -1) = 2 \implies \text{face visible} $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU1ODUzODQ5LC0yNDYyODQ5MTQsMTMwMj
-Y2MDM4MCwtMTQ3ODA2NzE2MCwtMTk3NjgyOTg3NCw1MzQxODU5
-OTQsLTIwNzAyNjg5NTAsLTMxNjk3NDc4MSwtMTU3OTM0MDQwMi
-wxNDY3MzQ2NTYzLDEyMjc5NDI3NzEsLTEwNzEzMTg5NjEsMTEz
-ODY2MjcyOF19
+eyJoaXN0b3J5IjpbMTQzMTEzNzE2MSwtMjQ2Mjg0OTE0LDEzMD
+I2NjAzODAsLTE0NzgwNjcxNjAsLTE5NzY4Mjk4NzQsNTM0MTg1
+OTk0LC0yMDcwMjY4OTUwLC0zMTY5NzQ3ODEsLTE1NzkzNDA0MD
+IsMTQ2NzM0NjU2MywxMjI3OTQyNzcxLC0xMDcxMzE4OTYxLDEx
+Mzg2NjI3MjhdfQ==
 -->
