@@ -39,7 +39,23 @@ gnuplot-5.0.7
 ./share/gnuplotrc
 (...)
 ```
+
+```bash
+gnuplot-5.0.7 
+[I] ➜ find . ! -ctime 15 -type f | grep -r "EXTERN"
+config.status:D["HAVE_EXTERNAL_FUNCTIONS"]=" 1"
+config.status:D["EXTERNAL_X11_WINDOW"]=" 1"
+config.hin:#undef EXTERNAL_X11_WINDOW
+config.hin:#undef EXTERN_ERRNO
+config.hin:#undef HAVE_EXTERNAL_FUNCTIONS
+demo/plugin/plugin.dem:if (!strstrt(GPVAL_COMPILE_OPTIONS,"+EXTERNAL_FUNCTIONS")) {
+config/config.mgw:/* #undef EXTERNAL_X11_WINDOW */
+config/config.mgw:/* #undef EXTERN_ERRNO */
+config/config.mgw:#define HAVE_EXTERNAL_FUNCTIONS 1
+config/config.nt:/* #undef EXTERNAL_X11_WINDOW */
+(...)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzY4NDYyNCwxOTE5Mjc2ODYsNDQzMD
-E4NzQ3LC03MjY2ODg5MTksNzYxMjQ3Njc2XX0=
+eyJoaXN0b3J5IjpbLTE3NTg1NjU0ODMsMTkxOTI3Njg2LDQ0Mz
+AxODc0NywtNzI2Njg4OTE5LDc2MTI0NzY3Nl19
 -->
