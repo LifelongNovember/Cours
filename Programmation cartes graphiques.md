@@ -103,7 +103,7 @@ Lorsqu'on trace une droite sur un nombre discret de pixels, si la pente est < 1,
 
 Pour chaque pixel, on calcule de manière incrémentale la distance entre la pseudo-distance du centre du pixel à la droite.
 Pour calculer e, on utilise le théorème de Thales : ${{dy} \over {dx}} = {{e} \over {1}} \implies e = {dy \over dx}$.
-$$ a = {dy \over dx} $$  pour chaque itération : $$e = {e + a}, \  {x = x + 1}  \\ \text{ si } e > 0,5 : y = y + 1, \ e = e - 1$$
+$$ a = {dy \over dx} $$  our chaque itération : $$e = {e + a}, \  {x = x + 1}  \\ \text{ si } e > 0,5 : y = y + 1, \ e = e - 1$$
 
 
 ### Tracé de cercles
@@ -136,7 +136,7 @@ Le vecteur normal à l'une des faces doit être orthogonal à au moins deux des 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzAyNjg5NTAsLTMxNjk3NDc4MSwtMT
-U3OTM0MDQwMiwxNDY3MzQ2NTYzLDEyMjc5NDI3NzEsLTEwNzEz
-MTg5NjEsMTEzODY2MjcyOF19
+eyJoaXN0b3J5IjpbMTc5ODAyOTE0LC0yMDcwMjY4OTUwLC0zMT
+Y5NzQ3ODEsLTE1NzkzNDA0MDIsMTQ2NzM0NjU2MywxMjI3OTQy
+NzcxLC0xMDcxMzE4OTYxLDExMzg2NjI3MjhdfQ==
 -->
