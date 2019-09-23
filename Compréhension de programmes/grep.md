@@ -39,7 +39,8 @@ gnuplot-5.0.7
 ./share/gnuplotrc
 (...)
 ```
-
+> Trouver tous les fichiers datant de moins de 15 jours et contenant EXTERN
+> 
 ```bash
 gnuplot-5.0.7 
 [I] ➜ find . ! -ctime 15 -type f | grep -r "EXTERN"
@@ -56,6 +57,6 @@ config/config.nt:/* #undef EXTERNAL_X11_WINDOW */
 (...)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTg1NjU0ODMsMTkxOTI3Njg2LDQ0Mz
+eyJoaXN0b3J5IjpbLTEyMzcxOTg5NTYsMTkxOTI3Njg2LDQ0Mz
 AxODc0NywtNzI2Njg4OTE5LDc2MTI0NzY3Nl19
 -->
