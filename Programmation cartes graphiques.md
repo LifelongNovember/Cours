@@ -138,7 +138,7 @@ Le vecteur normal à l'une des faces doit être orthogonal à au moins deux des 
 
 $$ F_1 : \vec{n_1} = \vec{AD} \land \vec{AB} = \overset{\vec{AD}}{\begin{pmatrix} 0 \\ 1 \\ -1 \end{pmatrix}}  \land \overset{\vec {AB} }{\begin{pmatrix} 1 \\ 0 \\ -2 \end{pmatrix}} = \begin{pmatrix} 2 \cdot (-2) - (-1) \cdot (0) \\ -(0 \cdot (-2) - (-1) \cdot 1) \\ 0 \cdot{ 0}  - (2) \cdot (1)\end{pmatrix} = \begin{pmatrix} -4 \\ -1\\ 2\end{pmatrix} $$
 
-$$ F_2 : \vec{n_2} = \vec{AC} \land \vec{AD} = \overset{\vec{ AC}}{\begin{pmatrix} -1 \\ 0 \\ -2 \end{pmatrix}}  \land \overset{\vec{AD}}{\begin{pmatrix} 0 \\ 2 \\ -2 \end{pmatrix}} = \begin{pmatrix} 0 \cdot (-1) - (-2) \cdot 2 \\ -(-1 \cdot (-1) - (-2) \cdot 0)) \\ -1 \cdot{ 2} - 0  \cdot 0\end{pmatrix} = \begin{pmatrix} 4 \\ -1\\ -2\end{pmatrix}$$
+$$ F_2 : \vec{n_2} = \vec{AC} \land \vec{AD} = \overset{\vec{ AC}}{\begin{pmatrix} -1 \\ 0 \\ -2 \end{pmatrix}}  \land \overset{\vec{AD}}{\begin{pmatrix} 0 \\ 2 \\ -1 \end{pmatrix}} = \begin{pmatrix} 0 \cdot (-1) - (-2) \cdot 2 \\ -(-1 \cdot (-1) - (-2) \cdot 0)) \\ -1 \cdot{ 2} - 0  \cdot 0\end{pmatrix} = \begin{pmatrix} 4 \\ -1\\ -2\end{pmatrix}$$
 
 $$ F_3 : \vec{n_3} = \vec{DC} \land \vec{DB} = \overset{\vec{ DC}}{\begin{pmatrix} -1 \\ -2 \\ -1 \end{pmatrix}}  \land \overset{\vec{DB}}{\begin{pmatrix} 1 \\ -2 \\ -1 \end{pmatrix}} = \begin{pmatrix} -2 \cdot (-1) - (-1) \cdot (-2) \\ -1 \cdot (-1) - (-1) \cdot 1 \\ -1 \cdot{ (-2)} - (-2)  \cdot 1\end{pmatrix}= \begin{pmatrix} 0 \\ 0\\ 4\end{pmatrix} $$
 
@@ -152,9 +152,9 @@ $$ \vec{n_2} \cdot \vec{\Delta} = \begin{pmatrix} 4 \\ -1 \\ -2 \end{pmatrix} \c
 $$ \vec{n_3} \cdot \vec{\Delta} = \begin{pmatrix} 0 \\ 0 \\ 4 \end{pmatrix} \cdot \begin{pmatrix} 0 \\ 0 \\ -1 \end{pmatrix} = (0 + 0 -4) = -4 \implies \text{face non visible} $$
 $$ \vec{n_4} \cdot \vec{\Delta} = \begin{pmatrix} 0 \\ 4 \\ 0 \end{pmatrix} \cdot \begin{pmatrix} 0 \\ 0 \\ -1 \end{pmatrix} = (0 + 0 + 0) = 0 \implies \text{face parallele à l'axe de vue} $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MzcxNTQyMiwtMjQ2Mjg0OTE0LDEzMD
-I2NjAzODAsLTE0NzgwNjcxNjAsLTE5NzY4Mjk4NzQsNTM0MTg1
-OTk0LC0yMDcwMjY4OTUwLC0zMTY5NzQ3ODEsLTE1NzkzNDA0MD
-IsMTQ2NzM0NjU2MywxMjI3OTQyNzcxLC0xMDcxMzE4OTYxLDEx
-Mzg2NjI3MjhdfQ==
+eyJoaXN0b3J5IjpbLTY5MjY4NzM1NywtOTkzNzE1NDIyLC0yND
+YyODQ5MTQsMTMwMjY2MDM4MCwtMTQ3ODA2NzE2MCwtMTk3Njgy
+OTg3NCw1MzQxODU5OTQsLTIwNzAyNjg5NTAsLTMxNjk3NDc4MS
+wtMTU3OTM0MDQwMiwxNDY3MzQ2NTYzLDEyMjc5NDI3NzEsLTEw
+NzEzMTg5NjEsMTEzODY2MjcyOF19
 -->
