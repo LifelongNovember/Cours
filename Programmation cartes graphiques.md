@@ -136,17 +136,19 @@ Le vecteur normal à l'une des faces doit être orthogonal à au moins deux des 
 
 ### Exercice 3
 
-$$ F_1 : \vec{n_1} = \vec{AD} \land \vec{AB} = \overset{\vec{AD}}{\begin{pmatrix} 0 \\ 1 \\ -1 \end{pmatrix}}  \land \overset{\vec {AB} }{\begin{pmatrix} 1 \\ 0 \\ -2 \end{pmatrix}} = \begin{pmatrix} 2 \cdot (-2) - (-1) \cdot (0) \\ -(0 \cdot (-2) - (-1) \cdot 1) \\ 0 \cdot{ 0}  - (2) \cdot (1)\end{pmatrix} = \begin{pmatrix} -4 \\ -1\\ 2\end{pmatrix}$$
+$$ F_1 : \vec{n_1} = \vec{AD} \land \vec{AB} = \overset{\vec{AD}}{\begin{pmatrix} 0 \\ 1 \\ -1 \end{pmatrix}}  \land \overset{\vec {AB} }{\begin{pmatrix} 1 \\ 0 \\ -2 \end{pmatrix}} = \begin{pmatrix} 2 \cdot (-2) - (-1) \cdot (0) \\ -(0 \cdot (-2) - (-1) \cdot 1) \\ 0 \cdot{ 0}  - (2) \cdot (1)\end{pmatrix} = \begin{pmatrix} -4 \\ -1\\ 2\end{pmatrix} \implies $$
 
 $$ F_2 : \vec{n_2} = \vec{AC} \land \vec{AD} = \overset{\vec{ AC}}{\begin{pmatrix} -1 \\ 0 \\ -2 \end{pmatrix}}  \land \overset{\vec{AD}}{\begin{pmatrix} 0 \\ 2 \\ -2 \end{pmatrix}} = \begin{pmatrix} 0 \cdot (-1) - (-2) \cdot 2 \\ -(-1 \cdot (-1) - (-2) \cdot 0)) \\ -1 \cdot{ 2} - 0  \cdot 0\end{pmatrix} = \begin{pmatrix} 4 \\ -1\\ -2\end{pmatrix}$$
 
 $$ F_3 : \vec{n_3} = \vec{DC} \land \vec{DB} = \overset{\vec{ DC}}{\begin{pmatrix} -1 \\ -2 \\ -1 \end{pmatrix}}  \land \overset{\vec{DB}}{\begin{pmatrix} 1 \\ -2 \\ -1 \end{pmatrix}} = \begin{pmatrix} -2 \cdot (-1) - (-1) \cdot (-2) \\ -1 \cdot (-1) - (-1) \cdot 1 \\ -1 \cdot{ (-2)} - (-2)  \cdot 1\end{pmatrix}= \begin{pmatrix} 0 \\ 0\\ 4\end{pmatrix} $$
 
 $$ F_4 : \vec{n_4} = \vec{AB} \land \vec{AC} = \overset{\vec{ AB}}{\begin{pmatrix} 1 \\ 0 \\ -2 \end{pmatrix}}  \land \overset{\vec{AC}}{\begin{pmatrix} -1 \\ 0 \\ -2 \end{pmatrix}} = \begin{pmatrix} 0 \cdot (-2) - (-2) \cdot 0 \\ (-1 \cdot (-2) - (-2) \cdot (-1)) \\ -1 \cdot{ 0} - 0  \cdot (-1)\end{pmatrix}= \begin{pmatrix} 0 \\ 4\\ 0\end{pmatrix} $$
+
+Pour être visible, le produit scalaire doit être positif.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEyNzU3NzgzLC0yNDYyODQ5MTQsMTMwMj
-Y2MDM4MCwtMTQ3ODA2NzE2MCwtMTk3NjgyOTg3NCw1MzQxODU5
-OTQsLTIwNzAyNjg5NTAsLTMxNjk3NDc4MSwtMTU3OTM0MDQwMi
-wxNDY3MzQ2NTYzLDEyMjc5NDI3NzEsLTEwNzEzMTg5NjEsMTEz
-ODY2MjcyOF19
+eyJoaXN0b3J5IjpbMTkzNzc4MjUxNiwtMjQ2Mjg0OTE0LDEzMD
+I2NjAzODAsLTE0NzgwNjcxNjAsLTE5NzY4Mjk4NzQsNTM0MTg1
+OTk0LC0yMDcwMjY4OTUwLC0zMTY5NzQ3ODEsLTE1NzkzNDA0MD
+IsMTQ2NzM0NjU2MywxMjI3OTQyNzcxLC0xMDcxMzE4OTYxLDEx
+Mzg2NjI3MjhdfQ==
 -->
