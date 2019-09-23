@@ -56,7 +56,23 @@ config/config.mgw:#define HAVE_EXTERNAL_FUNCTIONS 1
 config/config.nt:/* #undef EXTERNAL_X11_WINDOW */
 (...)
 ```
+
+> Trouver tous les fichiers executables
+
+```bash
+gnuplot-5.0.7 
+[I] ✘1 ➜ find . -type f -executable 
+./config.status
+./demo/html/webify_svg.pl
+./demo/html/webify.pl
+./demo/html/webify_canvas.pl
+./demo/plugin/demo_plugin.so
+./config/MacOSX/PkgResources/InstallationCheck
+./config/MacOSX/PkgResources/postinstall
+./config/djconfig.sh
+(...)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzcxOTg5NTYsMTkxOTI3Njg2LDQ0Mz
-AxODc0NywtNzI2Njg4OTE5LDc2MTI0NzY3Nl19
+eyJoaXN0b3J5IjpbNjczMzM2NTg2LDE5MTkyNzY4Niw0NDMwMT
+g3NDcsLTcyNjY4ODkxOSw3NjEyNDc2NzZdfQ==
 -->
