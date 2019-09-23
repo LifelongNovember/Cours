@@ -99,7 +99,7 @@ Règle de la main droite :
 
 Lorsqu'on trace une droite sur un nombre discret de pixels, si la pente est < 1, la discrétisation se fait selon $x$, si elle est > 1, elle se fait selon $y$. 
 
-#### Algorithmes de Brensham
+#### Algorithmes de Brensenham
 
 Pour chaque pixel, on calcule de manière incrémentale la distance entre la pseudo-distance du centre du pixel à la droite.
 Pour calculer e, on utilise le théorème de Thales : ${{dy} \over {dx}} = {{e} \over {1}} \implies e = {dy \over dx}$.
@@ -136,7 +136,7 @@ Le vecteur normal à l'une des faces doit être orthogonal à au moins deux des 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTU3NzM3MCwtMTU3OTM0MDQwMiwxND
+eyJoaXN0b3J5IjpbLTMxNjk3NDc4MSwtMTU3OTM0MDQwMiwxND
 Y3MzQ2NTYzLDEyMjc5NDI3NzEsLTEwNzEzMTg5NjEsMTEzODY2
 MjcyOF19
 -->
