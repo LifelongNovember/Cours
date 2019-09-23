@@ -119,6 +119,7 @@ $$
 Le vecteur normal à l'une des faces doit être orthogonal à au moins deux des arêtes de l'autre face pour que les deux faces soient parallèles.
 
 <div align="center"><img src="https://raw.githubusercontent.com/LifelongNovember/Cours/master/img/faces%20triangulaires.png" width=200px/></div>
+
 # Cours
 
 > M. Ammi (ammi@limsi.fr)
@@ -242,5 +243,5 @@ Le vecteur normal à l'une des faces doit être orthogonal à au moins deux des 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzODY2MjcyOF19
+eyJoaXN0b3J5IjpbLTIwNzI0ODAzNTgsMTEzODY2MjcyOF19
 -->
