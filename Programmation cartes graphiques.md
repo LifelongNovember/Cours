@@ -142,11 +142,11 @@ $$ F_2 : \vec{n_2} = \vec{AC} \land \vec{AD} = \overset{\vec{ AC}}{\begin{pmatri
 
 $$ F_3 : \vec{n_3} = \vec{DC} \land \vec{DB} = \overset{\vec{ DC}}{\begin{pmatrix} -1 \\ -2 \\ -1 \end{pmatrix}}  \land \overset{\vec{DB}}{\begin{pmatrix} 1 \\ -2 \\ -1 \end{pmatrix}} = \begin{pmatrix} -2 \cdot (-1) - (-1) \cdot (-2) \\ (-1) \cdot (-1) - (-2) \cdot 0) \\ -1 \cdot{ (-2)} - (-2)  \cdot 1\end{pmatrix}= \begin{pmatrix} 0 \\ 0\\ 4\end{pmatrix} $$
 
-$$ F_3 : \vec{n_3} = \vec{AB} \land \vec{AC} = \overset{\vec{ AB}}{\begin{pmatrix} 1 \\ 0 \\ -2 \end{pmatrix}}  \land \overset{\vec{AC}}{\begin{pmatrix} -1 \\ 0 \\ -2 \end{pmatrix}} = \begin{pmatrix} 0 \cdot (-2) - (-2) \cdot 0 \\ (-1 \cdot (-2) - (-2) \cdot (-1)) \\ -1 \cdot{ 0} - 0  \cdot (-1)\end{pmatrix}= \begin{pmatrix} 0 \\ 4\\ 0\end{pmatrix} $$
+$$ F_4 : \vec{n_4} = \vec{AB} \land \vec{AC} = \overset{\vec{ AB}}{\begin{pmatrix} 1 \\ 0 \\ -2 \end{pmatrix}}  \land \overset{\vec{AC}}{\begin{pmatrix} -1 \\ 0 \\ -2 \end{pmatrix}} = \begin{pmatrix} 0 \cdot (-2) - (-2) \cdot 0 \\ (-1 \cdot (-2) - (-2) \cdot (-1)) \\ -1 \cdot{ 0} - 0  \cdot (-1)\end{pmatrix}= \begin{pmatrix} 0 \\ 4\\ 0\end{pmatrix} $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MTIzNDc2OCwtMjQ2Mjg0OTE0LDEzMD
-I2NjAzODAsLTE0NzgwNjcxNjAsLTE5NzY4Mjk4NzQsNTM0MTg1
-OTk0LC0yMDcwMjY4OTUwLC0zMTY5NzQ3ODEsLTE1NzkzNDA0MD
-IsMTQ2NzM0NjU2MywxMjI3OTQyNzcxLC0xMDcxMzE4OTYxLDEx
-Mzg2NjI3MjhdfQ==
+eyJoaXN0b3J5IjpbLTExNDg2MTUwMjYsLTI0NjI4NDkxNCwxMz
+AyNjYwMzgwLC0xNDc4MDY3MTYwLC0xOTc2ODI5ODc0LDUzNDE4
+NTk5NCwtMjA3MDI2ODk1MCwtMzE2OTc0NzgxLC0xNTc5MzQwND
+AyLDE0NjczNDY1NjMsMTIyNzk0Mjc3MSwtMTA3MTMxODk2MSwx
+MTM4NjYyNzI4XX0=
 -->
