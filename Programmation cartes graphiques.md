@@ -95,15 +95,17 @@ Règle de la main droite :
 
 ⇒ Translation + Rotation + Homothétie + Réflexion + Projection (3DDL) : 15 degrés de liberté
 
-## Tracé de segments
+### Tracé de segments
 
 Lorsqu'on trace une droite sur un nombre discret de pixels, si la pente est < 1, la discrétisation se fait selon x, si elle > 1, elle se fait selon y. 
 
-### Algorithmes de Brensham
+#### Algorithmes de Brensham
 
 Pour chaque pixel, on calcule de manière incrémentale la distance entre la pseudo-distance du centre du pixel à la droite.
 Pour calculer e, on utilise le théorème de Thales : ${{dy} \over {dx}} = {{e} \over {1}} \implies e = {dy \over dx}$.
 $$ a = {dy \over dx} \\ \text{ pour chaque itération : } e = {e + a}, {x = x + 1}  \\ \text{ si } e > 0,5 : y = y + 1, e = e - 1$$
+
+### Tracé de cercles
 
 # TD
 
@@ -131,7 +133,7 @@ Le vecteur normal à l'une des faces doit être orthogonal à au moins deux des 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3OTc4ODUsLTE1NzkzNDA0MDIsMTQ2Nz
-M0NjU2MywxMjI3OTQyNzcxLC0xMDcxMzE4OTYxLDExMzg2NjI3
-MjhdfQ==
+eyJoaXN0b3J5IjpbODQwMTI4NTk5LC0xNTc5MzQwNDAyLDE0Nj
+czNDY1NjMsMTIyNzk0Mjc3MSwtMTA3MTMxODk2MSwxMTM4NjYy
+NzI4XX0=
 -->
