@@ -1,4 +1,4 @@
-# Langages : interprétation et compilation
+https://raw.githubusercontent.com/LifelongNovember/Cours/master/img/transition.png# Langages : interprétation et compilation
 
 > Pablo Rauzy pr@up8.edu pablo.rauzy.name/teaching/liec
 
@@ -20,9 +20,9 @@ Il se divise en trois parties :
 
 ![](https://raw.githubusercontent.com/LifelongNovember/Cours/master/img/transition.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNTMxMzYyMSwxMzUzODQ3NDI0LDEwOD
-k3OTQyNTgsNTgwNDgwMzc2LDEwODk3OTQyNTgsMTA4OTc5NDI1
-OCwtMjI0NDQ1NTMyLC0yMDY5MTk1MzYyLC0xNzEzNTc2MjU2LD
-EwODc3MzcyNzYsLTE1MjgyMjk0NDUsLTIwODg3NDY2MTJdfQ==
-
+eyJoaXN0b3J5IjpbLTE1ODQxMDkzOCwtOTI1MzEzNjIxLDEzNT
+M4NDc0MjQsMTA4OTc5NDI1OCw1ODA0ODAzNzYsMTA4OTc5NDI1
+OCwxMDg5Nzk0MjU4LC0yMjQ0NDU1MzIsLTIwNjkxOTUzNjIsLT
+E3MTM1NzYyNTYsMTA4NzczNzI3NiwtMTUyODIyOTQ0NSwtMjA4
+ODc0NjYxMl19
 -->
