@@ -8,8 +8,8 @@ Vulga économie :
 Heu?reka
 Des économistes et des hommes
 
-
+Introduction à l'algorithmique : CORMEN
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTM0NDUyNTQsMTAzNzE4ODE0LDEyMT
+eyJoaXN0b3J5IjpbLTExNjE5MjIxMzQsMTAzNzE4ODE0LDEyMT
 g2ODEzMjUsLTIwODg3NDY2MTJdfQ==
 -->
