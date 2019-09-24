@@ -15,8 +15,9 @@ Il se divise en trois parties :
  * **front end** : lecture du code source et transformation en langage intermédiaire.
  * **middle end** : fait plusieurs passes de traitement dans le langage intermédiaire.
  * **back end** : produit le code final à partir du langage intermédiaire.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNDQ0NTUzMiwtMjA2OTE5NTM2MiwtMT
-cxMzU3NjI1NiwxMDg3NzM3Mjc2LC0xNTI4MjI5NDQ1LC0yMDg4
-NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTA4OTc5NDI1OCwtMjI0NDQ1NTMyLC0yMD
+Y5MTk1MzYyLC0xNzEzNTc2MjU2LDEwODc3MzcyNzYsLTE1Mjgy
+Mjk0NDUsLTIwODg3NDY2MTJdfQ==
 -->
