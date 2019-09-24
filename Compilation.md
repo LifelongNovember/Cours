@@ -19,9 +19,9 @@ Il se divise en trois parties :
 no+n
 (oui)+
 oui|non|nan / oui|n[ao]n
-(b|p)a(n|t)a(n|t)e
+banane|patate
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzM0MjYwOCw1ODA0ODAzNzYsMTA4OT
+eyJoaXN0b3J5IjpbMTM5OTM1ODQ0NCw1ODA0ODAzNzYsMTA4OT
 c5NDI1OCwxMDg5Nzk0MjU4LC0yMjQ0NDU1MzIsLTIwNjkxOTUz
 NjIsLTE3MTM1NzYyNTYsMTA4NzczNzI3NiwtMTUyODIyOTQ0NS
 wtMjA4ODc0NjYxMl19
