@@ -19,11 +19,11 @@ Il se divise en trois parties :
 **Lexer** :
 
 ![](https://raw.githubusercontent.com/LifelongNovember/Cours/master/img/transition.png)
-![](https://raw.githubusercontent.com/LifelongNovember/Cours/master/img/lexer.svg)
+![](https://raw.githubusercontent.com/LifelongNovember/Cours/master/img/lexer.svg?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODg4NjA5MywtOTI1MzEzNjIxLDEzNT
-M4NDc0MjQsMTA4OTc5NDI1OCw1ODA0ODAzNzYsMTA4OTc5NDI1
-OCwxMDg5Nzk0MjU4LC0yMjQ0NDU1MzIsLTIwNjkxOTUzNjIsLT
-E3MTM1NzYyNTYsMTA4NzczNzI3NiwtMTUyODIyOTQ0NSwtMjA4
-ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTIwNDQxNDg1OTQsLTE1ODg4NjA5MywtOT
+I1MzEzNjIxLDEzNTM4NDc0MjQsMTA4OTc5NDI1OCw1ODA0ODAz
+NzYsMTA4OTc5NDI1OCwxMDg5Nzk0MjU4LC0yMjQ0NDU1MzIsLT
+IwNjkxOTUzNjIsLTE3MTM1NzYyNTYsMTA4NzczNzI3NiwtMTUy
+ODIyOTQ0NSwtMjA4ODc0NjYxMl19
 -->
