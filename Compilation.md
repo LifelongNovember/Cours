@@ -18,9 +18,10 @@ Il se divise en trois parties :
 
 no*n
 (oui)*
-{oui|non|na
+{oui|non|nan}
+(banane)(patate)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzQ4NDc2NSwxMDg5Nzk0MjU4LDEwOD
+eyJoaXN0b3J5IjpbMjA2MTc2Nzc2OCwxMDg5Nzk0MjU4LDEwOD
 k3OTQyNTgsLTIyNDQ0NTUzMiwtMjA2OTE5NTM2MiwtMTcxMzU3
 NjI1NiwxMDg3NzM3Mjc2LC0xNTI4MjI5NDQ1LC0yMDg4NzQ2Nj
 EyXX0=
