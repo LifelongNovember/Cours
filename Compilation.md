@@ -18,11 +18,11 @@ Il se divise en trois parties :
 
 no+n
 (oui)+
-{oui|non|nan}
+oui|non|nan / oui|n[ao]n
 (banane)(patate)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgwNDgwMzc2LDEwODk3OTQyNTgsMTA4OT
-c5NDI1OCwtMjI0NDQ1NTMyLC0yMDY5MTk1MzYyLC0xNzEzNTc2
-MjU2LDEwODc3MzcyNzYsLTE1MjgyMjk0NDUsLTIwODg3NDY2MT
-JdfQ==
+eyJoaXN0b3J5IjpbMjA5NjI1Njc5Niw1ODA0ODAzNzYsMTA4OT
+c5NDI1OCwxMDg5Nzk0MjU4LC0yMjQ0NDU1MzIsLTIwNjkxOTUz
+NjIsLTE3MTM1NzYyNTYsMTA4NzczNzI3NiwtMTUyODIyOTQ0NS
+wtMjA4ODc0NjYxMl19
 -->
