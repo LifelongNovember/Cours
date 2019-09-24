@@ -16,10 +16,13 @@ Il se divise en trois parties :
  * **middle end** : fait plusieurs passes de traitement dans le langage intermédiaire.
  * **back end** : produit le code final à partir du langage intermédiaire.
 
+**Lexer** :
 
+![](https://raw.githubusercontent.com/LifelongNovember/Cours/master/img/transition.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1Mzg0NzQyNCwxMDg5Nzk0MjU4LDU4MD
-Q4MDM3NiwxMDg5Nzk0MjU4LDEwODk3OTQyNTgsLTIyNDQ0NTUz
-MiwtMjA2OTE5NTM2MiwtMTcxMzU3NjI1NiwxMDg3NzM3Mjc2LC
-0xNTI4MjI5NDQ1LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTkyNTMxMzYyMSwxMzUzODQ3NDI0LDEwOD
+k3OTQyNTgsNTgwNDgwMzc2LDEwODk3OTQyNTgsMTA4OTc5NDI1
+OCwtMjI0NDQ1NTMyLC0yMDY5MTk1MzYyLC0xNzEzNTc2MjU2LD
+EwODc3MzcyNzYsLTE1MjgyMjk0NDUsLTIwODg3NDY2MTJdfQ==
+
 -->
