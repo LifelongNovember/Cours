@@ -16,13 +16,13 @@ Il se divise en trois parties :
  * **middle end** : fait plusieurs passes de traitement dans le langage intermédiaire.
  * **back end** : produit le code final à partir du langage intermédiaire.
 
-no*n
+no{1,}n
 (oui)*
 {oui|non|nan}
 (banane)(patate)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MTc2Nzc2OCwxMDg5Nzk0MjU4LDEwOD
-k3OTQyNTgsLTIyNDQ0NTUzMiwtMjA2OTE5NTM2MiwtMTcxMzU3
-NjI1NiwxMDg3NzM3Mjc2LC0xNTI4MjI5NDQ1LC0yMDg4NzQ2Nj
-EyXX0=
+eyJoaXN0b3J5IjpbNTUwMTk4Mjc3LDEwODk3OTQyNTgsMTA4OT
+c5NDI1OCwtMjI0NDQ1NTMyLC0yMDY5MTk1MzYyLC0xNzEzNTc2
+MjU2LDEwODc3MzcyNzYsLTE1MjgyMjk0NDUsLTIwODg3NDY2MT
+JdfQ==
 -->
