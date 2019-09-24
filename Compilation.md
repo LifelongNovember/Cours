@@ -16,9 +16,10 @@ Il se divise en trois parties :
  * **middle end** : fait plusieurs passes de traitement dans le langage intermédiaire.
  * **back end** : produit le code final à partir du langage intermédiaire.
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTc5NDI1OCw1ODA0ODAzNzYsMTA4OT
-c5NDI1OCwxMDg5Nzk0MjU4LC0yMjQ0NDU1MzIsLTIwNjkxOTUz
-NjIsLTE3MTM1NzYyNTYsMTA4NzczNzI3NiwtMTUyODIyOTQ0NS
-wtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTM1Mzg0NzQyNCwxMDg5Nzk0MjU4LDU4MD
+Q4MDM3NiwxMDg5Nzk0MjU4LDEwODk3OTQyNTgsLTIyNDQ0NTUz
+MiwtMjA2OTE5NTM2MiwtMTcxMzU3NjI1NiwxMDg3NzM3Mjc2LC
+0xNTI4MjI5NDQ1LC0yMDg4NzQ2NjEyXX0=
 -->
