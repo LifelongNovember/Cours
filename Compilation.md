@@ -19,10 +19,11 @@ Il se divise en trois parties :
 **Lexer** :
 
 ![](https://raw.githubusercontent.com/LifelongNovember/Cours/master/img/transition.png)
+![](https://www.plantuml.com/plantuml/svg/SoWkIImgAStDuUAArefLqDLDoI_FqxLJyCiliL9Gv09I2Z0XMrjdMrjKLVu5YKLM2XfS81gVEcUmEaqkPmBg78kBCzFph1HikI0iV6g3KtCphHIikK0qDdLGaH03AmKrhX03k81ZNWf814ZXqsLefL335M885_0l0WduOtKzJ8-HbK9qecvLB5U8aG867weeBB68AmmZ4C0aq6js2a030G00)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQxMDkzOCwtOTI1MzEzNjIxLDEzNT
-M4NDc0MjQsMTA4OTc5NDI1OCw1ODA0ODAzNzYsMTA4OTc5NDI1
-OCwxMDg5Nzk0MjU4LC0yMjQ0NDU1MzIsLTIwNjkxOTUzNjIsLT
-E3MTM1NzYyNTYsMTA4NzczNzI3NiwtMTUyODIyOTQ0NSwtMjA4
-ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE3ODE3MzcwMTYsLTkyNTMxMzYyMSwxMz
+UzODQ3NDI0LDEwODk3OTQyNTgsNTgwNDgwMzc2LDEwODk3OTQy
+NTgsMTA4OTc5NDI1OCwtMjI0NDQ1NTMyLC0yMDY5MTk1MzYyLC
+0xNzEzNTc2MjU2LDEwODc3MzcyNzYsLTE1MjgyMjk0NDUsLTIw
+ODg3NDY2MTJdfQ==
 -->
