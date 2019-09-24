@@ -16,12 +16,8 @@ Il se divise en trois parties :
  * **middle end** : fait plusieurs passes de traitement dans le langage intermédiaire.
  * **back end** : produit le code final à partir du langage intermédiaire.
 
-no+n
-(oui)+
-oui|non|nan / oui|n[ao]n
-(b(an)²
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1OTA4NTE2Miw1ODA0ODAzNzYsMTA4OT
+eyJoaXN0b3J5IjpbMTA4OTc5NDI1OCw1ODA0ODAzNzYsMTA4OT
 c5NDI1OCwxMDg5Nzk0MjU4LC0yMjQ0NDU1MzIsLTIwNjkxOTUz
 NjIsLTE3MTM1NzYyNTYsMTA4NzczNzI3NiwtMTUyODIyOTQ0NS
 wtMjA4ODc0NjYxMl19
