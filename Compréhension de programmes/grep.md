@@ -122,8 +122,27 @@ gnuplot-5.0.7
 [I] ➜ find . -type f -exec wc -L '{}' \; | grep "^1[[:space:]]"
 1 ./PATCHLEVEL
 ```
+
+>Afficher le nb de lignes de tous makefile de l'archive
+
+``` bash
+gnuplot-5.0.7 
+[I] ➜ find . -name "*[mM]akefile" -exec wc -L '{}' \;
+576 ./share/LaTeX/Makefile
+576 ./share/Makefile
+1205 ./demo/html/Makefile
+576 ./demo/plugin/Makefile
+576 ./demo/Makefile
+159 ./config/mingw/Makefile
+214 ./config/msvc/Makefile
+118 ./config/cygwin/Makefile
+119 ./config/watcom/Makefile
+576 ./config/Makefile
+79 ./GNUmakefile
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzg3MzQyMTYsMzcyNjM4OTMxLDI5NT
+eyJoaXN0b3J5IjpbLTE5MzYyNzA2NDIsMzcyNjM4OTMxLDI5NT
 MwNzI4LDE2MDk5NzQ0OTMsNjczMzM2NTg2LDE5MTkyNzY4Niw0
 NDMwMTg3NDcsLTcyNjY4ODkxOSw3NjEyNDc2NzZdfQ==
 -->
