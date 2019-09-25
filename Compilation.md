@@ -19,10 +19,11 @@ Il se divise en trois parties :
 **Lexer** :
 
 ![](https://raw.githubusercontent.com/LifelongNovember/Cours/master/img/lexer.svg?sanitize=true)
+parser - appels récursifs : `(begin`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjY1MDc1NjcsLTE1ODg4NjA5MywtOT
-I1MzEzNjIxLDEzNTM4NDc0MjQsMTA4OTc5NDI1OCw1ODA0ODAz
-NzYsMTA4OTc5NDI1OCwxMDg5Nzk0MjU4LC0yMjQ0NDU1MzIsLT
-IwNjkxOTUzNjIsLTE3MTM1NzYyNTYsMTA4NzczNzI3NiwtMTUy
-ODIyOTQ0NSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbOTYyNTQ3MjUsLTE4NjY1MDc1NjcsLTE1OD
+g4NjA5MywtOTI1MzEzNjIxLDEzNTM4NDc0MjQsMTA4OTc5NDI1
+OCw1ODA0ODAzNzYsMTA4OTc5NDI1OCwxMDg5Nzk0MjU4LC0yMj
+Q0NDU1MzIsLTIwNjkxOTUzNjIsLTE3MTM1NzYyNTYsMTA4Nzcz
+NzI3NiwtMTUyODIyOTQ0NSwtMjA4ODc0NjYxMl19
 -->
