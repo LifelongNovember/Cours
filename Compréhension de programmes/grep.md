@@ -116,8 +116,10 @@ gnuplot-5.0.7
 ./src/qtterminal/QtGnuplotWindow.o
 (...)
 ```
+
+``` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyNjM4OTMxLDI5NTMwNzI4LDE2MDk5Nz
-Q0OTMsNjczMzM2NTg2LDE5MTkyNzY4Niw0NDMwMTg3NDcsLTcy
-NjY4ODkxOSw3NjEyNDc2NzZdfQ==
+eyJoaXN0b3J5IjpbLTEwODE2NTg4OTcsMzcyNjM4OTMxLDI5NT
+MwNzI4LDE2MDk5NzQ0OTMsNjczMzM2NTg2LDE5MTkyNzY4Niw0
+NDMwMTg3NDcsLTcyNjY4ODkxOSw3NjEyNDc2NzZdfQ==
 -->
