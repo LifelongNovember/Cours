@@ -77,8 +77,13 @@ $$ \begin{alignedat}{3}
 \text{\bf S = -1} &: \text{\bf} \ && \text{\bf [C]} \quad &&q : [ \text{\bf D} ] \\
 \text{\bf S = 0} &: \text{\bf} \ && \text{\bf [D]} \quad &&q : [ \  ] \\
  \end{alignedat}$$
+
+**MD5** :
+ * Récupérer le code,
+ * Faire le reverse,
+ * Thread
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAzMTYyNTgzLDk1MDM0OTgwOSwxNzc3OT
-QzMjE2LC03MzQyMjE1MDcsLTEzNzg2OTI1MTYsMzU0OTg0Mzcy
-LDEwMzU5NjgyODMsLTE5MzMxNjk0ODhdfQ==
+eyJoaXN0b3J5IjpbODE1MDcxMjcyLDUwMzE2MjU4Myw5NTAzND
+k4MDksMTc3Nzk0MzIxNiwtNzM0MjIxNTA3LC0xMzc4NjkyNTE2
+LDM1NDk4NDM3MiwxMDM1OTY4MjgzLC0xOTMzMTY5NDg4XX0=
 -->
