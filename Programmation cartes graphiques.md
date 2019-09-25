@@ -1,6 +1,6 @@
 # Cours
 
-> M. Ammi (ammi@limsi.fr)
+> M. Ammi (ammi@limsi.fr) Bureau A164
 
 ## Pipeline Graphique
 
@@ -152,9 +152,9 @@ $$ \vec{n_2} \cdot \vec{\Delta} = \begin{pmatrix} 4 \\ -1 \\ -2 \end{pmatrix} \c
 $$ \vec{n_3} \cdot \vec{\Delta} = \begin{pmatrix} 0 \\ 0 \\ 4 \end{pmatrix} \cdot \begin{pmatrix} 0 \\ 0 \\ -1 \end{pmatrix} = (0 + 0 -4) = -4 \implies \text{face non visible} $$
 $$ \vec{n_4} \cdot \vec{\Delta} = \begin{pmatrix} 0 \\ 4 \\ 0 \end{pmatrix} \cdot \begin{pmatrix} 0 \\ 0 \\ -1 \end{pmatrix} = (0 + 0 + 0) = 0 \implies \text{face parallele à l'axe de vue} $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MjY4NzM1NywtOTkzNzE1NDIyLC0yND
-YyODQ5MTQsMTMwMjY2MDM4MCwtMTQ3ODA2NzE2MCwtMTk3Njgy
-OTg3NCw1MzQxODU5OTQsLTIwNzAyNjg5NTAsLTMxNjk3NDc4MS
-wtMTU3OTM0MDQwMiwxNDY3MzQ2NTYzLDEyMjc5NDI3NzEsLTEw
-NzEzMTg5NjEsMTEzODY2MjcyOF19
+eyJoaXN0b3J5IjpbLTE4OTM4NzYzMzcsLTY5MjY4NzM1NywtOT
+kzNzE1NDIyLC0yNDYyODQ5MTQsMTMwMjY2MDM4MCwtMTQ3ODA2
+NzE2MCwtMTk3NjgyOTg3NCw1MzQxODU5OTQsLTIwNzAyNjg5NT
+AsLTMxNjk3NDc4MSwtMTU3OTM0MDQwMiwxNDY3MzQ2NTYzLDEy
+Mjc5NDI3NzEsLTEwNzEzMTg5NjEsMTEzODY2MjcyOF19
 -->
