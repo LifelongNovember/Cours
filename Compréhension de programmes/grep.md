@@ -1,4 +1,6 @@
-$$ \text{\LARGE \sf  Compréhension de programmes} $$ $$ \sout  \text{\large \sf  tree} \text{ \large \sf  $$
+$$ \text{\LARGE \sf  Compréhension de programmes} $$ $$ \sout  \text{\large \sf  tree} \text{ \large \sf - grep - find} $$
+
+*Antoine DENIS*$$ \text{ }$$
 
 > Trouver tous les fichiers avec une définition de _main_
 ``` bash
@@ -144,7 +146,7 @@ gnuplot-5.0.7
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NzkxMTcyMywzNzI2Mzg5MzEsMjk1Mz
+eyJoaXN0b3J5IjpbLTU5NjQ0MTk1OSwzNzI2Mzg5MzEsMjk1Mz
 A3MjgsMTYwOTk3NDQ5Myw2NzMzMzY1ODYsMTkxOTI3Njg2LDQ0
 MzAxODc0NywtNzI2Njg4OTE5LDc2MTI0NzY3Nl19
 -->
