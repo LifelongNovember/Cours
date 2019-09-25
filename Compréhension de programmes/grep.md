@@ -105,7 +105,7 @@ gnuplot-5.0.7
 ./PATCHLEVEL
 (...)
 ```
-> Trouver tous les fichier avec plus de 500000 octets
+> Trouver tous les fichier avec plus de 500 000 octets
 ``` bash
 gnuplot-5.0.7 
 [I] ➜ find . -size +500000c -type f
@@ -127,7 +127,7 @@ gnuplot-5.0.7
 1 ./PATCHLEVEL
 ```
 
->Afficher le nb de lignes de tous makefile de l'archive
+>Afficher le nb de lignes de tous les makefile de l'archive
 
 ``` bash
 gnuplot-5.0.7 
@@ -146,7 +146,8 @@ gnuplot-5.0.7
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTU4Mjg0MywzNzI2Mzg5MzEsMjk1Mz
-A3MjgsMTYwOTk3NDQ5Myw2NzMzMzY1ODYsMTkxOTI3Njg2LDQ0
-MzAxODc0NywtNzI2Njg4OTE5LDc2MTI0NzY3Nl19
+eyJoaXN0b3J5IjpbLTUxNjAxMDY0OSwtMTgxNTgyODQzLDM3Mj
+YzODkzMSwyOTUzMDcyOCwxNjA5OTc0NDkzLDY3MzMzNjU4Niwx
+OTE5Mjc2ODYsNDQzMDE4NzQ3LC03MjY2ODg5MTksNzYxMjQ3Nj
+c2XX0=
 -->
