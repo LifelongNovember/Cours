@@ -82,11 +82,11 @@ $$ \begin{alignedat}{3}
  * Récupérer le code,
  * Reverse,
  * Multithread.
-> **Clé** :  k5950e8a3355cc2db70cb5f67a62d3a
+> **Clé** :  4²²5950e8a3355cc2db70cb5f67a62d3a
 
 http://zedwood.com/article/cpp-md5-function
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDM1MjE1MzYsODE1MDcxMjcyLDUwMz
+eyJoaXN0b3J5IjpbLTE2NzM5MDUyNzEsODE1MDcxMjcyLDUwMz
 E2MjU4Myw5NTAzNDk4MDksMTc3Nzk0MzIxNiwtNzM0MjIxNTA3
 LC0xMzc4NjkyNTE2LDM1NDk4NDM3MiwxMDM1OTY4MjgzLC0xOT
 MzMTY5NDg4XX0=
