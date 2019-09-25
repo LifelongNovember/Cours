@@ -116,10 +116,14 @@ gnuplot-5.0.7
 ./src/qtterminal/QtGnuplotWindow.o
 (...)
 ```
-
-``` 
+> Trouver tous les fichiers contenant 1 seule ligne
+``` bash
+gnuplot-5.0.7 
+[I] ➜ find . -type f -exec wc -L '{}' \; | grep "^1[[:space:]]"
+1 ./PATCHLEVEL
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODE2NTg4OTcsMzcyNjM4OTMxLDI5NT
+eyJoaXN0b3J5IjpbLTE1Nzg3MzQyMTYsMzcyNjM4OTMxLDI5NT
 MwNzI4LDE2MDk5NzQ0OTMsNjczMzM2NTg2LDE5MTkyNzY4Niw0
 NDMwMTg3NDcsLTcyNjY4ODkxOSw3NjEyNDc2NzZdfQ==
 -->
