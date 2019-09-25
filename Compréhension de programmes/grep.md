@@ -1,4 +1,4 @@
-$$ \text{\LARGE \sf  Compréhension de programmes} $$ $$ \text{\large \sf  \sout{Atelier gnuplot} $$
+$$ \text{\LARGE \sf  Compréhension de programmes} $$ $$ \sout  \text{\large \sf  tree} \text{ \large \sf  $$
 
 > Trouver tous les fichiers avec une définition de _main_
 ``` bash
@@ -144,7 +144,7 @@ gnuplot-5.0.7
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDAyNTc4NjksMzcyNjM4OTMxLDI5NT
-MwNzI4LDE2MDk5NzQ0OTMsNjczMzM2NTg2LDE5MTkyNzY4Niw0
-NDMwMTg3NDcsLTcyNjY4ODkxOSw3NjEyNDc2NzZdfQ==
+eyJoaXN0b3J5IjpbLTc4NzkxMTcyMywzNzI2Mzg5MzEsMjk1Mz
+A3MjgsMTYwOTk3NDQ5Myw2NzMzMzY1ODYsMTkxOTI3Njg2LDQ0
+MzAxODc0NywtNzI2Njg4OTE5LDc2MTI0NzY3Nl19
 -->
