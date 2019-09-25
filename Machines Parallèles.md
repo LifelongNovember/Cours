@@ -80,10 +80,14 @@ $$ \begin{alignedat}{3}
 
 **MD5** :
  * Récupérer le code,
- * Faire le reverse,
- * Thread
+ * Reverse,
+ * Multithread.
+> **Clé** :  
+
+http://zedwood.com/article/cpp-md5-function
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE1MDcxMjcyLDUwMzE2MjU4Myw5NTAzND
-k4MDksMTc3Nzk0MzIxNiwtNzM0MjIxNTA3LC0xMzc4NjkyNTE2
-LDM1NDk4NDM3MiwxMDM1OTY4MjgzLC0xOTMzMTY5NDg4XX0=
+eyJoaXN0b3J5IjpbMjEyNTQxMTI2Nyw4MTUwNzEyNzIsNTAzMT
+YyNTgzLDk1MDM0OTgwOSwxNzc3OTQzMjE2LC03MzQyMjE1MDcs
+LTEzNzg2OTI1MTYsMzU0OTg0MzcyLDEwMzU5NjgyODMsLTE5Mz
+MxNjk0ODhdfQ==
 -->
